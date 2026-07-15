@@ -1,0 +1,40 @@
+---
+---
+<nav class="navbar" id="navbar">
+  <div class="container navbar-inner">
+    <a href="/" class="navbar-logo">
+      <img src="/logo.png" alt="Zeig" />
+    </a>
+
+    <div class="navbar-links" id="navbar-links">
+      <a href="https://zeig.ai/#features">Features</a>
+      <a href="https://zeig.ai/#how-it-works">How It Works</a>
+      <a href="/">Blog</a>
+      <a href="https://zeig.ai/about">About Us</a>
+      <a href="https://zeig.ai/contact">Contact</a>
+    </div>
+
+    <div class="navbar-cta">
+      <a class="btn btn-primary" href="https://zeig.ai/">
+        Get Started
+        <svg width="16" height="16" viewBox="0 0 16 16" fill="none">
+          <path d="M3.333 8h9.334M8.667 4l4 4-4 4" stroke="currentColor" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/>
+        </svg>
+      </a>
+      <button class="mobile-menu-btn" id="mobile-menu-btn" aria-label="Menu">
+        <span></span><span></span><span></span>
+      </button>
+    </div>
+  </div>
+</nav>
+
+<script>
+  const navbar = document.getElementById('navbar');
+  const onScroll = () => navbar?.classList.toggle('scrolled', window.scrollY > 20);
+  onScroll();
+  window.addEventListener('scroll', onScroll, { passive: true });
+
+  document.getElementById('mobile-menu-btn')?.addEventListener('click', () => {
+    document.getElementById('navbar-links')?.classList.toggle('open');
+  });
+</script>
