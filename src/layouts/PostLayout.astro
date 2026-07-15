@@ -1,0 +1,38 @@
+---
+import BaseLayout from './BaseLayout.astro';
+
+interface Props {
+  title: string;
+  description: string;
+  date: Date;
+  cover?: string;
+  tags: string[];
+}
+
+const { title, description, date, cover, tags } = Astro.props;
+const fmt = date.toLocaleDateString('en-US', { year: 'numeric', month: 'long', day: 'numeric' });
+---
+<BaseLayout title={`${title} — Zeig Blog`} description={description} image={cover} type="article">
+  <div class="legal-page">
+    <div class="legal-container">
+      <a href="/" class="legal-back-btn">
+        <svg width="16" height="16" viewBox="0 0 16 16" fill="none">
+          <path d="M12.667 8H3.333M7.333 4l-4 4 4 4" stroke="currentColor" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/>
+        </svg>
+        Back to Blog
+      </a>
+
+      <h1>{title}</h1>
+      <p class="legal-updated">By Zeig · {fmt}</p>
+      {cover && <img src={cover} alt={title} style="border-radius: 12px; margin: 1.5rem 0;" />}
+
+      <section class="legal-section">
+        <slot />
+      </section>
+
+      {tags.length > 0 && (
+        <p class="legal-updated" style="margin-top: 2rem;">Tags: {tags.join(', ')}</p>
+      )}
+    </div>
+  </div>
+</BaseLayout>
