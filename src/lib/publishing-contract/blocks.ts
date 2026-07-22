@@ -7,7 +7,7 @@
  */
 
 import { z } from 'zod';
-import { ORIGINS, IMAGE_SOURCES } from './taxonomy';
+import { ORIGINS } from './taxonomy';
 import { policy, isUnderApprovedRoot, hasAllowedImageFormat } from './policy';
 
 /** URL-safe slug: lowercase, hyphen-separated. */
