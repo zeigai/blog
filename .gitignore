@@ -8,3 +8,7 @@ dist/
 
 # Local design/planning docs — kept out of the repo
 docs/
+
+# Local operator context (machine-specific) — kept out of the repo
+CLAUDE.md
+.vscode/

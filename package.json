@@ -1,18 +1,24 @@
 {
   "name": "zeig-blog",
   "type": "module",
-  "version": "0.1.0",
+  "version": "0.2.0",
   "private": true,
   "scripts": {
     "dev": "astro dev",
+    "prebuild": "npm run validate:content",
     "build": "astro build",
     "preview": "astro preview",
-    "check": "astro check"
+    "check": "astro check",
+    "validate:content": "tsx scripts/validate-content.ts"
   },
   "dependencies": {
     "astro": "^5.0.0",
     "@astrojs/sitemap": "^3.2.0",
-    "@astrojs/rss": "^4.0.0"
+    "@astrojs/rss": "^4.0.0",
+    "gray-matter": "^4.0.3",
+    "image-size": "^1.2.0",
+    "tsx": "^4.19.2",
+    "zod": "^3.23.8"
   },
   "devDependencies": {
     "@astrojs/check": "^0.9.0",

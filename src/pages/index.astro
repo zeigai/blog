@@ -1,13 +1,8 @@
 ---
-import { getCollection } from 'astro:content';
 import BaseLayout from '../layouts/BaseLayout.astro';
+import { getPublishedPosts, postUrl, formatDate } from '../lib/blog';
 
-const posts = (await getCollection('blog'))
-  .filter((p) => !p.data.draft)
-  .sort((a, b) => b.data.date.valueOf() - a.data.date.valueOf());
-
-const fmt = (d: Date) =>
-  d.toLocaleDateString('en-US', { year: 'numeric', month: 'long', day: 'numeric' });
+const posts = await getPublishedPosts();
 ---
 <BaseLayout title="Zeig Blog" description="Insights, updates & market analysis from Zeig.">
   <div class="legal-page">
@@ -19,12 +14,12 @@ const fmt = (d: Date) =>
         {posts.length === 0 && <p>No posts yet. Check back soon.</p>}
         {posts.map((post) => (
           <article style="margin-bottom: 2.5rem;">
-            <p class="legal-updated" style="margin-bottom: 0.25rem;">{fmt(post.data.date)}</p>
+            <p class="legal-updated" style="margin-bottom: 0.25rem;">{formatDate(post.data.pubDate)}</p>
             <h2 style="margin-bottom: 0.5rem;">
-              <a href={`/blog/${post.id}/`}>{post.data.title}</a>
+              <a href={postUrl(post)}>{post.data.title}</a>
             </h2>
             <p>{post.data.description}</p>
-            <a class="legal-back-btn" href={`/blog/${post.id}/`} style="transform: none;">Read more &rarr;</a>
+            <a class="legal-back-btn" href={postUrl(post)} style="transform: none;">Read more &rarr;</a>
           </article>
         ))}
       </section>

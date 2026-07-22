@@ -1,9 +1,10 @@
 ---
 title: "Welcome to the Zeig Blog"
 description: "Insights on AI-powered financial analysis, market trends, and product updates."
-date: 2026-07-15
+category: product
+pubDate: 2026-07-15
+status: published
 tags: ["announcements"]
-draft: false
 ---
 
 Welcome to the Zeig blog. Here we'll share **AI-powered market analysis**, product

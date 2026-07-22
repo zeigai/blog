@@ -2,9 +2,10 @@ import rss from '@astrojs/rss';
 import { getCollection } from 'astro:content';
 
 export async function GET(context) {
+  const now = Date.now();
   const posts = (await getCollection('blog'))
-    .filter((p) => !p.data.draft)
-    .sort((a, b) => b.data.date.valueOf() - a.data.date.valueOf());
+    .filter((p) => p.data.status === 'published' && p.data.pubDate.getTime() <= now)
+    .sort((a, b) => b.data.pubDate.valueOf() - a.data.pubDate.valueOf());
 
   return rss({
     title: 'Zeig Blog',
@@ -13,8 +14,8 @@ export async function GET(context) {
     items: posts.map((post) => ({
       title: post.data.title,
       description: post.data.description,
-      pubDate: post.data.date,
-      link: `/blog/${post.id}/`,
+      pubDate: post.data.pubDate,
+      link: `/blog/${post.data.slug ?? post.id}/`,
     })),
   });
 }

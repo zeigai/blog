@@ -4,15 +4,17 @@ import BaseLayout from './BaseLayout.astro';
 interface Props {
   title: string;
   description: string;
-  date: Date;
-  cover?: string;
+  pubDate: Date;
+  coverImage?: string;
+  coverImageAlt?: string;
   tags: string[];
+  authorName: string;
 }
 
-const { title, description, date, cover, tags } = Astro.props;
-const fmt = date.toLocaleDateString('en-US', { year: 'numeric', month: 'long', day: 'numeric' });
+const { title, description, pubDate, coverImage, coverImageAlt, tags, authorName } = Astro.props;
+const fmt = pubDate.toLocaleDateString('en-US', { year: 'numeric', month: 'long', day: 'numeric' });
 ---
-<BaseLayout title={`${title} — Zeig Blog`} description={description} image={cover} type="article">
+<BaseLayout title={`${title} — Zeig Blog`} description={description} image={coverImage} type="article">
   <div class="legal-page">
     <div class="legal-container">
       <a href="/" class="legal-back-btn">
@@ -23,8 +25,8 @@ const fmt = date.toLocaleDateString('en-US', { year: 'numeric', month: 'long', d
       </a>
 
       <h1>{title}</h1>
-      <p class="legal-updated">By Zeig · {fmt}</p>
-      {cover && <img src={cover} alt={title} style="border-radius: 12px; margin: 1.5rem 0;" />}
+      <p class="legal-updated">By {authorName} · {fmt}</p>
+      {coverImage && <img src={coverImage} alt={coverImageAlt ?? title} style="border-radius: 12px; margin: 1.5rem 0;" />}
 
       <section class="legal-section">
         <slot />

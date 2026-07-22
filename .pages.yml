@@ -1,43 +1,152 @@
+# Pages CMS configuration (https://pagescms.org)
+#
+# AUTHORING-TOOL ADAPTER onto the Zeig Publishing Contract (mirrored 1:1 from
+# the VeloxOps Publishing Contract — same author form, same fields, so the same
+# people get the same editing experience on both sites). Shapes ONLY the
+# editing experience — it does not change the schema, field names, or data shape.
+# Everything it writes must satisfy src/lib/publishing-contract (enforced by
+# scripts/validate-content.ts at every build).
+#
+# DESIGN: the smallest possible author form (11 fields). Everything else is either
+# auto-derived by the site (canonical, OG, sitemap, RSS, CTA default,
+# author=Chloe) or set programmatically by Operon/Git when needed — those
+# fields are kept in the contract but are NOT declared here, so Pages CMS never
+# writes (or pollutes) them.
+#
+# Inline validation: Pages CMS supports minlength/maxlength (no regex). So the
+# Meta description (50–160) and Title (≤120) get live editor errors. Tag slug
+# rules (lowercase, no spaces) can't be enforced inline — the build validator
+# still catches them (tags are auto-normalized, they never fail the build).
+#
+# Pages CMS constraints baked in here: no dynamic "today" date default →
+# Publish date is visible; hidden fields re-apply defaults on save (#291) →
+# hidden fields are omitted (not declared with defaults), except `author` where
+# re-applying "chloe" is harmless.
+
 media:
-  input: public/uploads
-  output: /uploads
+  - name: blog-images
+    input: public/blog
+    output: /blog
+    extensions: [webp, jpg, jpeg, png]
 
 content:
-  - name: posts
+  - name: blog
     label: Blog Posts
     type: collection
     path: src/content/blog
+    # Markdown + YAML frontmatter. Filename auto-slugified from the title (Pages
+    # CMS slugifies {fields.*} automatically — no "| slugify" filter). The .md
+    # extension must be in the template.
+    format: yaml-frontmatter
     filename: '{fields.title}.md'
     view:
-      fields: [title, date, draft]
+      fields: [title, status, category, pubDate]
       primary: title
-      sort: [date]
+      sort: [pubDate, title, status]
+      default:
+        sort: pubDate
+        order: desc
     fields:
+      # ===== Visible author form (the only fields shown) =====
       - name: title
         label: Title
         type: string
         required: true
+        options:
+          maxlength: 120
       - name: description
-        label: Description
+        label: Meta description
         type: text
         required: true
-      - name: date
-        label: Date
-        type: date
+        description: "50–160 characters. Shown in Google results and link previews."
         options:
-          format: yyyy-MM-dd
+          minlength: 50
+          maxlength: 160
+      - name: category
+        label: Category
+        type: select
         required: true
-      - name: cover
-        label: Cover image
-        type: image
+        options:
+          values:
+            - { value: market-analysis, label: Market Analysis }
+            - { value: product, label: Product }
       - name: tags
         label: Tags
         type: string
         list: true
-      - name: draft
-        label: Draft
+        description: "Optional. Lowercase single words or hyphen-words, no spaces (e.g. bitcoin, technical-analysis)."
+      - name: pubDate
+        label: Publish date
+        type: date
+        required: true
+        description: "The article's date (pick today unless backdating)."
+      - name: status
+        label: Status
+        type: select
+        default: draft
+        description: "Draft while writing → Published to go live. (Saving Published rebuilds the site.)"
+        options:
+          values:
+            - { value: draft, label: Draft }
+            - { value: in_review, label: Ready for review }
+            - { value: published, label: Published }
+            - { value: archived, label: Archived }
+      - name: coverImage
+        label: Cover image
+        type: image
+        options: { media: blog-images }
+        description: "Optional. Must be EXACTLY 1200×630 px — any other size fails the publish build. webp preferred (jpg/png allowed)."
+      - name: coverImageAlt
+        label: Cover image alt text
+        type: string
+        description: "Describe the image. Required only if you add a cover."
+        options:
+          maxlength: 160
+      - name: imageSource
+        label: Image source
+        type: select
+        default: original
+        description: "How the cover image was produced."
+        options:
+          values:
+            - { value: original, label: Original (in-house) }
+            - { value: stock, label: Stock }
+            - { value: ai_generated, label: AI generated }
+      - name: imageApproved
+        label: AI image approved
         type: boolean
-        default: false
+        default: true
+        description: "Ticked by default. Applies only to AI-generated covers — untick to hold back an AI cover that is not yet approved (it then won't publish)."
       - name: body
         label: Body
         type: rich-text
+        description: "The article, in Markdown."
+
+      # ===== Hidden: public byline (always the Chloe brand identity) =====
+      - name: author
+        label: Author
+        type: select
+        hidden: true
+        default: chloe
+        options:
+          values: [chloe]
+
+      # NOTE: `imageSource` (original/stock/ai_generated) and `imageApproved` are
+      # author-visible. The contract gate still exists — ai_generated + published
+      # requires imageApproved: true (refinements.ts) — but `imageApproved`
+      # DEFAULTS TO true here, so approval is opt-OUT: an author unticks it to hold
+      # an unapproved AI cover back. Chosen for author convenience; it means AI
+      # covers publish without a deliberate approval step unless someone unticks.
+      # (To restore explicit approval, remove `default: true` from imageApproved.)
+      #
+      # All other contract fields (updatedDate, related, seo.*, cta.*,
+      # coverImageCredit, reviewer, reviewedDate, editor, approver, approvedDate,
+      # source.*, contentModelVersion, contentType) are intentionally NOT declared
+      # here. They remain in the contract and are auto-defaulted at build or set by
+      # Operon/Git. Declaring them as hidden caused Pages CMS to write junk defaults
+      # (e.g. reviewedDate = today) on save (#291), so they are omitted instead.
+      #
+      # Authors are NOT in the CMS (admin/git-managed): the `authors` collection is
+      # deliberately not declared here. Manage authors in git at
+      # src/content/authors/*.json. To add a public author, add its JSON entry AND
+      # add its slug to the `author` select above.
