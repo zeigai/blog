@@ -4,7 +4,7 @@ description: This is a test This is a test This is a test This is a test This is
   a test This is a test This is a test
 category: product
 pubDate: 2026-07-24
-status: published
+status: draft
 imageSource: original
 imageApproved: true
 author: chloe
