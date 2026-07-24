@@ -8,6 +8,7 @@ tags:
   - Financial Analysis
   - Artificial Intelligence
   - "Market Analysis "
+  - Trading Technology
 pubDate: 2026-07-24
 status: draft
 imageSource: original
