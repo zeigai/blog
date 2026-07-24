@@ -6,6 +6,7 @@ description: "Discover why the future of financial analysis is conversation, not
 category: market-analysis
 tags:
   - Financial Analysis
+  - Artificial Intelligence
 pubDate: 2026-07-24
 status: draft
 imageSource: original
