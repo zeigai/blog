@@ -81,8 +81,15 @@ The value of conversation extends beyond analysis markets. It also helps traders
 
 Picture that same morning again, but differently. Instead of six tabs, one question: what's driving the move in this name overnight. Instead of reassembling futures, news, and a chart by hand, a direct answer-grounded in the same data, structured the same way a sharp analyst would structure it, with room to ask a sharper follow-up the moment something doesn't add up.
 
-Nothing about the market got simpler. The six sources of information didn't disappear- they got synthesised into something a person could actually act on before the market moved again. That's the difference between more speed and more understanding, and it's the difference this article has been building toward the whole way through..
+Nothing about the market got simpler. The six sources of information didn't disappear- they got synthesised into something a person could actually act on before the market moved again. That's the difference between more speed and more understanding, and it's the difference this article has been building toward the whole way through.
 
 
 
  **References** 
+
+ TradingView. *Advertising & Platform Statistics.* ++[https://www.tradingview.com/advertising-info/](https://www.tradingview.com/advertising-info/)++ 
+
+U.S. Securities and Exchange Commission (SEC). *Roundtable on Options Market Structure.*++[https://www.sec.gov/files/roundtable-options-market-structure.pdf](https://www.sec.gov/files/roundtable-options-market-structure.pdf)++ 
+
+Board of Governors of the Federal Reserve System. *Information, Information Processing and Portfolio Choice*(International Finance Discussion Papers No. 1372). ++[https://www.federalreserve.gov/econres/ifdp/files/ifdp1372.pdf](https://www.federalreserve.gov/econres/ifdp/files/ifdp1372.pdf)++ 
+
