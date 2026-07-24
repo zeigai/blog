@@ -13,7 +13,7 @@ tags:
   - Zeig AI
 pubDate: 2026-07-24
 status: in_review
-coverImage: /blog/Untitled (1200 x 630 px)-2.png
+coverImage: /blog/Untitled (1200 x 630 px)-2-1.png
 coverImageAlt: Cover image for "The Future of Financial Analysis Starts with
   Conversation" article.
 imageSource: original
