@@ -24,7 +24,7 @@ It's 7 am and you're already switching tabs.
 
  Future on one screen. An economic calendar on another. Your brokers app for positions, a charting platform for structure, a news terminal for context, a group chat for whatever everyone else is reaching to before you've even had coffee. By the time you've assembled a picture of "what's happening", you've touched six different tools and the thread twice.
 
- None of those failed you. Each one does exactly what it was built to do. What none of them do is put the picture together for you.. 
+ None of those failed you. Each one does exactly what it was built to do. What none of them do is put the picture together for you.
 
  The gap between having access to everything and understanding any of it clearly is where financial analysis actually lives now. It's the problem the industry has only recently begun to tackle, because for the last decade it was busy solving a different one. 
 
