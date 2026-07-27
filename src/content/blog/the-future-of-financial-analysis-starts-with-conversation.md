@@ -12,7 +12,7 @@ tags:
   - Conversational AI
   - Zeig AI
 pubDate: 2026-07-24
-status: in_review
+status: published
 coverImage: /blog/Untitled (1200 x 630 px)-2-1.png
 coverImageAlt: Cover image for "The Future of Financial Analysis Starts with
   Conversation" article.
