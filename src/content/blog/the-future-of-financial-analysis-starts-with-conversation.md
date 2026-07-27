@@ -94,5 +94,5 @@ Nothing about the market got simpler. The six sources of information didn't disa
 
 U.S. Securities and Exchange Commission (SEC). Roundtable on Options Market Structure.[https://www.sec.gov/files/roundtable-options-market-structure.pdf](https://www.sec.gov/files/roundtable-options-market-structure.pdf)
 
-Board of Governors of the Federal Reserve System. Information, Information Processing and Portfolio Choice*(International Finance Discussion Papers No. 1372). [https://www.federalreserve.gov/econres/ifdp/files/ifdp1372.pdf](https://www.federalreserve.gov/econres/ifdp/files/ifdp1372.pdf)
+Board of Governors of the Federal Reserve System. Information, Information Processing and Portfolio Choice (International Finance Discussion Papers No. 1372). [https://www.federalreserve.gov/econres/ifdp/files/ifdp1372.pdf](https://www.federalreserve.gov/econres/ifdp/files/ifdp1372.pdf)
 
