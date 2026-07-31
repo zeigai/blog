@@ -137,7 +137,7 @@ The future of investing won't belong to the people with the most data. It will b
 
 Trade with your AI team. That's what Zeig makes possible. 
 
-## Sources.
+## Sources 
 
 - **Gallup.** *What Percentage of Americans Own Stock?* (Updated May 2025). [https://news.gallup.com/poll/266807/percentage-americans-own-stock.aspx](https://news.gallup.com/poll/266807/percentage-americans-own-stock.aspx)
 - **World Economic Forum.** *New study finds financial education gaps are primary barrier to retail investing in capital markets.* (2022). [https://www.weforum.org/press/2022/08/new-study-finds-financial-education-gaps-are-primary-barrier-to-retail-investing-in-capital-markets/](https://www.weforum.org/press/2022/08/new-study-finds-financial-education-gaps-are-primary-barrier-to-retail-investing-in-capital-markets/)
