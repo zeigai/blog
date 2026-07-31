@@ -11,7 +11,7 @@ tags:
   - Investment Research
   - Financial Technology
 pubDate: 2026-07-31
-status: draft
+status: in_review
 coverImage: /blog/Untitled (1200 x 630 px)-2-2.png
 coverImageAlt: "Illustration of Zeig's AI team concept, showing multiple AI
   specialists working together to deliver a single market conclusion for
