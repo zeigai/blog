@@ -50,3 +50,8 @@ Institutional investment research shouldn't depend on where you work. It should 
 
 That's Zeig. 
 
+What it feels like to trade with your AI team 
+
+
+
+&nbsp;
