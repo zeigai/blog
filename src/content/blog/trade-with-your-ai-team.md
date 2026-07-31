@@ -5,6 +5,7 @@ description: "Discover how Zeig's AI team helps trades understand financial
 category: product
 tags:
   - Zeig
+  - Artificial Intelligence
 pubDate: 2026-07-31
 status: draft
 imageSource: original
