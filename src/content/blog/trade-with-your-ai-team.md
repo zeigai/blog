@@ -16,3 +16,5 @@ imageSource: original
 imageApproved: true
 author: chloe
 ---
+Trade With Your AI Team
+
