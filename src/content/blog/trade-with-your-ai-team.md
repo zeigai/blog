@@ -87,6 +87,26 @@ And unlike any human team, it keeps getting better. Every analysis is another op
 
 This is what it means to trade with your AI team. Not one that leaves you to interpret data alone. One that analyses, contextualises, and reaches a conclusion-whenever you need it, and before you think to ask. 
 
+The gap it closes
+
+58% of Americans now own stock. Entering financial markets became easy. Understanding them didn't. 
+
+The industry gave everyone access to data. It never gave everyone access to professional-grade understanding. 
+
+That's the gap Zeig closes-not simplifying the analysis, but by carrying the complexity instead of handling it to the person using it. The rigour stays. The barrier disappears. 
+
+Who this team works for 
+
+Here's what this isn't : a beginner's tool with training wheels.
+
+Zeig is built for anyone who wants professional-grade market intelligence-whether you're placing your first trade or managing an active portfolio. 
+
+The experienced trader who knows exactly what MACD divergence means doesn't need Zeig to explain it. They need their research desk to identify it across every position there watching, flag it in real time, and deliver the full picture without the manual workflow that currently takes hours. 
+
+The first-time investor who just watched their portfolio move and was no idea why doesn't need more data. They need their analyst team to tell them what it means- clearly, immediately, without requiring years of training to follow. 
+
+Same intelligence. Same rigour. For everyone. 
+
 
 
 &nbsp;
