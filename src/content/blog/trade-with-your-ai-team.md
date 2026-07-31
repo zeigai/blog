@@ -16,7 +16,7 @@ imageSource: original
 imageApproved: true
 author: chloe
 ---
-Trade With Your AI Team
+# **Trade With Your AI Team**
 
 Getting into the market has never been easier. Understanding it never got easier at all.
 
@@ -34,7 +34,7 @@ Because you lost confidence.
 
 For decades, having an investment team working on your behalf was a privilege reserved for institutions. Zeig is built on the idea that it shouldn't be. 
 
-What Zeig actually is 
+## **What Zeig actually is** 
 
 Zeig isn't another finance app. It isn't another AI chatbot. 
 
@@ -50,7 +50,7 @@ Institutional investment research shouldn't depend on where you work. It should 
 
 That's Zeig. 
 
-What it feels like to trade with your AI team 
+## **What it feels like to trade with your AI team** 
 
 At 2:43 am, while you're asleep, the Bank of Japan surprises markets. The yen spikes Bond yields move. Equity futures fall. 
 
@@ -70,16 +70,16 @@ By the time you've finished your first coffee, you've gone from reacting to unde
 
 Or imagine this. A company you've been watching drops sharply after the open. Instead of spending an hour across three platforms- pulling the chart, scanning headlines, checking sector performance-you ask one question.
 
-You: Why is this stock down today?
+**You:** Why is this stock down today?
 
-Zeig: The stock is down 4.2%, but the headline move doesn't tell the full story. 
+**Zeig:** The stock is down 4.2%, but the headline move doesn't tell the full story. 
 
 - Macro headwinds: Treasury yields spiked overnight following stronger than expected jobs data, pressuring growth stocks broadly
 - Technical breakdown: Price has broken below the 50-day moving average on elevated volume-a level that has held as support for six months 
 - Sector contagion: The broader sector is down 2.1%, suggesting this isn't company-specific.
 - Options activity: Unusual put activity in the days before the move suggests some institutional positioning ahead of today
 
-Our assessment: This looks like macro and technical pressure rather than a fundamental deterioration. The next key support level is $47.20. A close below that would change the picture. 
+**Our assessment:** This looks like macro and technical pressure rather than a fundamental deterioration. The next key support level is $47.20. A close below that would change the picture. 
 
 In six seconds, you understand not just what happened-but what it means. That's not a search engine. That's an AI team that has already reached a conclusion before you've finished reading the question. 
 
@@ -87,7 +87,7 @@ And unlike any human team, it keeps getting better. Every analysis is another op
 
 This is what it means to trade with your AI team. Not one that leaves you to interpret data alone. One that analyses, contextualises, and reaches a conclusion-whenever you need it, and before you think to ask. 
 
-The gap it closes
+## **The gap it closes**
 
 58% of Americans now own stock. Entering financial markets became easy. Understanding them didn't. 
 
@@ -95,7 +95,7 @@ The industry gave everyone access to data. It never gave everyone access to prof
 
 That's the gap Zeig closes-not simplifying the analysis, but by carrying the complexity instead of handling it to the person using it. The rigour stays. The barrier disappears. 
 
-Who this team works for 
+## **Who this team works for** 
 
 Here's what this isn't : a beginner's tool with training wheels.
 
@@ -107,7 +107,7 @@ The first-time investor who just watched their portfolio move and was no idea wh
 
 Same intelligence. Same rigour. For everyone. 
 
-Where the AI team is going
+## **Where the AI team is going**
 
 Today, Zeig helps traders analyse markets, understand price action and explore trade ideas through natural conversation and professional-grade analysis 
 
@@ -119,7 +119,7 @@ Eventually, Zeig becomes the operating system through which millions of people i
 
 For decades, investors adapted themselves to the limitations of financial software. We think the software should adapt to the investor. That's what Zeig is building. 
 
-The future worth building
+## **The future worth building**
 
 Every major shift in financial markets expanded what people could do.
 
@@ -137,7 +137,7 @@ The future of investing won't belong to the people with the most data. It will b
 
 Trade with your AI team. That's what Zeig makes possible. 
 
-## Sources
+## Sources.
 
 - **Gallup.** *What Percentage of Americans Own Stock?* (Updated May 2025). [https://news.gallup.com/poll/266807/percentage-americans-own-stock.aspx](https://news.gallup.com/poll/266807/percentage-americans-own-stock.aspx)
 - **World Economic Forum.** *New study finds financial education gaps are primary barrier to retail investing in capital markets.* (2022). [https://www.weforum.org/press/2022/08/new-study-finds-financial-education-gaps-are-primary-barrier-to-retail-investing-in-capital-markets/](https://www.weforum.org/press/2022/08/new-study-finds-financial-education-gaps-are-primary-barrier-to-retail-investing-in-capital-markets/)
