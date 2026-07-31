@@ -101,7 +101,7 @@ Here's what this isn't : a beginner's tool with training wheels.
 
 Zeig is built for anyone who wants professional-grade market intelligence-whether you're placing your first trade or managing an active portfolio. 
 
-The experienced trader who knows exactly what MACD divergence means doesn't need Zeig to explain it. They need their research desk to identify it across every position there watching, flag it in real time, and deliver the full picture without the manual workflow that currently takes hours. 
+The experienced trader who knows exactly what MACD divergence means doesn't need Zeig to explain it. They need their research desk to identify it across every position they're watching, flag it in real time, and deliver the full picture without the manual workflow that currently takes hours. 
 
 The first-time investor who just watched their portfolio move and was no idea why doesn't need more data. They need their analyst team to tell them what it means- clearly, immediately, without requiring years of training to follow. 
 
