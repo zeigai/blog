@@ -6,6 +6,7 @@ category: product
 tags:
   - Zeig
   - Artificial Intelligence
+  - "Financial Analysis "
 pubDate: 2026-07-31
 status: draft
 imageSource: original
