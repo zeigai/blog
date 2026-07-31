@@ -77,5 +77,16 @@ Zeig: The stock is down 4.2%, but the headline move doesn't tell the full story.
 - Macro headwinds: Treasury yields spiked overnight following stronger than expected jobs data, pressuring growth stocks broadly
 - Technical breakdown: Price has broken below the 50-day moving average on elevated volume-a level that has held as support for six months 
 - Sector contagion: The broader sector is down 2.1%, suggesting this isn't company-specific.
-- Options activity: Unusual put activity in the days before 
+- Options activity: Unusual put activity in the days before the move suggests some institutional positioning ahead of today
 
+Our assessment: This looks like macro and technical pressure rather than a fundamental deterioration. The next key support level is $47.20. A close below that would change the picture. 
+
+In six seconds, you understand not just what happened-but what it means. That's not a search engine. That's an AI team that has already reached a conclusion before you've finished reading the question. 
+
+And unlike any human team, it keeps getting better. Every analysis is another opportunity to improve. As markets evolve and outcomes become known, Zeig continuously refines how it weighs evidence- a research capability that learns, adapts, and sharpens over time. 
+
+This is what it means to trade with your AI team. Not one that leaves you to interpret data alone. One that analyses, contextualises, and reaches a conclusion-whenever you need it, and before you think to ask. 
+
+
+
+&nbsp;
