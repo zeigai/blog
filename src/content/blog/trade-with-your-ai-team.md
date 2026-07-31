@@ -12,6 +12,7 @@ tags:
   - Financial Technology
 pubDate: 2026-07-31
 status: draft
+coverImage: /blog/Untitled (1200 x 630 px)-2-2.png
 imageSource: original
 imageApproved: true
 author: chloe
