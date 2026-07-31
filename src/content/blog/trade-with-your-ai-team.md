@@ -36,3 +36,17 @@ For decades, having an investment team working on your behalf was a privilege re
 
 What Zeig actually is 
 
+Zeig isn't another finance app. It isn't another AI chatbot. 
+
+It's the world's first AI investment team. 
+
+Zeig synthesises the work that would traditionally be spread across multiple research disciplines-macro strategy, technical analysis, news flow, sector context- and reaches a single, unified conclusion. 
+
+That's the difference. Most AI tools give you information. Zeig gives you a conclusion. After weighing technicals, macro context, news flow and price action, Zeig doesn't hand you data to interpret. It tells you what it means. 
+
+Every trader deserves a team that works that way. Zeig is the first one built to deliver it. 
+
+Institutional investment research shouldn't depend on where you work. It should depend on the quality of the technology you use.
+
+That's Zeig. 
+
