@@ -18,3 +18,4 @@ author: chloe
 ---
 Trade With Your AI Team
 
+Getting into the market has never been easier. Understanding it never got 
