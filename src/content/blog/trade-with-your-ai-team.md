@@ -34,3 +34,5 @@ Because you lost confidence.
 
 For decades, having an investment team working on your behalf was a privilege reserved for institutions. Zeig is built on the idea that it shouldn't be. 
 
+What Zeig actually is 
+
