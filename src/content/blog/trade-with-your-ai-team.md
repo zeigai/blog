@@ -107,6 +107,38 @@ The first-time investor who just watched their portfolio move and was no idea wh
 
 Same intelligence. Same rigour. For everyone. 
 
+Where the AI team is going
 
+Today, Zeig helps traders analyse markets, understand price action and explore trade ideas through natural conversation and professional-grade analysis 
+
+Tomorrow, your autonomous research platform will monitor every position you hold, every market you care about, every development that could change the picture-continuously, without being asked. 
+
+The next stage is broker-integrated execution-routing traders directly from insight to action, in one place, without switching platforms. 
+
+Eventually, Zeig becomes the operating system through which millions of people interact with financial markets- researching, monitoring, deciding, and executing with the same quality of intelligence that institutions have always had and everyone else has always been denied. 
+
+For decades, investors adapted themselves to the limitations of financial software. We think the software should adapt to the investor. That's what Zeig is building. 
+
+The future worth building
+
+Every major shift in financial markets expanded what people could do.
+
+Electronic trading made markets faster. Online brokerages made them affordable. Mobile technology made them convenient. 
+
+The next shift will be defined by something the industry hasn't solved yet: understanding. Not how many people can access financial markets-but how many people can truly participate in them, with the same intelligence, the same rigour, and the same confidence that institutions have always taken for granted. 
+
+Imagine opening one application each morning. Your research is waiting. Your watchlist has already been analysed. Your questions already have answers. When you're ready to act, your broker is already connected. 
+
+An AI team working for you. Before you even ask. 
+
+The future of investing won't belong to the people with the most data≥ It will belong to the people who understands it best. 
+
+The future of investing won't belong to the people with the most data. It will belong to the people who understand it best. 
+
+Trade with your AI team. That's what Zeig make possible. 
+
+
+
+&nbsp;
 
 &nbsp;
