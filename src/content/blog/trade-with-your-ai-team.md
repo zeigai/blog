@@ -52,6 +52,30 @@ That's Zeig.
 
 What it feels like to trade with your AI team 
 
+At 2:43 am, while you're asleep, the Bank of Japan surprises markets. The yen spikes Bond yields move. Equity futures fall. 
 
+Before your alarm goes off, Zeig has already analysed the event, assessed its impact on your watchlist, and prepared a briefing waiting for you when you wake. 
 
-&nbsp;
+Your AI team was already working before you opened your eyes. 
+
+It's 6 am. Your first coffee is brewing. Markets have already been awake for hours.
+
+An inflation report dropped overnight. Bond markets moved. Equities are reacting before the open.
+
+You open Zeig and ask one question: "How does today's inflation report change the outlook for US equities?" 
+
+Within seconds, Zeig has assessed the macro implications, reviewed the technical picture, contextualised the move against historical precedents, and returned one clear conclusion- not a list of data points, but a view. What happened. Why it matters. What traders are watching next. 
+
+By the time you've finished your first coffee, you've gone from reacting to understanding. 
+
+Or imagine this. A company you've been watching drops sharply after the open. Instead of spending an hour across three platforms- pulling the chart, scanning headlines, checking sector performance-you ask one question.
+
+You: Why is this stock down today?
+
+Zeig: The stock is down 4.2%, but the headline move doesn't tell the full story. 
+
+- Macro headwinds: Treasury yields spiked overnight following stronger than expected jobs data, pressuring growth stocks broadly
+- Technical breakdown: Price has broken below the 50-day moving average on elevated volume-a level that has held as support for six months 
+- Sector contagion: The broader sector is down 2.1%, suggesting this isn't company-specific.
+- Options activity: Unusual put activity in the days before 
+
