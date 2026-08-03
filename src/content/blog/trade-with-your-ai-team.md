@@ -24,7 +24,7 @@ author: chloe
 
 Getting into the market has never been easier. Understanding it never got easier at all.
 
-Yesterday it moved 4% 
+Yesterday it moved 4%.
 
 You have no idea why.
 
