@@ -11,7 +11,7 @@ tags:
   - Investment Research
   - Financial Technology
 pubDate: 2026-07-31
-status: in_review
+status: published
 coverImage: /blog/Untitled (1200 x 630 px)-2-2.png
 coverImageAlt: "Illustration of Zeig's AI team concept, showing multiple AI
   specialists working together to deliver a single market conclusion for
@@ -38,7 +38,7 @@ Because you lost confidence.
 
 For decades, having an investment team working on your behalf was a privilege reserved for institutions. Zeig is built on the idea that it shouldn't be. 
 
-## **What Zeig actually is** 
+## **What Zeig actually is**
 
 Zeig isn't another finance app. It isn't another AI chatbot. 
 
@@ -54,7 +54,7 @@ Institutional investment research shouldn't depend on where you work. It should 
 
 That's Zeig. 
 
-## **What it feels like to trade with your AI team** 
+## **What it feels like to trade with your AI team**
 
 At 2:43 am, while you're asleep, the Bank of Japan surprises markets. The yen spikes Bond yields move. Equity futures fall. 
 
@@ -99,7 +99,7 @@ The industry gave everyone access to data. It never gave everyone access to prof
 
 That's the gap Zeig closes-not simplifying the analysis, but by carrying the complexity instead of handling it to the person using it. The rigour stays. The barrier disappears. 
 
-## **Who this team works for** 
+## **Who this team works for**
 
 Here's what this isn't : a beginner's tool with training wheels.
 
@@ -141,7 +141,7 @@ The future of investing won't belong to the people with the most data. It will b
 
 Trade with your AI team. That's what Zeig makes possible. 
 
-## Sources 
+## Sources
 
 - **Gallup.** *What Percentage of Americans Own Stock?* (Updated May 2025). [https://news.gallup.com/poll/266807/percentage-americans-own-stock.aspx](https://news.gallup.com/poll/266807/percentage-americans-own-stock.aspx)
 - **World Economic Forum.** *New study finds financial education gaps are primary barrier to retail investing in capital markets.* (2022). [https://www.weforum.org/press/2022/08/new-study-finds-financial-education-gaps-are-primary-barrier-to-retail-investing-in-capital-markets/](https://www.weforum.org/press/2022/08/new-study-finds-financial-education-gaps-are-primary-barrier-to-retail-investing-in-capital-markets/)
