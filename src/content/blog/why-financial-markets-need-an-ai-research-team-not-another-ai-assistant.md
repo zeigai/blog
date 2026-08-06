@@ -6,6 +6,7 @@ description: "Financial markets need more than AI assistants. Discover why AI
 category: product
 tags:
   - Artificial Intelligence
+  - Financial Markets
 pubDate: 2026-08-06
 status: draft
 imageSource: original
