@@ -88,8 +88,8 @@ So why do we expect on AI model to ?
 
 The edge institutions have is not better data. Every serious trader has access to the same prices, the same charts, the same news feeds. The edge is process. Coordinated, multi - disciplinary, conclusion - driven process - where multiple perspectives are synthesised into a single view. 
 
+When a macro strategist 
 
 
-&nbsp;
 
 &nbsp;
