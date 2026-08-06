@@ -76,7 +76,7 @@ By the time your alarm rings, the question has already changed. It is no longer:
 
 The  transition - from event to meaning, across multiple connected markets - is precisely what an assistant is not built to make. Not because it lacks intelligence. Because it lacks the structure financial markets demand. 
 
-Why financial markets require multiple perspectives 
+## Why financial markets require multiple perspectives 
 
 Markets are too complex for one perspective. They always have been. 
 
