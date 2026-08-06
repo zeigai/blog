@@ -46,6 +46,8 @@ Every trader knows that feeling. The market moves. You open five tabs. Thirty mi
 
 That is not an information problem. That is understanding problem. And building faster assistants does not solve it - because the problem was never speed or access. The problem is what financial markets actually are. 
 
+## Why financial markets are unlike every other domain 
+
 
 
 &nbsp;
