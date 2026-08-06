@@ -8,6 +8,7 @@ tags:
   - Artificial Intelligence
   - Financial Markets
   - AI Research
+  - Market Analysis
 pubDate: 2026-08-06
 status: draft
 imageSource: original
