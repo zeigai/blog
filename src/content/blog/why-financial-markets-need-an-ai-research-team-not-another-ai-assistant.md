@@ -62,3 +62,18 @@ No single perspective can explain that. Understanding financial markets has alwa
 
 AI should be built the same way. 
 
+## Why assistants fail financial markets
+
+An AI assistants is reactive by design. It responds to what you ask, when you ask it. It answers the question in front of it and waits for the next one. 
+
+That model of interaction was never quite right for markets that move whether or not you asking. 
+
+At 2:43am, the Bank of Japan surprises markets. Bond yields jump. Equity futures fall. Currencies reprice across every major pair. While you're asleep, financial markets are already drawing new conclusions - across instruments, across sectors, across geographies. 
+
+An assistant waits for your question. Financial markets don't wait for anyone. 
+
+By the time your alarm rings, the question has already changed. It is no longer: what happened? It is: what does it mean - for the positions I hold, the sectors I watch, the thesis I've built? 
+
+
+
+&nbsp;
