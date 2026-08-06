@@ -9,6 +9,7 @@ tags:
   - Financial Markets
   - AI Research
   - Market Analysis
+  - Investment Research
 pubDate: 2026-08-06
 status: draft
 imageSource: original
