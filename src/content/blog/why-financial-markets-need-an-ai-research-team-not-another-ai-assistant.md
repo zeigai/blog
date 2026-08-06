@@ -20,3 +20,11 @@ imageSource: original
 imageApproved: true
 author: chloe
 ---
+Every week, a new AI assistant promises to help traders make better decisions. 
+
+Yet after years of rapid innovation, financial markets still face the same problem. 
+
+Noe access to information. Not speed of data. Understanding. 
+
+Financial markets are one of the few domains where the quality of a conclusion depends on combining multiple disciplines - not simply answering individual questions. That is the reason AI assistants, however capable, have not closed the gap. And it is the reason the next generation of financial AI will look fundamentally different from everything built so far. 
+
