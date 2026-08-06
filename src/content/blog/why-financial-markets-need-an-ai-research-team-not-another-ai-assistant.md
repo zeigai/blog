@@ -76,6 +76,20 @@ By the time your alarm rings, the question has already changed. It is no longer:
 
 The  transition - from event to meaning, across multiple connected markets - is precisely what an assistant is not built to make. Not because it lacks intelligence. Because it lacks the structure financial markets demand. 
 
+Why financial markets require multiple perspectives 
 
+Markets are too complex for one perspective. They always have been. 
+
+That's why institutional research was never built around one analyst. It was built around specialists. Walk onto an institutional trading floors and you won't find a single expert making every call. You'll find economists, technical analysts, macro strategists, sector specialists and risk managers - each approaching the same market from a different angle, each contributing a layer the others can't provide. 
+
+We don't expect one human analyst to be an economist, technical analyst, macro strategist, news specialist and risk manager simultaneously. 
+
+So why do we expect on AI model to ?
+
+The edge institutions have is not better data. Every serious trader has access to the same prices, the same charts, the same news feeds. The edge is process. Coordinated, multi - disciplinary, conclusion - driven process - where multiple perspectives are synthesised into a single view. 
+
+
+
+&nbsp;
 
 &nbsp;
