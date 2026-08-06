@@ -10,6 +10,7 @@ tags:
   - AI Research
   - Market Analysis
   - Investment Research
+  - Trading
 pubDate: 2026-08-06
 status: draft
 imageSource: original
