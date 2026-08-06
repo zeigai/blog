@@ -13,6 +13,7 @@ tags:
   - Trading
   - Financial Technology
   - Technical Analysis
+  - Zeig
 pubDate: 2026-08-06
 status: draft
 imageSource: original
