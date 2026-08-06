@@ -54,3 +54,11 @@ They are a continuous stream of interconnected events.
 
 A central bank decision changes currencies. Currencies affect commodity prices. Commodities influence inflation expectations. Inflation changes interest - rate forecasts. Interest rates move equities. Equities affect sentiment. Sentiment shifts positioning. Positioning changes how the next piece of news lands. 
 
+Every developments creates a chain reaction across multiple markets, multiple asset classes, multiple timeframes - simultaneously. 
+
+Financial markets aren't static. Financial markets don't wait. Financial markets aren't driven by one variable. Financial markets reward synthesis, not isolated answers. 
+
+No single perspective can explain that. Understanding financial markets has always required specialists working together - each bringing a different discipline, each contributing a different layer of understanding, before anyone reaches a view. 
+
+AI should be built the same way. 
+
