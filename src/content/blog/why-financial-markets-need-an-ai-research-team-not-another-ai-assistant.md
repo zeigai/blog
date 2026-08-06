@@ -72,7 +72,9 @@ At 2:43am, the Bank of Japan surprises markets. Bond yields jump. Equity futures
 
 An assistant waits for your question. Financial markets don't wait for anyone. 
 
-By the time your alarm rings, the question has already changed. It is no longer: what happened? It is: what does it mean - for the positions I hold, the sectors I watch, the thesis I've built? 
+By the time your alarm rings, the question has already changed. It is no longer: *what happened? It is: what does it mean - for the positions I hold, the sectors I watch, the thesis I've built?* 
+
+The  transition - from event to meaning, across multiple connected markets - is precisely what an assistant is not built to make. Not because it lacks intelligence. Because it lacks the structure financial markets demand. 
 
 
 
