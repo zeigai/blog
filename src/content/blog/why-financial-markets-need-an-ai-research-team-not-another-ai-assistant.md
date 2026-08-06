@@ -11,6 +11,7 @@ tags:
   - Market Analysis
   - Investment Research
   - Trading
+  - Financial Technology
 pubDate: 2026-08-06
 status: draft
 imageSource: original
