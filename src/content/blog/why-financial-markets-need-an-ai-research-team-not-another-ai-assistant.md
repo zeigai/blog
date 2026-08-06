@@ -94,7 +94,11 @@ Financial markets reward synthesis. The quality of a conclusion depends on how m
 
 An assistant answers questions. A research team reaches conclusions. 
 
+Why 
 
+
+
+&nbsp;
 
 &nbsp;
 
