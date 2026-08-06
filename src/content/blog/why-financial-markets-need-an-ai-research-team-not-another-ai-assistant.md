@@ -32,6 +32,10 @@ Financial markets are one of the few domains where the quality of a conclusion d
 
 Everything that follows is an argument for why financial markets specifically require the second one. 
 
+The questions nobody challenged
 
+
+
+&nbsp;
 
 &nbsp;
