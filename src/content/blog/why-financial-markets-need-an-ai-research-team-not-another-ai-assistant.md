@@ -32,7 +32,7 @@ Financial markets are one of the few domains where the quality of a conclusion d
 
 Everything that follows is an argument for why financial markets specifically require the second one. 
 
-## The questions nobody challenged
+## **The questions nobody challenged**
 
 Professional access to financial information has been improving has been improving for decades. Data became faster. Charts became better. News became instant. 
 
@@ -46,7 +46,7 @@ Every trader knows that feeling. The market moves. You open five tabs. Thirty mi
 
 That is not an information problem. That is understanding problem. And building faster assistants does not solve it - because the problem was never speed or access. The problem is what financial markets actually are. 
 
-## Why financial markets are unlike every other domain 
+## **Why financial markets are unlike every other domain** 
 
 Financial markets aren't a collection of isolated questions.
 
@@ -62,7 +62,7 @@ No single perspective can explain that. Understanding financial markets has alwa
 
 AI should be built the same way. 
 
-## Why assistants fail financial markets
+## **Why assistants fail financial markets**
 
 An AI assistants is reactive by design. It responds to what you ask, when you ask it. It answers the question in front of it and waits for the next one. 
 
@@ -76,7 +76,7 @@ By the time your alarm rings, the question has already changed. It is no longer:
 
 The  transition - from event to meaning, across multiple connected markets - is precisely what an assistant is not built to make. Not because it lacks intelligence. Because it lacks the structure financial markets demand. 
 
-## Why financial markets require multiple perspectives 
+## **Why financial markets require multiple perspectives** 
 
 Markets are too complex for one perspective. They always have been. 
 
@@ -94,7 +94,7 @@ Financial markets reward synthesis. The quality of a conclusion depends on how m
 
 An assistant answers questions. A research team reaches conclusions. 
 
-## Why one model is never enough 
+## **Why one model is never enough** 
 
 Most AI tools applied to financial markets are built on single model doing its best with a general capability. 
 
@@ -108,7 +108,7 @@ Building a single smarter model does not change this. Financial markets don't ne
 
 The industry has spent years scaling one approach. The next generation requires the other one. 
 
-## The first generation and the next 
+## **The first generation and the next** 
 
 The first generation of financial AI gave us assistants. 
 
@@ -124,7 +124,7 @@ Financial markets don't need better answers. They need better thinking.
 
 That architecture is what Zeig has built. 
 
-## The right question, finally
+## **The right question, finally**
 
 One day, asking a single AI model for financial market analysis will feel as limited as expecting one analyst to run an entire institutional research desk alone. 
 
@@ -140,10 +140,13 @@ Trade with your AI team.
 
 
 
-&nbsp;
+## **Sources**
 
-&nbsp;
+1. **Gallup.** *What Percentage of Americans Own Stock?* (Updated May 2025).  
+[https://news.gallup.com/poll/266807/percentage-americans-own-stock.aspx](https://news.gallup.com/poll/266807/percentage-americans-own-stock.aspx)
+2. **World Economic Forum.** *New study finds financial education gaps are primary barrier to retail investing in capital markets.* (2022).  
+[https://www.weforum.org/press/2022/08/new-study-finds-financial-education-gaps-are-primary-barrier-to-retail-investing-in-capital-markets/](https://www.weforum.org/press/2022/08/new-study-finds-financial-education-gaps-are-primary-barrier-to-retail-investing-in-capital-markets/)
 
-&nbsp;
+
 
 &nbsp;
