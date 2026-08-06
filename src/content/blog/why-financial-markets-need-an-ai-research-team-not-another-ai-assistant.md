@@ -32,12 +32,16 @@ Financial markets are one of the few domains where the quality of a conclusion d
 
 Everything that follows is an argument for why financial markets specifically require the second one. 
 
-The questions nobody challenged
+## The questions nobody challenged
 
 Professional access to financial information has been improving has been improving for decades. Data became faster. Charts became better. News became instant. 
 
+And yet the gap between how institutions analyse markets and how everyone else does remained stubbornly wide. 
+
+The industry's response was to ask: how do we make information easier to access? The answer was assistants. Chatbots. Tools that respond when you speak to them and stay quiet when you don't. 
+
+It was a reasonable answer. It was also the wrong question. 
 
 
-&nbsp;
 
 &nbsp;
