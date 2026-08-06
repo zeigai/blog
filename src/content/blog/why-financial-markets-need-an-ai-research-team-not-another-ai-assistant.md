@@ -110,6 +110,22 @@ The industry has spent years scaling one approach. The next generation requires 
 
 ## The first generation and the next 
 
+The first generation of financial AI gave us assistants. 
+
+The next generation will give us research teams. 
+
+This is not a product decision. It is a logical consequence of what financial markets actually require. The architecture of the tool should reflect the nature of the domain - and financial markets are fundamentally multi - disciplinary. They cannot be understood through a single perspective, so they should not be analysed by a single AI model. 
+
+Ai assistants were meaningful step. They made analysis more accessible and information more digestible. But they were built around a question and answer model that was never quite right for markets that generate complexity continuously, across multiple dimensions, whether anyone is asking or not.
+
+The next architecture is different. Not question and answer. Coordinated specialist analysis, working in parallel, synthesising across disciplines, reaching a conclusion before you think to ask. 
+
+Financial markets don't need better answers. They need better thinking. 
+
+That architecture is what Zeig has built. 
+
+The right question, finally
+
 
 
 &nbsp;
