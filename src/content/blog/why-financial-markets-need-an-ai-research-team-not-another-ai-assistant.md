@@ -12,6 +12,7 @@ tags:
   - Investment Research
   - Trading
   - Financial Technology
+  - Technical Analysis
 pubDate: 2026-08-06
 status: draft
 imageSource: original
