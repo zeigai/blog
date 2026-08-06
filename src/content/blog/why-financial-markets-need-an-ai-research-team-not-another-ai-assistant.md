@@ -48,6 +48,9 @@ That is not an information problem. That is understanding problem. And building 
 
 ## Why financial markets are unlike every other domain 
 
+Financial markets aren't a collection of isolated questions.
 
+They are a continuous stream of interconnected events. 
 
-&nbsp;
+A central bank decision changes currencies. Currencies affect commodity prices. Commodities influence inflation expectations. Inflation changes interest - rate forecasts. Interest rates move equities. Equities affect sentiment. Sentiment shifts positioning. Positioning changes how the next piece of news lands. 
+
