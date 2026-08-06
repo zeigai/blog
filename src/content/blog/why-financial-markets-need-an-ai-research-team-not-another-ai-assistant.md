@@ -7,6 +7,7 @@ category: product
 tags:
   - Artificial Intelligence
   - Financial Markets
+  - AI Research
 pubDate: 2026-08-06
 status: draft
 imageSource: original
