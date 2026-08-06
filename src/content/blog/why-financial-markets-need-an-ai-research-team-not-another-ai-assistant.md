@@ -94,7 +94,7 @@ Financial markets reward synthesis. The quality of a conclusion depends on how m
 
 An assistant answers questions. A research team reaches conclusions. 
 
-Why one model is never enough 
+## Why one model is never enough 
 
 Most AI tools applied to financial markets are built on single model doing its best with a general capability. 
 
@@ -108,9 +108,9 @@ Building a single smarter model does not change this. Financial markets don't ne
 
 The industry has spent years scaling one approach. The next generation requires the other one. 
 
+## The first generation and the next 
 
 
-&nbsp;
 
 &nbsp;
 
