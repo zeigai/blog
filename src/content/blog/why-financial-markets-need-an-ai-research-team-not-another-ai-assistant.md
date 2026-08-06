@@ -42,6 +42,10 @@ The industry's response was to ask: how do we make information easier to access?
 
 It was a reasonable answer. It was also the wrong question. 
 
+Every trader knows that feeling. The market moves. You open five tabs. Thirty minutes later, you know more than you did before. But you still don't know what matters. 
+
+That is not an information problem. That is understanding problem. And building faster assistants does not solve it - because the problem was never speed or access. The problem is what financial markets actually are. 
+
 
 
 &nbsp;
