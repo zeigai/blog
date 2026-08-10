@@ -15,7 +15,7 @@ tags:
   - Technical Analysis
   - Zeig
 pubDate: 2026-08-06
-status: draft
+status: in_review
 coverImage: /blog/Untitled (1200 x 630 px).png
 coverImageAlt: Cover image for "Why Financial Markets Need an AI Research Team,
   Not Another AI Assistant " article.
