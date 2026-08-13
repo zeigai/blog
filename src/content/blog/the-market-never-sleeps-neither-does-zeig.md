@@ -14,6 +14,7 @@ tags:
   - market-monitoring
 pubDate: 2026-08-13
 status: draft
+coverImage: /blog/Untitled (1200 x 630 px)-3.png
 imageSource: original
 imageApproved: true
 author: chloe
