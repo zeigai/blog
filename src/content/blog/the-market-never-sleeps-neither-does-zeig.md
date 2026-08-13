@@ -52,3 +52,26 @@ The market never sleeps. Built until now, every tool built to understand it did.
 
 That is the gap. Not a gap in data. Not a gap in technology. A gap in continuity. And it has cost traders more that they realise, every single night. 
 
+What it means to never stop working
+
+Image a research capability that never clocks out. 
+
+One that monitors the positions you hold while you are in a meeting. One that tracks the levels that matter while you are asleep. One that read every relevant development the moment it surfaces and forms a view before you have had a chance to open your phone. 
+
+By the time your alarm goes off, the work is already done. 
+
+Not a price alert. Not a notification telling you a number moved. A conclusion. Specific, contextualised, and ready to act on. What changed while you were away, why it matters, and what comes next. 
+
+The question is no longer what happened. 
+
+The question is what you decide to do about it. 
+
+That shift, from spending the first hour of every morning trying to catch up, to spending it making decisions with a full picture already in front of you, is not a marginal improvement. It is a fundamentally different relationship with financial markets. One that institutional traders have always had. One that has never been available to anyone else. 
+
+Until now. 
+
+What Zeig is built to do 
+
+
+
+&nbsp;
