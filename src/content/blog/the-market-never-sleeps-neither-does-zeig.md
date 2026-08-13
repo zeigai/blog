@@ -10,6 +10,7 @@ tags:
   - market-analysis
   - investment-research
   - " ai-trading"
+  - financial-technology
 pubDate: 2026-08-13
 status: draft
 imageSource: original
