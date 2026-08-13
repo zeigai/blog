@@ -6,6 +6,7 @@ category: product
 tags:
   - Zeig
   - " artificial-intelligence"
+  - financial-markets
 pubDate: 2026-08-13
 status: draft
 imageSource: original
