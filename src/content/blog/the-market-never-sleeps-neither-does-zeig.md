@@ -18,3 +18,6 @@ imageSource: original
 imageApproved: true
 author: chloe
 ---
+Most financial tools stop working when you do. 
+
+You close the app. The analysis stops. The charts freeze. The intelligence that was helping you understand markets a moment ago goes dark, waiting for you to come back and ask another question. 
