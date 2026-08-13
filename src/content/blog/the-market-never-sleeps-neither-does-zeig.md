@@ -7,6 +7,7 @@ tags:
   - Zeig
   - " artificial-intelligence"
   - financial-markets
+  - market-analysis
 pubDate: 2026-08-13
 status: draft
 imageSource: original
