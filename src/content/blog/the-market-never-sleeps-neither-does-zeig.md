@@ -13,7 +13,7 @@ tags:
   - financial-technology
   - market-monitoring
 pubDate: 2026-08-13
-status: draft
+status: published
 coverImage: /blog/Untitled (1200 x 630 px)-3.png
 coverImageAlt: Zeig AI research monitoring financial markets continuously, 24 hours a day.
 imageSource: original
