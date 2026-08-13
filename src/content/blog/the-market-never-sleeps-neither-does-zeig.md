@@ -86,7 +86,13 @@ Zeig is built the other way. It monitors markets without being asked. It tracks 
 
 An assistant answers questions.
 
-A research team never stops working. 
+A research team never stops working.
+
+For decades, institutional traders have had this. Analysis working through the night. Briefings prepared before the open. Conclusions waiting when they arrive at their desk in the morning. That capability has always existed. It has simply never been available outside institutions. 
+
+Zeig close that hap. For everyone. 
+
+The future it is building toward 
 
 
 
