@@ -90,11 +90,29 @@ A research team never stops working.
 
 For decades, institutional traders have had this. Analysis working through the night. Briefings prepared before the open. Conclusions waiting when they arrive at their desk in the morning. That capability has always existed. It has simply never been available outside institutions. 
 
-Zeig close that hap. For everyone. 
+Zeig close that gap. For everyone. 
 
 The future it is building toward 
 
+Today, Zeig analyses markets and delivers institutional-grade research through a single conversation, at any hour, for everyone. 
 
+Tomorrow, it will monitor positions continuously, alerting users the moment something material changes before they think to check. 
+
+Then it will execute, routing traders from insight to action in once place, without switching platforms. 
+
+Eventually, Zeig becomes the operating systems through which people interact with financial markets around the clock, researching, monitoring, and acting with the same continuous intelligence that institutions have always had and everyone else has always been denied. 
+
+The market never sleeps.
+
+It never has. 
+
+The tools built to understand it are finally catching up. 
+
+Neither does Zeig. 
+
+
+
+&nbsp;
 
 &nbsp;
 
