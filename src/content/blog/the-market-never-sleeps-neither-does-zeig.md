@@ -32,7 +32,7 @@ Tools wait. Teams work.
 
 And financial markets have never once waited for anyone. 
 
-The flaw built into every tool 
+## **The flaw built into every tool** 
 
 Every platform built for traders in the last twenty years shares one fundamental design assumption. 
 
@@ -50,9 +50,9 @@ Markets do not pause for your schedule. An earnings surprise does not wait for m
 
 The market never sleeps. Built until now, every tool built to understand it did. 
 
-That is the gap. Not a gap in data. Not a gap in technology. A gap in continuity. And it has cost traders more that they realise, every single night. 
+That is the gap. Not a gap in data. Not a gap in technology. A gap in continuity. And it has cost traders more than they realise, every single night. 
 
-What it means to never stop working
+## **What it means to never stop working**
 
 Image a research capability that never clocks out. 
 
@@ -70,7 +70,7 @@ That shift, from spending the first hour of every morning trying to catch up, to
 
 Until now. 
 
-What Zeig is built to do 
+## **What Zeig is built to do** 
 
 Zeig is not a faster chart. 
 
@@ -92,7 +92,7 @@ For decades, institutional traders have had this. Analysis working through the n
 
 Zeig close that gap. For everyone. 
 
-The future it is building toward 
+## **The future it is building toward** 
 
 Today, Zeig analyses markets and delivers institutional-grade research through a single conversation, at any hour, for everyone. 
 
