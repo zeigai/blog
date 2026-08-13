@@ -5,6 +5,7 @@ description: "Zeig brings continuous AI-powered market research, monitoring what
 category: product
 tags:
   - Zeig
+  - " artificial-intelligence"
 pubDate: 2026-08-13
 status: draft
 imageSource: original
