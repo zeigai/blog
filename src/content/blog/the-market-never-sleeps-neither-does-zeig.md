@@ -44,3 +44,11 @@ But the tool waits.
 
 It waits for you to open it. It waits for you to ask. It waits for you to remember to check. And while it waits, markets move across currencies, commodities, equities, and crypto, driven by forces that interact with each other in ways no single question can fully capture. 
 
+This is not a minor limitation. It is a structural one. 
+
+Markets do not pause for your schedule. An earnings surprise does not wait for morning. A geopolitical development does not announce itself during business hours. A technical breakout does not hold position while you sleep. 
+
+The market never sleeps. Built until now, every tool built to understand it did. 
+
+That is the gap. Not a gap in data. Not a gap in technology. A gap in continuity. And it has cost traders more that they realise, every single night. 
+
