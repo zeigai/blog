@@ -73,4 +73,21 @@ Twenty years of progress. The same structural flaw.
 
 What a question actually does
 
-A question 
+A question does something that a chart cannot. 
+
+It defines what matters before the analysis begins. 
+
+Ask whether a move is macro-driven or technical and you immediately know which indicators are relevant and which one are noise. Ask whether a position is supported by institutional flow and you know exactly where to look. Ask what the risk looks like relative to the reward and the entire analysis organises itself around a single decision. 
+
+The question is not the start of the research. It is the architecture of it. 
+
+Professional research desks have always known this. A research analyst does not walk into the morning meeting and say here is everything I found. They walk in with a view, built on a question they answered through a structured process involving macro context, technical evidence, sector behaviour and news flow working together. 
+
+That process produces something a chart alone never can. 
+
+A conclusion worth acting on. 
+
+What Zeig was built to do 
+
+Zeig starts where professional research has always started. 
+
