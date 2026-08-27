@@ -7,6 +7,7 @@ category: market-analysis
 tags:
   - Zeig AI
   - Trading Analysis
+  - Market Research
 pubDate: 2026-08-27
 status: draft
 imageSource: original
