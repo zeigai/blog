@@ -91,3 +91,9 @@ What Zeig was built to do
 
 Zeig starts where professional research has always started. 
 
+With a question. 
+
+Type anything you would ask a research team. Ask whether a stock is showing genuine momentum or a technical trap. Ask what a central bank decision means for the sectors you hold. Ask how a market is positioned ahead of a major catalyst. Ask in plain English, the way you would ask a colleague who actually knew what they were talking about. 
+
+Zeig takes that question and does 
+
