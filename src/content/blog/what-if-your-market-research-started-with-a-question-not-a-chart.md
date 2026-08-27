@@ -33,7 +33,7 @@ The problem is that they are reading answers to questions they have not yet aske
 
 And that single inversion, data before direction, is where most retail research quietly falls apart. 
 
-The way professionals actually think. 
+## **The way professionals actually think**
 
 Here is something the financial industry has never explained clearly to retail traders. 
 
@@ -51,7 +51,7 @@ That is not analysis. That is confirmation bias with better graphics.
 
 The question is what protects you from it. 
 
-Why the tools never fixed this
+## **Why the tools never fixed this**
 
 The financial technology industry spent twenty years making charts better. 
 
@@ -71,7 +71,7 @@ The result is an industry full of sophisticated tools being used backwards. Trad
 
 Twenty years of progress. The same structural flaw. 
 
-What a question actually does
+## **What a question actually does**
 
 A question does something that a chart cannot. 
 
@@ -87,7 +87,7 @@ That process produces something a chart alone never can.
 
 A conclusion worth acting on. 
 
-What Zeig was built to do 
+## **What Zeig was built to do** 
 
 Zeig starts where professional research has always started. 
 
@@ -113,7 +113,7 @@ Zeig is where it goes from there.
 
 Trade with your AI team. 
 
-*Sources :* 
+***Sources :*** 
 
 *Gallup — What Percentage of Americans Own Stock? (Updated May 2025)[https://news.gallup.com/poll/266807/percentage-americans-own-stock.aspx](https://news.gallup.com/poll/266807/percentage-americans-own-stock.aspx)* 
 
