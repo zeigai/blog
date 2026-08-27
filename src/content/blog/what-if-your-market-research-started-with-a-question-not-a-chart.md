@@ -8,6 +8,7 @@ tags:
   - Zeig AI
   - Trading Analysis
   - Market Research
+  - Financial Markets
 pubDate: 2026-08-27
 status: draft
 imageSource: original
