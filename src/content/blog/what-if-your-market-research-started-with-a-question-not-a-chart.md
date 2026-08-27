@@ -6,6 +6,7 @@ description: "Why better market research starts with a question, not a chart,
 category: market-analysis
 tags:
   - Zeig AI
+  - Trading Analysis
 pubDate: 2026-08-27
 status: draft
 imageSource: original
