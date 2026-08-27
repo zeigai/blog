@@ -50,3 +50,27 @@ When you invert that process, when you load the chart before you have formed the
 That is not analysis. That is confirmation bias with better graphics. 
 
 The question is what protects you from it. 
+
+Why the tools never fixed this
+
+The financial technology industry spent twenty years making charts better. 
+
+More indicators. Faster data. Cleaner interfaces. Customisable layouts. Real-time feeds that update the millisecond a price moves. 
+
+All of it built on the same assumption: give the trader more data, displayed more clearly, and the analysis will follow. 
+
+It did not follow. 
+
+Because the problem was never the quality of the data or the speed of the feed. The problem was that the entire architecture of these tools assumed the trader already knew what they were looking for before they opened the platform. 
+
+The chart does not help you form the question. The chart assumes you have already formed it. 
+
+And for the vast majority of traders, that assumption has never been true. 
+
+The result is an industry full of sophisticated tools being used backwards. Traders loading data first, forming the question somewhere in the middle, and arriving at conclusions that are as much a product of what they were already thinking as what the market is actually showing them. 
+
+Twenty years of progress. The same structural flaw. 
+
+What a question actually does
+
+A question 
