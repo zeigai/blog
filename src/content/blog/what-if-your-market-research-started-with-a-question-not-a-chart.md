@@ -95,5 +95,24 @@ With a question.
 
 Type anything you would ask a research team. Ask whether a stock is showing genuine momentum or a technical trap. Ask what a central bank decision means for the sectors you hold. Ask how a market is positioned ahead of a major catalyst. Ask in plain English, the way you would ask a colleague who actually knew what they were talking about. 
 
-Zeig takes that question and does 
+Zeig takes that question and does what a research desk does. A macro analyst, a technical analyst, a market analyst and a news analyst all work on it simultaneously. Each brings a different lens. Each challenges the conclusion the others are reaching. The tension between their perspective is where the real insight lives. 
 
+What comes back is not a dashboard. Not a list of indicators left for you to decode. A conclusion. A specific, contextualised view on the question you asked, built from multiple disciplines working together, ready for you to act on or argue with. 
+
+The chart is still there. The technical analysis still runs. The indicators still appear. 
+
+But they appear as evidence for an answer, not as a question you are expected to answer alone. 
+
+That is not a better version of the same thing. 
+
+It is a different way of thinking about marketers entirely. 
+
+The question is where everything starts. 
+
+Zeig is where it goes from there. 
+
+Trade with your AI team. 
+
+
+
+&nbsp;
