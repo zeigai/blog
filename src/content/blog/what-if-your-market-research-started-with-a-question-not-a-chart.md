@@ -10,7 +10,7 @@ tags:
   - Market Research
   - Financial Markets
 pubDate: 2026-08-27
-status: draft
+status: published
 coverImage: /blog/Untitled (1200 x 630 px)-2-3.png
 coverImageAlt: Trader using AI powered market research to explore a market
   question through macro, technical, news and sentiment analysis.
