@@ -86,18 +86,7 @@ The next time the market moves before the explanation is clear, begin with the q
 
 What would you ask the market first ? 
 
-**Source**
+Source
 
 Zeig. “AI Financial Analysis Through Conversation.” [https://zeig.ai](https://zeig.ai) 
 
-
-
-&nbsp;
-
-&nbsp;
-
-&nbsp;
-
-&nbsp;
-
-&nbsp;
