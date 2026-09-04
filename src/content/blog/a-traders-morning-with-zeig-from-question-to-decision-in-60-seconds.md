@@ -10,6 +10,7 @@ tags:
   - "market-research "
   - "financial-analysis "
   - "trading-technology "
+  - "fintech "
 pubDate: 2026-09-04
 status: draft
 imageSource: original
