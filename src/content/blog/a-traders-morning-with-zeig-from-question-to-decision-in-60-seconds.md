@@ -1,8 +1,9 @@
 ---
 title: "A Trader’s Morning With Zeig: From Question to Market Analysis in 60 Seconds "
 description: >
-  See how a trader uses Zeig to turn one market question into structured
-  analysis, clearer context and a more informed decision in 60 seconds.
+  Follow a trader’s morning with Zeig and see how a simple market question
+  becomes structured technical analysis, charts and key price levels in
+  seconds. 
 category: product
 tags:
   - zeig
