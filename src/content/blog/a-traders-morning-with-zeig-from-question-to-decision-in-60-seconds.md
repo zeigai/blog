@@ -7,6 +7,7 @@ category: product
 tags:
   - zeig
   - artificial-intelligence
+  - "market-research "
 pubDate: 2026-09-04
 status: draft
 imageSource: original
