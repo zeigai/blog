@@ -9,6 +9,7 @@ tags:
   - artificial-intelligence
   - "market-research "
   - "financial-analysis "
+  - "trading-technology "
 pubDate: 2026-09-04
 status: draft
 imageSource: original
