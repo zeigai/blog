@@ -8,6 +8,7 @@ tags:
   - zeig
   - artificial-intelligence
   - "market-research "
+  - "financial-analysis "
 pubDate: 2026-09-04
 status: draft
 imageSource: original
