@@ -6,6 +6,7 @@ description: >
 category: product
 tags:
   - zeig
+  - artificial-intelligence
 pubDate: 2026-09-04
 status: draft
 imageSource: original
