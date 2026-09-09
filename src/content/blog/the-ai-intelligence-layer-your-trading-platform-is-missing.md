@@ -10,6 +10,7 @@ tags:
   - AI Market Research
   - Broker Technology
   - Trader Retention
+  - Fintech
 pubDate: 2026-09-09
 status: draft
 imageSource: original
