@@ -6,6 +6,7 @@ description: Discover how an AI intelligence layer helps brokers turn market
 category: market-analysis
 tags:
   - AI for Brokers
+  - Trading Platforms
 pubDate: 2026-09-09
 status: draft
 imageSource: original
