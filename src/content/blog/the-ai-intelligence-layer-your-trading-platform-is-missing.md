@@ -9,6 +9,7 @@ tags:
   - Trading Platforms
   - AI Market Research
   - Broker Technology
+  - Trader Retention
 pubDate: 2026-09-09
 status: draft
 imageSource: original
