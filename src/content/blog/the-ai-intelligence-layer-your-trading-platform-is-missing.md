@@ -7,6 +7,7 @@ category: market-analysis
 tags:
   - AI for Brokers
   - Trading Platforms
+  - AI Market Research
 pubDate: 2026-09-09
 status: draft
 imageSource: original
