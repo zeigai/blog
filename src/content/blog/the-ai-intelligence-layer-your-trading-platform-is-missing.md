@@ -33,7 +33,7 @@ It never gave them what they needed to understand it.
 
 That is the gap. And it is costing you more than you think. 
 
-The industry built the wrong thing. 
+## **The industry built the wrong thing**
 
 The brokerage industry made a bet twenty years ago and it has been doubling down on it ever since. 
 
@@ -55,7 +55,7 @@ Most traders never make that translation.
 
 They churn instead. 
 
-The pattern every brokers already know 
+## **The pattern every brokers already knows**
 
 You have seen this cycle more times than you can count. 
 
@@ -75,7 +75,7 @@ Most traders do not have years. They have months before frustration wins.
 
 You are losing them at the exact moment the relationship could have deepened. 
 
-What an intelligence layer actually is 
+## **What an intelligence layer actually is**  
 
 Not a smarter chart. Not another indicator. Not an alert system that tells a trader when a price crosses a level they already drew. 
 
@@ -93,7 +93,7 @@ It is what your traders have never had access to.
 
 Until now. 
 
-What this changes for your business 
+## **What this changes for your business** 
 
 Traders who understand markets trade more. 
 
@@ -113,7 +113,7 @@ That is not an incremental improvement to your product.
 
 That is a different category of product entirely. 
 
-The window is open. It will not stay open. 
+## **The window is open. It will not stay open.** 
 
 Every technology shift in financial markets has produced two groups of brokers. 
 
@@ -135,12 +135,9 @@ The intelligence layer your trading platform is missing already exists.
 
 The question is whether you add it before the broker next to you does. 
 
+ Sources cited:
 
+World Economic Forum — New study finds financial education gaps are primary barrier to retail investing in capital markets (2022) [https://www.weforum.org/press/2022/08/new-study-finds-financial-education-gaps-are-primary-barrier-to-retail-investing-in-capital-markets/](https://www.weforum.org/press/2022/08/new-study-finds-financial-education-gaps-are-primary-barrier-to-retail-investing-in-capital-markets/)
 
-&nbsp;
+Gallup — What Percentage of Americans Own Stock? (Updated May 2025) [https://news.gallup.com/poll/266807/percentage-americans-own-stock.aspx](https://news.gallup.com/poll/266807/percentage-americans-own-stock.aspx)
 
- 
-
-
-
-&nbsp;
