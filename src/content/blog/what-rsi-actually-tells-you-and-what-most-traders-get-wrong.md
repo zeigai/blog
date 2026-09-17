@@ -56,3 +56,18 @@ The 30 and 70 levels are not signals. They are observations. They tell you that 
 
 This is why RSI works when traders use it correctly and fails when they create it as a standalone signal. 
 
+What RSI is actually useful for 
+
+Used correctly, RSI provides three genuinely useful pieces of information. 
+
+Momentum confirmation. When price makes a new high and RSI also makes a new high, the move momentum behind it. The two are confirming each other. When price makes a new high but RSI makes a lower high, this is called divergence, the move Is losing momentum. Price is going up but the strength behind it is weakening. This is one of the most reliable signals RSI produces, and it is also one of the least used by retail traders. 
+
+Trend identification. In an uptrend, RSI tends to hold above 40 to 50 and find support in that range before bouncing. In a downtrend, RSI tends to hold below 50 to 60 and find resistance there before falling again. Watching where RSI finds support and resistance, not just whether it is above or below 30 and 70, tells you more about trend strength than the overbought and oversold levels ever will. 
+
+Failure swings. This is the signal Wilder himself considered most significant and the one almost nobody talks about. A bullish failure swing occurs when RSI drops below 30, bounces back above it, pulls back again without going below 30, and then breaks above the previous high. A bearish failure swing is the mirror image. These are specific, structured signals, not just a number crossing a level, and they carry significantly more weight than a simple oversold reading. 
+
+
+
+&nbsp;
+
+&nbsp;
