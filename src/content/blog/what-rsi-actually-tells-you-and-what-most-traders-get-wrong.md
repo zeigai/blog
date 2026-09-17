@@ -78,7 +78,7 @@ Professional technical analyst look at RSI across multiple timeframes simultaneo
 
 This multi-timeframe approach is one of the most consistent edges in technical analysis. It is also one of the most time-consuming to execute manually. Checking multiple charts, multiple timeframes, cross-referencing the signals and forming a view before the opportunity disappears. 
 
-Why RSI is one signal, not an answer 
+## **Why RSI is one signal, not an answer** 
 
 Even when RSI is used correctly, with proper understanding of momentum, divergence, failure swings and multiple timeframes, it is still only one dimension of market analysis. 
 
@@ -88,7 +88,7 @@ This is the same reason institutional analysts do not make decisions based on on
 
 The conclusion that emerges from that synthesis is structurally more reliable than any single signal could ever produce. 
 
-What Zeig does with RSI 
+## **What Zeig does with RSI** 
 
 When you ask Zeig about a market, RSI is one layer of the analysis. Not the answer. 
 
@@ -104,7 +104,7 @@ Zeig reads all of it.
 
 Trade with your AI team. 
 
- Sources
+ **Sources**
 
  Wilder, J. Welles — New Concepts in Technical Trading Systems (1978)([https://www.amazon.com/New-Concepts-Technical-Trading-Systems/dp/0894590278](https://www.amazon.com/New-Concepts-Technical-Trading-Systems/dp/0894590278))
 
