@@ -13,6 +13,7 @@ tags:
   - AI Market Analysis
   - Zeig
   - Bitcoin Technical Analysis
+  - Forex Trading
 pubDate: 2026-09-17
 status: draft
 imageSource: original
