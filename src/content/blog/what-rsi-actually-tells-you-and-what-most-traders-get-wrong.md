@@ -42,3 +42,17 @@ This distinction matters enormously. Because when traders treat RSI as a valuati
 
 A low RSI does not mean an asset is cheap. It means recent downward moves have been larger than recent upward moves. That is not the same thing. And in a strong downtrend, RSI can stay below 30 for weeks while price continues falling. 
 
+The oversold and overbought myth 
+
+The most common misuse of RSI is treating the 30 and 70 levels as automatic reversal signals. 
+
+The logic goes: RSI below 30 means oversold, which means price will bounce. RSI above 70 means overbought, which means price will fall. Buy low RSI. Sell high RSI. 
+
+The problem with this logic is that it ignores the most important variable in trading: trend. 
+
+In a strong uptrend, RSI spends most of its time above 50 and regularly touches 70 without reversing. Selling every time RSI hits 70 in an uptrend means selling into strength repeatedly and missing the bulk of the move. In a strong downtrend, RSI spends most of its time below 50 and regularly drops to 30 without bouncing. Buying every time RSI hits 30 in a downtrend means buying into weakness repeatedly and catching falling knives. 
+
+The 30 and 70 levels are not signals. They are observations. They tell you that momentum has been strong in one direction. What happens next depends entirely on context: the trend, the timeframe, the broader market structure, the news flow, the volume behind the move. RSI alone cannot tell you any of that. 
+
+This is why RSI works when traders use it correctly and fails when they create it as a standalone signal. 
+
