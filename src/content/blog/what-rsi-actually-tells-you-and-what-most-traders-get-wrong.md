@@ -82,7 +82,35 @@ Why RSI is one signal, not an answer
 
 Even when RSI is used correctly, with proper understanding of momentum, divergence, failure swings and multiple timeframes, it is still only one dimension of market analysis. 
 
-RSI says nothing about why price is moving. It says nothing about whether a macro development has changed the thesis. 
+RSI says nothing about why price is moving. It says nothing about whether a macro development has changed the thesis. It says nothing about news flow, earnings, sector rotation or positioning. It is a mathematical calculation based purely on price. A complete analysis requires RSI alongside macro context, news flow, volume, market structure and sector behaviour. Not instead of them. 
+
+This is the same reason institutional analysts do not make decisions based on one indicator. They synthesise multiple perspectives, each expert in a different discipline, before forming a view. The technical analyst reads RSI in the context is what is driving markets at the moment. The news analyst assesses whether anything in the news flow confirms or challenges the technical thesis. 
+
+The conclusion that emerges from that synthesis is structurally more reliable than any single signal could ever produce. 
+
+What Zeig does with RSI 
+
+When you ask Zeig about a market, RSI is one layer of the analysis. Not the answer. 
+
+Zeig's technical analyst reads RSI across multiple timeframes simultaneously. It identifies momentum, spots divergences, assesses where RSI has been finding support and resistance relative to the current trend. It does not just tell you the RSI number. It tells you what that number means in the context of everything else happening in the market at that moment. 
+
+Alongside the technical analysis, Zeig macro analyst assesses the broader market context. The news analyst reviews what is moving the market beyond price action. The market analyst examines sector behaviour and volume. All of this happens simultaneously. The conclusion that comes back is not a dashboard of indicators to interpret. 
+
+It is a view. A specific, contextualised view on the question you asked, built from multiple disciplines working together. 
+
+RSI is not a buy or sell signal. It is one piece of a much larger picture. 
+
+Zeig reads all of it. 
+
+Trade with your AI team. 
+
+*Sources cited:* 
+
+*Wilder, J. Welles: New Concepts in Technical Trading Systems (1978)* *The original source of the RSI indicator and its intended application* 
+
+*Gallup: What Percentage of Americans Own Stock? (Updated May 2025)[https://news.gallup.com/poll/266807/percentage-americans-own-stock.aspx](https://news.gallup.com/poll/266807/percentage-americans-own-stock.aspx)* 
+
+ 
 
 
 
