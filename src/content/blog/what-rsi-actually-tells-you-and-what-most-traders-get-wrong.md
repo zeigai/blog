@@ -5,6 +5,7 @@ description: Think RSI below 30 means buy? Think again. Learn what RSI actually
 category: market-analysis
 tags:
   - RSI
+  - Relative Strength Index
 pubDate: 2026-09-17
 status: draft
 imageSource: original
