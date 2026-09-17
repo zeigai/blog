@@ -66,6 +66,24 @@ Trend identification. In an uptrend, RSI tends to hold above 40 to 50 and find s
 
 Failure swings. This is the signal Wilder himself considered most significant and the one almost nobody talks about. A bullish failure swing occurs when RSI drops below 30, bounces back above it, pulls back again without going below 30, and then breaks above the previous high. A bearish failure swing is the mirror image. These are specific, structured signals, not just a number crossing a level, and they carry significantly more weight than a simple oversold reading. 
 
+The timeframe problem most traders ignore 
+
+RSI behaves very differently across timeframe and most traders only look at one.
+
+A 1-minute RSI tells you about momentum over the last 14 minutes. A daily RSI tells you about momentum over the last 14 days. A weekly RSI tells you about momentum over the last 14 weeks. These are fundamentally different pictures of the same asset. 
+
+A trader who sees RSI oversold on the 15-minute chart and buys, without checking that the daily RSI is in a strong downtrend with plenty of room to fall further, is making a decision with with one piece of a picture that has four or five layers. 
+
+Professional technical analyst look at RSI across multiple timeframes simultaneously. They use the higher timeframe to establish the trend and the direction they want to trade. They use the lower timeframe to find the entry point within that direction. A 15-minute oversold reading in the context of a bearish daily trend. 
+
+This multi-timeframe approach is one of the most consistent edges in technical analysis. It is also one of the most time-consuming to execute manually. Checking multiple charts, multiple timeframes, cross-referencing the signals and forming a view before the opportunity disappears. 
+
+Why RSI is one signal, not an answer 
+
+Even when RSI is used correctly, with proper understanding of momentum, divergence, failure swings and multiple timeframes, it is still only one dimension of market analysis. 
+
+RSI says nothing about why price is moving. It says nothing about whether a macro development has changed the thesis. 
+
 
 
 &nbsp;
