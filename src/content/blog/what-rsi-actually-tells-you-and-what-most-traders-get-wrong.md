@@ -104,13 +104,11 @@ Zeig reads all of it.
 
 Trade with your AI team. 
 
-*Sources cited:* 
+ Sources
 
-*Wilder, J. Welles: New Concepts in Technical Trading Systems (1978)* *The original source of the RSI indicator and its intended application* 
+ Wilder, J. Welles — New Concepts in Technical Trading Systems (1978)([https://www.amazon.com/New-Concepts-Technical-Trading-Systems/dp/0894590278](https://www.amazon.com/New-Concepts-Technical-Trading-Systems/dp/0894590278))
 
-*Gallup: What Percentage of Americans Own Stock? (Updated May 2025)[https://news.gallup.com/poll/266807/percentage-americans-own-stock.aspx](https://news.gallup.com/poll/266807/percentage-americans-own-stock.aspx)* 
-
- 
+Gallup — What Percentage of Americans Own Stock? (Updated May 2025)([https://news.gallup.com/poll/266807/percentage-americans-own-stock.aspx](https://news.gallup.com/poll/266807/percentage-americans-own-stock.aspx))
 
 
 
