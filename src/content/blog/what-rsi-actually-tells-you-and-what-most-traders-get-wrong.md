@@ -6,6 +6,7 @@ category: market-analysis
 tags:
   - RSI
   - Relative Strength Index
+  - Technical Analysis
 pubDate: 2026-09-17
 status: draft
 imageSource: original
