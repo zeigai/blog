@@ -20,3 +20,6 @@ imageSource: original
 imageApproved: true
 author: chloe
 ---
+Open any trading platform and you will find RSI on almost every chart.
+
+It is one of the most widely used indicators in retail trading. It is also one of the most widely 
