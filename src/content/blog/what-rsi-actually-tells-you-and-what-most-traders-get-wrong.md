@@ -15,7 +15,7 @@ tags:
   - Bitcoin Technical Analysis
   - Forex Trading
 pubDate: 2026-09-17
-status: draft
+status: published
 coverImage: /blog/Untitled (1200 x 630 px)-5.png
 coverImageAlt: What RSI Actually Tells You—and What Most Traders Get Wrong. A
   price chart and RSI indicator highlight momentum and market context.
