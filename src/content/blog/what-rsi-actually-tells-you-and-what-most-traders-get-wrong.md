@@ -27,13 +27,13 @@ Open any trading platform and you will find RSI on almost every chart.
 
 It is one of the most widely used indicators in retail trading. It is also one of the most widely misunderstood.
 
-Most traders treat RSI as a buy signal when it drops below 30 and a sell signal when it rises above 70. They learned this from a Youtube video or a trading course and they have been applying it ever since. And they keep wondering why it does not work as reliably as they expected. 
+Most traders treat RSI as a buy signal when it drops below 30 and a sell signal when it rises above 70. They learned this from a YouTube video or a trading course and they have been applying it ever since. And they keep wondering why it does not work as reliably as they expected. 
 
 The problem is not RSI. The problem is what most traders think RSI is measuring. What it is actually measuring and what most traders believe it measures are two very different things. 
 
 ## **What RSI actually measures**
 
-RSI stands for Relative Strength Index. It was developed by J. Welles Wilder in 1978 and introduced in his book New Concepts in Technical Trading Systems. The formula compares the average size of recent gains to the average size of recent losses over a defined period. Typically 14 candles. 
+RSI stands for Relative Strength Index. It was developed by J. Welles Wilder in 1978 and introduced in his book New Concepts in Technical Trading Systems. The formula compares the average size of recent gains to the average size of recent losses over a defined period. The standard setting is 14 periods. 
 
 The result is a number between 0 and 100. 
 
@@ -45,7 +45,7 @@ This distinction matters enormously. Because when traders treat RSI as a valuati
 
 A low RSI does not mean an asset is cheap. It means recent downward moves have been larger than recent upward moves. That is not the same thing. And in a strong downtrend, RSI can stay below 30 for weeks while price continues falling. 
 
-## **The oversold and overbought myth** 
+## **The oversold and overbought myth**
 
 The most common misuse of RSI is treating the 30 and 70 levels as automatic reversal signals. 
 
@@ -59,7 +59,7 @@ The 30 and 70 levels are not signals. They are observations. They tell you that 
 
 This is why RSI works when traders use it correctly and fails when they create it as a standalone signal. 
 
-## **What RSI is actually useful for** 
+## **What RSI is actually useful for**
 
 Used correctly, RSI provides three genuinely useful pieces of information. 
 
@@ -69,7 +69,7 @@ Used correctly, RSI provides three genuinely useful pieces of information.
 
 **Failure swings.** This is the signal Wilder himself considered most significant and the one almost nobody talks about. A bullish failure swing occurs when RSI drops below 30, bounces back above it, pulls back again without going below 30, and then breaks above the previous high. A bearish failure swing is the mirror image. These are specific, structured signals, not just a number crossing a level, and they carry significantly more weight than a simple oversold reading. 
 
-## **The timeframe problem most traders ignore** 
+## **The timeframe problem most traders ignore**
 
 RSI behaves very differently across timeframe and most traders only look at one.
 
@@ -81,7 +81,7 @@ Professional technical analyst look at RSI across multiple timeframes simultaneo
 
 This multi-timeframe approach is one of the most consistent edges in technical analysis. It is also one of the most time-consuming to execute manually. Checking multiple charts, multiple timeframes, cross-referencing the signals and forming a view before the opportunity disappears. 
 
-## **Why RSI is one signal, not an answer** 
+## **Why RSI is one signal, not an answer**
 
 Even when RSI is used correctly, with proper understanding of momentum, divergence, failure swings and multiple timeframes, it is still only one dimension of market analysis. 
 
@@ -91,7 +91,7 @@ This is the same reason institutional analysts do not make decisions based on on
 
 The conclusion that emerges from that synthesis is structurally more reliable than any single signal could ever produce. 
 
-## **What Zeig does with RSI** 
+## **What Zeig does with RSI**
 
 When you ask Zeig about a market, RSI is one layer of the analysis. Not the answer. 
 
