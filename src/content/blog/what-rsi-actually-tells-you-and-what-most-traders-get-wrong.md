@@ -28,7 +28,7 @@ Most traders treat RSI as a buy signal when it drops below 30 and a sell signal 
 
 The problem is not RSI. The problem is what most traders think RSI is measuring. What it is actually measuring and what most traders believe it measures are two very different things. 
 
-What RSI actually measures
+## **What RSI actually measures**
 
 RSI stands for Relative Strength Index. It was developed by J. Welles Wilder in 1978 and introduced in his book New Concepts in Technical Trading Systems. The formula compares the average size of recent gains to the average size of recent losses over a defined period. Typically 14 candles. 
 
@@ -42,7 +42,7 @@ This distinction matters enormously. Because when traders treat RSI as a valuati
 
 A low RSI does not mean an asset is cheap. It means recent downward moves have been larger than recent upward moves. That is not the same thing. And in a strong downtrend, RSI can stay below 30 for weeks while price continues falling. 
 
-The oversold and overbought myth 
+## **The oversold and overbought myth** 
 
 The most common misuse of RSI is treating the 30 and 70 levels as automatic reversal signals. 
 
@@ -56,17 +56,17 @@ The 30 and 70 levels are not signals. They are observations. They tell you that 
 
 This is why RSI works when traders use it correctly and fails when they create it as a standalone signal. 
 
-What RSI is actually useful for 
+## **What RSI is actually useful for** 
 
 Used correctly, RSI provides three genuinely useful pieces of information. 
 
-Momentum confirmation. When price makes a new high and RSI also makes a new high, the move momentum behind it. The two are confirming each other. When price makes a new high but RSI makes a lower high, this is called divergence, the move Is losing momentum. Price is going up but the strength behind it is weakening. This is one of the most reliable signals RSI produces, and it is also one of the least used by retail traders. 
+**Momentum confirmation**. When price makes a new high and RSI also makes a new high, the move momentum behind it. The two are confirming each other. When price makes a new high but RSI makes a lower high, this is called divergence, the move Is losing momentum. Price is going up but the strength behind it is weakening. This is one of the most reliable signals RSI produces, and it is also one of the least used by retail traders. 
 
-Trend identification. In an uptrend, RSI tends to hold above 40 to 50 and find support in that range before bouncing. In a downtrend, RSI tends to hold below 50 to 60 and find resistance there before falling again. Watching where RSI finds support and resistance, not just whether it is above or below 30 and 70, tells you more about trend strength than the overbought and oversold levels ever will. 
+**Trend identification.** In an uptrend, RSI tends to hold above 40 to 50 and find support in that range before bouncing. In a downtrend, RSI tends to hold below 50 to 60 and find resistance there before falling again. Watching where RSI finds support and resistance, not just whether it is above or below 30 and 70, tells you more about trend strength than the overbought and oversold levels ever will. 
 
-Failure swings. This is the signal Wilder himself considered most significant and the one almost nobody talks about. A bullish failure swing occurs when RSI drops below 30, bounces back above it, pulls back again without going below 30, and then breaks above the previous high. A bearish failure swing is the mirror image. These are specific, structured signals, not just a number crossing a level, and they carry significantly more weight than a simple oversold reading. 
+**Failure swings.** This is the signal Wilder himself considered most significant and the one almost nobody talks about. A bullish failure swing occurs when RSI drops below 30, bounces back above it, pulls back again without going below 30, and then breaks above the previous high. A bearish failure swing is the mirror image. These are specific, structured signals, not just a number crossing a level, and they carry significantly more weight than a simple oversold reading. 
 
-The timeframe problem most traders ignore 
+## **The timeframe problem most traders ignore** 
 
 RSI behaves very differently across timeframe and most traders only look at one.
 
@@ -106,9 +106,9 @@ Trade with your AI team.
 
  **Sources**
 
- Wilder, J. Welles — New Concepts in Technical Trading Systems (1978)([https://www.amazon.com/New-Concepts-Technical-Trading-Systems/dp/0894590278](https://www.amazon.com/New-Concepts-Technical-Trading-Systems/dp/0894590278))
+Wilder, J. Welles — New Concepts in Technical Trading Systems (1978) [https://www.amazon.com/New-Concepts-Technical-Trading-Systems/dp/0894590278](https://www.amazon.com/New-Concepts-Technical-Trading-Systems/dp/0894590278)
 
-Gallup — What Percentage of Americans Own Stock? (Updated May 2025)([https://news.gallup.com/poll/266807/percentage-americans-own-stock.aspx](https://news.gallup.com/poll/266807/percentage-americans-own-stock.aspx))
+Gallup — What Percentage of Americans Own Stock? (Updated May 2025) [https://news.gallup.com/poll/266807/percentage-americans-own-stock.aspx](https://news.gallup.com/poll/266807/percentage-americans-own-stock.aspx)
 
 
 
