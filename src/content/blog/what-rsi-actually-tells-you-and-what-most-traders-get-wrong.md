@@ -39,7 +39,7 @@ The result is a number between 0 and 100.
 
 What that number tells you is this: relative to recent price movement, is the current move showing more strength to the upside or more strength to the downside? 
 
-That is it. That is what RSI measures. Momentum. Not direction. Not value. Not whether a stock is cheap or expensive. Momentum. 
+That is it. That is what RSI measures. Momentum—not intrinsic value and not a guaranteed prediction of where price will move next. 
 
 This distinction matters enormously. Because when traders treat RSI as a valuation tools, buying because RSI is "oversold" at 28 and expecting price to bounce simply because a number is low, they are asking RSI to answer a question it was never designed to answer. 
 
