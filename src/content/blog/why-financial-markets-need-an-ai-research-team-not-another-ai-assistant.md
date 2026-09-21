@@ -67,7 +67,7 @@ AI should be built the same way.
 
 ## **Why assistants fail financial markets**
 
-An AI assistants is reactive by design. It responds to what you ask, when you ask it. It answers the question in front of it and waits for the next one. 
+An AI assistant is reactive by design. It responds to what you ask, when you ask it. It answers the question in front of it and waits for the next one. 
 
 That model of interaction was never quite right for markets that move whether or not you asking. 
 
