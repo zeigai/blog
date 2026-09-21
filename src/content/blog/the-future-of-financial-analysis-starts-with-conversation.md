@@ -30,7 +30,7 @@ It's 7 am and you're already switching tabs.
 
 ## **The problem that got solved**
 
- For most of financial history, the challenge was access. Getting real-time prices, professional charting, research, and execution into one place required an institutional budget and a professional-grade terminal, the kind that still costs upward of *$31,980 per year* and remain gated behind a command structure that only trained analysts fully master. 
+ For most of financial history, the challenge was access. Getting real-time prices, professional charting, research, and execution into one place required an institutional budget and a professional-grade terminal, the kind that still costs upward of *$31,980 per year* and remains gated behind a command structure that only trained analysts fully master. 
 
  The gate came down. Online brokerages cut costs. Free charting platforms now serve well over 100 million traders and investors worldwide. Financial data that was once scarce is now, by any honest measure, abundant.
 
