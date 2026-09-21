@@ -103,7 +103,7 @@ Most AI tools applied to financial markets are built on a single model doing its
 
 That is the wrong architecture for this domain. 
 
-Intelligence alone does not determine the quality of financial analysis. Structure matters. The way expertise is organised changes the quality of the conclusion - and in financial markets, that difference is not marginal. It is the difference between knowing what happened and understanding what it means. 
+Intelligence alone does not determine the quality of financial analysis. Structure matters. The way expertise is organised changes the quality of the conclusion—and in financial markets, that difference is not marginal. It is the difference between knowing what happened and understanding what it means. 
 
 An AI assistant is like asking one expert for an opinion. An AI research team is like sitting in an investment committee where specialists challenge, refine and strengthen each other's thinking before a conclusion is reached. The committee produces something neither the tastes nor the smartest individual member could have produced alone. 
 
