@@ -60,7 +60,7 @@ That distinction is the entire point.
 
 ## **What this actually means**
 
-It's worth being precise about the problem, because "information overload" gets used loosely. It doesn't mean there's too much data existing in the world. It means there's too much unfiltered data reaching one person , with no layer helping them decide what deserves attention before they have to act on it. 
+It's worth being precise about the problem, because "information overload" gets used loosely. It doesn't mean there's too much data existing in the world. It means there's too much unfiltered data reaching one person, with no layer helping them decide what deserves attention before they have to act on it. 
 
 Professional financial analysis has always been the discipline of doing exactly that filtering- reading price structure, weighing volume against momentum, checking whether a move is confirmed by the broader market or thin and unsupported, and forming a defensible view instead of reacting to whatever's loudest. It's a process, not a dashboard. And until recently, that process required years of training to do at all which is precisely why it stayed locked inside institutions long after the data itself became public.
 
