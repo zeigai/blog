@@ -80,7 +80,7 @@ The value of conversation extends beyond market analysis. It also helps traders 
 
  That includes price as much as design. A tool that's conversational but priced like an institutional terminal hasn't closed the gap. It's simply relocated it. Real accessibility means the whole barrier comes down, not just the part that was easiest to fix.
 
-## **Back to 7am**
+## **Back to 7a.m.**
 
 Picture that same morning again, but differently. Instead of six tabs, one question: what's driving the move in this name overnight. Instead of reassembling futures, news, and a chart by hand, a direct answer-grounded in the same data, structured the same way a sharp analyst would structure it, with room to ask a sharper follow-up the moment something doesn't add up.
 
