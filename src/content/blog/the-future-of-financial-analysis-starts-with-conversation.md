@@ -46,7 +46,7 @@ This isn't a hunch. The Federal Reserve's research on information overload found
 
 If trained professionals lose precision under information load, the idea that a retail trader with six open tabs is making clear-headed decisions is optimistic at best.
 
-The difficulty of making consistent trading decisions is reflected across the industry. Regulated CFD providers are required to disclose the percentage of retail investor accounts that lose money when trading CFDs, and those figures commonly range between 70% and 90%, depending on the provider. These losses are not caused by a single factor. Leverage, risk management, ,market knowledge, and emotional discipline all play important roles. However, they reinforce a broader point: despite unprecedented access to market information, making consistent, well- informed decisions remains extremely difficult. 
+The difficulty of making consistent trading decisions is reflected across the industry. Regulated CFD providers are required to disclose the percentage of retail investor accounts that lose money when trading CFDs, and those figures commonly range between 70% and 90%, depending on the provider. These losses are not caused by a single factor. Leverage, risk management, market knowledge, and emotional discipline all play important roles. However, they reinforce a broader point: despite unprecedented access to market information, making consistent, well- informed decisions remains extremely difficult. 
 
 ## **The obvious objection**
 
