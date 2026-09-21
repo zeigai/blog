@@ -70,7 +70,7 @@ Within seconds, Zeig has assessed the macro implications, reviewed the technical
 
 By the time you've finished your first coffee, you've gone from reacting to understanding. 
 
-Or imagine this. A company you've been watching drops sharply after the open. Instead of spending an hour across three platforms- pulling the chart, scanning headlines, checking sector performance-you ask one question.
+Or imagine this. A company you've been watching drops sharply after the open. Instead of spending an hour across three platforms—pulling the chart, scanning headlines, and checking sector performance—you ask one question.
 
 **You:** Why is this stock down today?
 
