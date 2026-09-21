@@ -91,7 +91,7 @@ This is what it means to trade with your AI team. Not one that leaves you to int
 
 ## **The gap it closes**
 
-58% of Americans now own stock. Entering financial markets became easy. Understanding them didn't. 
+62% of Americans now own stock. Entering financial markets became easy. Understanding them didn't. 
 
 The industry gave everyone access to data. It never gave everyone access to professional-grade understanding. 
 
