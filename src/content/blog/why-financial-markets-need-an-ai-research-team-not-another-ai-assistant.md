@@ -133,7 +133,7 @@ One day, asking a single AI model for financial market analysis will feel as lim
 
 Financial markets are too interconnected for one lens. Too multidisciplinary for one model. Too continuous for a tool that only works when asked. 
 
-Financial markets spent decades solving access. The next decade will be about understanding. It won't be powered by faster assistants or smarter single models. It will be powered by coordinated AI - multiple specialists, working in parallel, synthesising across disciplines, reaching conclusions rather than returning data. 
+Financial markets spent decades solving access. The next decade will be about understanding. It won't be powered by faster assistants or smarter single models. It will be powered by coordinated AI—multiple specialists, working in parallel, synthesising across disciplines, reaching conclusions rather than returning data. 
 
 An assistant answers questions. A research team reaches conclusions. 
 
