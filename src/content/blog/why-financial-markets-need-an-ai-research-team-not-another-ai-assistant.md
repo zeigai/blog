@@ -89,7 +89,7 @@ We don't expect one human analyst to be an economist, technical analyst, macro s
 
 So why do we expect one AI model to?
 
-The edge institutions have is not better data. Every serious trader has access to the same prices, the same charts, the same news feeds. The edge is process. Coordinated, multi - disciplinary, conclusion - driven process - where multiple perspectives are synthesised into a single view. 
+The edge institutions have is not better data. Every serious trader has access to the same prices, the same charts, the same news feeds. The edge is a coordinated, multidisciplinary, conclusion - driven process in which multiple perspectives are synthesised into a single view. 
 
 When a macro strategist and a technical analyst examine the same position independently and reach the same conclusion, that conclusion carries more weight than either view alone. When they disagree, the tension between their perspectives surfaces something important that neither would have found alone. 
 
