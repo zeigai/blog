@@ -99,7 +99,7 @@ That's the gap Zeig closes—not simplifying the analysis, but by carrying the c
 
 ## **Who this team works for**
 
-Here's what this isn't : a beginner's tool with training wheels.
+Here's what this isn't: a beginner's tool with training wheels.
 
 Zeig is built for anyone who wants professional-grade market intelligence-whether you're placing your first trade or managing an active portfolio. 
 
