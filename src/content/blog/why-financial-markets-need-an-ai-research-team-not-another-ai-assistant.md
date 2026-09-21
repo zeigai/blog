@@ -139,7 +139,7 @@ An assistant answers questions. A research team reaches conclusions.
 
 The category that makes this possible now exists. 
 
-Trade with your AI team. 
+Trade with your AI team. .
 
 
 
