@@ -117,7 +117,7 @@ Tomorrow, your autonomous research platform will monitor every position you hold
 
 The next stage is broker-integrated execution—routing traders directly from insight to action, in one place, without switching platforms. 
 
-Eventually, Zeig becomes the operating system through which millions of people interact with financial markets- researching, monitoring, deciding, and executing with the same quality of intelligence that institutions have always had and everyone else has always been denied. 
+Eventually, Zeig becomes the operating system through which millions of people interact with financial markets—researching, monitoring, deciding, and executing with the same quality of intelligence that institutions have always had and everyone else has always been denied. 
 
 For decades, investors adapted themselves to the limitations of financial software. We think the software should adapt to the investor. That's what Zeig is building. 
 
