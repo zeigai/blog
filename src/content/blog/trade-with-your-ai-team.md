@@ -22,7 +22,7 @@ author: chloe
 ---
 
 
-Getting into the market has never been easier. Understanding it never got easier at all.
+Getting into the market has never been easier. Understanding it hasn't.
 
 Yesterday it moved 4%.
 
