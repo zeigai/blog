@@ -93,7 +93,7 @@ The edge institutions have is not better data. Every serious trader has access t
 
 When a macro strategist and a technical analyst examine the same position independently and reach the same conclusion, that conclusion carries more weight than either view alone. When they disagree, the tension between their perspectives surfaces something important that neither would have found alone. 
 
-Financial markets reward synthesis. The quality of a conclusion depends on how many disciplines were brought to bear on it - not how quickly one model responded to a question. 
+Financial markets reward synthesis. The quality of a conclusion depends on how many disciplines were brought to bear on it—not how quickly one model responded to a question. 
 
 An assistant answers questions. A research team reaches conclusions. 
 
