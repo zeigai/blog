@@ -87,7 +87,7 @@ That's why institutional research was never built around one analyst. It was bui
 
 We don't expect one human analyst to be an economist, technical analyst, macro strategist, news specialist and risk manager simultaneously. 
 
-So why do we expect one AI model to ?
+So why do we expect one AI model to?
 
 The edge institutions have is not better data. Every serious trader has access to the same prices, the same charts, the same news feeds. The edge is process. Coordinated, multi - disciplinary, conclusion - driven process - where multiple perspectives are synthesised into a single view. 
 
