@@ -127,13 +127,11 @@ Every major shift in financial markets expanded what people could do.
 
 Electronic trading made markets faster. Online brokerages made them affordable. Mobile technology made them convenient. 
 
-The next shift will be defined by something the industry hasn't solved yet: understanding. Not how many people can access financial markets-but how many people can truly participate in them, with the same intelligence, the same rigour, and the same confidence that institutions have always taken for granted. 
+The next shift will be defined by something the industry hasn't solved yet: understanding. Not how many people can access financial markets—but how many people can truly participate in them, with the same intelligence, the same rigour, and the same confidence that institutions have always taken for granted. 
 
 Imagine opening one application each morning. Your research is waiting. Your watchlist has already been analysed. Your questions already have answers. When you're ready to act, your broker is already connected. 
 
 An AI team working for you. Before you even ask. 
-
-The future of investing won't belong to the people with the most data≥ It will belong to the people who understands it best. 
 
 The future of investing won't belong to the people with the most data. It will belong to the people who understand it best. 
 
