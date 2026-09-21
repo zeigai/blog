@@ -37,7 +37,7 @@ Everything that follows is an argument for why financial markets specifically re
 
 ## **The questions nobody challenged**
 
-Professional access to financial information has been improving has been improving for decades. Data became faster. Charts became better. News became instant. 
+Professional access to financial information  has been improving for decades. Data became faster. Charts became better. News became instant. 
 
 And yet the gap between how institutions analyse markets and how everyone else does remained stubbornly wide. 
 
