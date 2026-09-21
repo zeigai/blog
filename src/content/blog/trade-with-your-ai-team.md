@@ -79,7 +79,7 @@ Or imagine this. A company you've been watching drops sharply after the open. In
 - Macro headwinds: Treasury yields spiked overnight following stronger-than-expected jobs data, pressuring growth stocks broadly
 - Technical breakdown: Price has broken below the 50-day moving average on elevated volume—a level that has held as support for six months 
 - Sector contagion: The broader sector is down 2.1%, suggesting this isn't company-specific.
-- Options activity: Unusual put activity in the days before the move suggests some institutional positioning ahead of today
+- Options activity: Unusual put activity in the days before the move suggests some institutional positioning ahead of today.
 
 **Our assessment:** This looks like macro and technical pressure rather than a fundamental deterioration. The next key support level is $47.20. A close below that would change the picture. 
 
