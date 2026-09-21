@@ -137,7 +137,7 @@ Financial markets spent decades solving access. The next decade will be about un
 
 An assistant answers questions. A research team reaches conclusions. 
 
-The category that makes the possible now exists. 
+The category that makes this possible now exists. 
 
 Trade with your AI team. 
 
