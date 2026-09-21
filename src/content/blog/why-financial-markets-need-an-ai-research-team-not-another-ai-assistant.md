@@ -83,7 +83,7 @@ The  transition—from event to meaning, across multiple connected markets—is 
 
 Markets are too complex for one perspective. They always have been. 
 
-That's why institutional research was never built around one analyst. It was built around specialists. Walk onto an institutional trading floors and you won't find a single expert making every call. You'll find economists, technical analysts, macro strategists, sector specialists and risk managers - each approaching the same market from a different angle, each contributing a layer the others can't provide. 
+That's why institutional research was never built around one analyst. It was built around specialists. Walk onto an institutional trading floor and you won't find a single expert making every call. You'll find economists, technical analysts, macro strategists, sector specialists and risk managers - each approaching the same market from a different angle, each contributing a layer the others can't provide. 
 
 We don't expect one human analyst to be an economist, technical analyst, macro strategist, news specialist and risk manager simultaneously. 
 
