@@ -50,9 +50,9 @@ The difficulty of making consistent trading decisions is reflected across the in
 
 ## **The obvious objection**
 
-Some people will read this and think : isn't this just a chatbot wrapped around a chart? Conversational interfaces aren't new. Search engines answer questions, customer service bots answer questions, and the finance industry has spent the last two years bolting "Ask AI" buttons onto existing dashboards.
+Some people will read this and think: Isn't this just a chatbot wrapped around a chart? Conversational interfaces aren't new. Search engines answer questions, customer service bots answer questions, and the finance industry has spent the last two years bolting "Ask AI" buttons onto existing dashboards.
 
- The skepticism is fair and worth taking seriously rather than waving away. But there's a real difference between a chat window bolted onto an existing dashboard and conversation as the actual analytical process. Many of the AI assistants currently entering finance are exactly what the specific describes: a faster way to summarise the same wall of data, not a different way to interpret it.
+ The skepticism is fair and worth taking seriously rather than waving away. But there's a real difference between a chat window bolted onto an existing dashboard and conversation as the actual analytical process. Many of the AI assistants currently entering finance are exactly what the objection describes: a faster way to summarise the same wall of data, not a different way to interpret it.
 
  Asking a chatbot to summarise ten indicators faster doesn't reduce the number of indicators you needed to already understand. It simply compresses the delivery. The underlying interpretation problem, knowing what deserves attention and why, stays exactly where it was. 
 
