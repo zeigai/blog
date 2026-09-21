@@ -83,7 +83,7 @@ Or imagine this. A company you've been watching drops sharply after the open. In
 
 **Our assessment:** This looks like macro and technical pressure rather than a fundamental deterioration. The next key support level is $47.20. A close below that would change the picture. 
 
-In six seconds, you understand not just what happened-but what it means. That's not a search engine. That's an AI team that has already reached a conclusion before you've finished reading the question. 
+In six seconds, you understand not just what happened—but what it means. That's not a search engine. That's an AI team that has already reached a conclusion before you've finished reading the question. 
 
 And unlike any human team, it keeps getting better. Every analysis is another opportunity to improve. As markets evolve and outcomes become known, Zeig continuously refines how it weighs evidence- a research capability that learns, adapts, and sharpens over time. 
 
