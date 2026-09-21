@@ -87,7 +87,7 @@ In six seconds, you understand not just what happened—but what it means. That'
 
 And unlike any human team, it keeps getting better. Every analysis is another opportunity to improve. As markets evolve and outcomes become known, Zeig continuously refines how it weighs evidence—a research capability that learns, adapts, and sharpens over time. 
 
-This is what it means to trade with your AI team. Not one that leaves you to interpret data alone. One that analyses, contextualises, and reaches a conclusion-whenever you need it, and before you think to ask. 
+This is what it means to trade with your AI team. Not one that leaves you to interpret data alone. One that analyses, contextualises, and reaches a conclusion whenever you need it, and before you think to ask. 
 
 ## **The gap it closes**
 
