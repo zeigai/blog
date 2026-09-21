@@ -57,7 +57,7 @@ They are a continuous stream of interconnected events.
 
 A central bank decision changes currencies. Currencies affect commodity prices. Commodities influence inflation expectations. Inflation changes interest-rate forecasts. Interest rates move equities. Equities affect sentiment. Sentiment shifts positioning. Positioning changes how the next piece of news lands. 
 
-Every development creates a chain reaction across multiple markets, multiple asset classes, multiple timeframes - simultaneously. 
+Every development creates a chain reaction across multiple markets, multiple asset classes, multiple timeframes—simultaneously. 
 
 Financial markets aren't static. Financial markets don't wait. Financial markets aren't driven by one variable. Financial markets reward synthesis, not isolated answers. 
 
