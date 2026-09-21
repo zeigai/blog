@@ -71,7 +71,7 @@ An AI assistant is reactive by design. It responds to what you ask, when you ask
 
 That model of interaction was never quite right for markets that move whether or not you are asking. 
 
-At 2:43 a.m. the Bank of Japan surprises markets. Bond yields jump. Equity futures fall. Currencies reprice across every major pair. While you're asleep, financial markets are already drawing new conclusions-across instruments, across sectors, across geographies. 
+At 2:43 a.m. the Bank of Japan surprises markets. Bond yields jump. Equity futures fall. Currencies reprice across every major pair. While you're asleep, financial markets are already drawing new conclusions-across instruments, across sectors, and geographies. 
 
 An assistant waits for your question. Financial markets don't wait for anyone. 
 
