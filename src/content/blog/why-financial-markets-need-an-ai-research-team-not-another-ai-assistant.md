@@ -61,7 +61,7 @@ Every development creates a chain reaction across multiple markets, multiple ass
 
 Financial markets aren't static. Financial markets don't wait. Financial markets aren't driven by one variable. Financial markets reward synthesis, not isolated answers. 
 
-No single perspective can explain that. Understanding financial markets has always required specialists working together - each bringing a different discipline, each contributing a different layer of understanding, before anyone reaches a view. 
+No single perspective can explain that. Understanding financial markets has always required specialists working together—each bringing a different discipline, each contributing a different layer of understanding, before anyone reaches a view. 
 
 AI should be built the same way. 
 
