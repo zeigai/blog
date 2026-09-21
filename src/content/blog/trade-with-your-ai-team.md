@@ -20,8 +20,6 @@ imageSource: original
 imageApproved: true
 author: chloe
 ---
-
-
 Getting into the market has never been easier. Understanding it hasn't.
 
 Yesterday it moved 4%.
@@ -44,7 +42,7 @@ Zeig isn't another finance app. It isn't another AI chatbot.
 
 It's the world's first AI investment team. 
 
-Zeig synthesises the work that would traditionally be spread across multiple research disciplines-macro strategy, technical analysis, news flow, sector context- and reaches a single, unified conclusion. 
+Zeig synthesises the work that would traditionally be spread across multiple research disciplines—macro strategy, technical analysis, news flow, sector context—and reaches a single, unified conclusion. 
 
 That's the difference. Most AI tools give you information. Zeig gives you a conclusion. After weighing technicals, macro context, news flow and price action, Zeig doesn't hand you data to interpret. It tells you what it means. 
 
