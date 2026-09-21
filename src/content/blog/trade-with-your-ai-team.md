@@ -95,7 +95,7 @@ This is what it means to trade with your AI team. Not one that leaves you to int
 
 The industry gave everyone access to data. It never gave everyone access to professional-grade understanding. 
 
-That's the gap Zeig closes-not simplifying the analysis, but by carrying the complexity instead of handling it to the person using it. The rigour stays. The barrier disappears. 
+That's the gap Zeig closes—not simplifying the analysis, but by carrying the complexity instead of handling it to the person using it. The rigour stays. The barrier disappears. 
 
 ## **Who this team works for**
 
