@@ -131,7 +131,7 @@ That architecture is what Zeig has built.
 
 One day, asking a single AI model for financial market analysis will feel as limited as expecting one analyst to run an entire institutional research desk alone. 
 
-Financial markets are too interconnected for one lens. Too multi-disciplinary forgone model. Too continuous for a tool that only works when asked. 
+Financial markets are too interconnected for one lens. Too multidisciplinary for one model. Too continuous for a tool that only works when asked. 
 
 Financial markets spent decades solving access. The next decade will be about understanding. It won't be powered by faster assistants or smarter single models. It will be powered by coordinated AI - multiple specialists, working in parallel, synthesising across disciplines, reaching conclusions rather than returning data. 
 
