@@ -22,7 +22,7 @@ author: chloe
 ---
 It's 7 am and you're already switching tabs.
 
- Futures on one screen. An economic calendar on another. Your broker's app for positions, a charting platform for structure, a news terminal for context, a group chat for whatever everyone else is reaching to before you've even had coffee. By the time you've assembled a picture of "what's happening", you've touched six different tools and the thread twice.
+ Futures on one screen. An economic calendar on another. Your broker's app for positions, a charting platform for structure, a news terminal for context, a group chat for whatever everyone else is reacting to before you've even had coffee. By the time you've assembled a picture of "what's happening", you've moved between six different tools and lost the thread twice..
 
  None of those failed you. Each one does exactly what it was built to do. What none of them do is put the picture together for you.
 
