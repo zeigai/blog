@@ -29,7 +29,7 @@ Yet after years of rapid innovation, financial markets still face the same probl
 
 Not access to information. Not speed of data. Understanding. 
 
-Financial markets are one of the few domains where the quality of a conclusion depends on combining multiple disciplines - not simply answering individual questions. That is the reason AI assistants, however capable, have not closed the gap. And it is the reason the next generation of financial AI will look fundamentally different from everything built so far. 
+Financial markets are one of the few domains where the quality of a conclusion depends on combining multiple disciplines—not simply answering individual questions. That is the reason AI assistants, however capable, have not closed the gap. And it is the reason the next generation of financial AI will look fundamentally different from everything built so far. 
 
 **An assistant answers questions. A research team reaches conclusions.** 
 
