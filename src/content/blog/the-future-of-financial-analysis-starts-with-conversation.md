@@ -38,7 +38,7 @@ By the metric the industry spent a decade optimising for, it succeeded completel
 
 ## **The problem the industry is still struggling to solve**
 
- Here's what that success produced. By December 2025, U.S. options markets were generating a median of approximately 131 billion OPRA quote messages per day, with peak volume reaching 247 billion earlier that year. That volume has grown dramatically over the past decade as trading activity and market complexity have increased. Add real-time news from global financial news providers, hundreds of scheduled macroeconomics releases each year, social sentiment, and how AI-generated commentary layered on top of all of it, and today's trader isn't short on information. They're overwhelmed by it.
+ Here's what that success produced. By December 2025, U.S. options markets were generating a median of approximately 131 billion OPRA quote messages per day, with peak volume reaching 247 billion earlier that year. That volume has grown dramatically over the past decade as trading activity and market complexity have increased. Add real-time news from global financial news providers, hundreds of scheduled macroeconomic releases each year, social sentiment, and  AI-generated commentary layered on top of all of it, and today's trader isn't short on information. They're overwhelmed by it.
 
 This isn't a hunch. The Federal Reserve's research on information overload found something specific: information helps decision quality only up to a point. Past that threshold, more information measurably degrades it, reducing trading activity and distorting the risk premium investors demand because uncertainty about what actually matters has a cost.
 
