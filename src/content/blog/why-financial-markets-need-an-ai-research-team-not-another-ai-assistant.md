@@ -69,7 +69,7 @@ AI should be built the same way.
 
 An AI assistant is reactive by design. It responds to what you ask, when you ask it. It answers the question in front of it and waits for the next one. 
 
-That model of interaction was never quite right for markets that move whether or not you asking. 
+That model of interaction was never quite right for markets that move whether or not you are asking. 
 
 At 2:43am, the Bank of Japan surprises markets. Bond yields jump. Equity futures fall. Currencies reprice across every major pair. While you're asleep, financial markets are already drawing new conclusions - across instruments, across sectors, across geographies. 
 
