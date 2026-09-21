@@ -82,11 +82,7 @@ The value of conversation extends beyond market analysis. It also helps traders 
 
 ## **Back to 7a.m.**
 
-Picture that same morning again, but differently. Instead of six tabs, one question: What's driving the move in this asset overnight? Instead of reassembling futures, news, and a chart by hand, a direct answer—grounded in the same data, structured the same way a sharp analyst would structure it, with room to ask a sharper follow-up the moment something doesn't add up.
-
-Nothing about the market got simpler. The six sources of information didn't disappear- they got synthesised into something a person could actually act on before the market moved again. That's the difference between more speed and more understanding, and it's the difference this article has been building toward the whole way through.
-
-
+Picture that same morning again, but differently. Instead of six tabs, one question: What's driving the move in this asset overnight? Instead of reassembling futures, news, and a chart by hand, a direct answer—grounded in the same data, structured the same way a sharp analyst would structure it, with room to ask a sharper follow-up the moment something doesn't add up. That's the difference between more speed and more understanding, and it's the difference this article has been building toward the whole way through.
 
  **References** 
 
