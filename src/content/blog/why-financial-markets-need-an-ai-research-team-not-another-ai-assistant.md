@@ -99,7 +99,7 @@ An assistant answers questions. A research team reaches conclusions.
 
 ## **Why one model is never enough**
 
-Most AI tools applied to financial markets are built on single model doing its best with a general capability. 
+Most AI tools applied to financial markets are built on a single model doing its best with a general capability. 
 
 That is the wrong architecture for this domain. 
 
