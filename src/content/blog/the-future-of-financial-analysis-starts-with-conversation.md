@@ -34,7 +34,7 @@ It's 7 am and you're already switching tabs.
 
  The gate came down. Online brokerages cut costs. Free charting platforms now serve well over 100 million traders and investors worldwide. Financial data that was once scarce is now, by any honest measure, abundant.
 
-By the metric the Industry spent a decade optimising for, it succeeded completely. 
+By the metric the industry spent a decade optimising for, it succeeded completely. 
 
 ## **The problem the industry is still struggling to solve**
 
