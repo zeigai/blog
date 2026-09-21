@@ -56,7 +56,7 @@ That's Zeig.
 
 At 2:43 a.m. while you're asleep, the Bank of Japan surprises markets. The yen spikes. Bond yields move. Equity futures fall. 
 
-Before your alarm goes off, Zeig has already analysed the event, assessed its impact on your watchlist, and prepared a briefing waiting for you when you wake. 
+Before your alarm goes off, Zeig has already analysed the event, assessed its impact on your watchlist, and prepared a briefing that will be waiting when you wake. 
 
 Your AI team was already working before you opened your eyes. 
 
