@@ -111,7 +111,7 @@ Same intelligence. Same rigour. For everyone.
 
 ## **Where the AI team is going**
 
-Today, Zeig helps traders analyse markets, understand price action and explore trade ideas through natural conversation and professional-grade analysis 
+Today, Zeig helps traders analyse markets, understand price action, and explore trade ideas through natural conversation and professional-grade analysis. 
 
 Tomorrow, your autonomous research platform will monitor every position you hold, every market you care about, every development that could change the picture-continuously, without being asked. 
 
