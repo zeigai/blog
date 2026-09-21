@@ -54,7 +54,7 @@ That's Zeig.
 
 ## **What it feels like to trade with your AI team**
 
-At 2:43 am, while you're asleep, the Bank of Japan surprises markets. The yen spikes Bond yields move. Equity futures fall. 
+At 2:43 am, while you're asleep, the Bank of Japan surprises markets. The yen spikes. Bond yields move. Equity futures fall. 
 
 Before your alarm goes off, Zeig has already analysed the event, assessed its impact on your watchlist, and prepared a briefing waiting for you when you wake. 
 
