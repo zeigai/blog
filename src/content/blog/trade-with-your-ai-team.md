@@ -60,7 +60,7 @@ Before your alarm goes off, Zeig has already analysed the event, assessed its im
 
 Your AI team was already working before you opened your eyes. 
 
-It's 6 am. Your first coffee is brewing. Markets have already been awake for hours.
+It's 6 a.m. Your first coffee is brewing. Markets have already been awake for hours.
 
 An inflation report dropped overnight. Bond markets moved. Equities are reacting before the open.
 
