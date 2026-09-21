@@ -113,7 +113,7 @@ Same intelligence. Same rigour. For everyone.
 
 Today, Zeig helps traders analyse markets, understand price action, and explore trade ideas through natural conversation and professional-grade analysis. 
 
-Tomorrow, your autonomous research platform will monitor every position you hold, every market you care about, every development that could change the picture-continuously, without being asked. 
+Tomorrow, your autonomous research platform will monitor every position you hold, every market you care about, every development that could change the picture—continuously, without being asked. 
 
 The next stage is broker-integrated execution-routing traders directly from insight to action, in one place, without switching platforms. 
 
