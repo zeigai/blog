@@ -107,7 +107,7 @@ Intelligence alone does not determine the quality of financial analysis. Structu
 
 An AI assistant is like asking one expert for an opinion. An AI research team is like sitting in an investment committee where specialists challenge, refine and strengthen each other's thinking before a conclusion is reached. The committee produces something that even its smartest individual member could not have produced alone. 
 
-Building a single smarter model does not change this. Financial markets don't need a faster single perspective. They need coordinated multiple perspectives - the same architecture logic that institutional research desks have always operated on. 
+Building a single smarter model does not change this. Financial markets don't need a faster single perspective. They need multiple coordinated  perspectives—the same architecture logic on which institutional research desks have always operated.
 
 The industry has spent years scaling one approach. The next generation requires the other one. 
 
