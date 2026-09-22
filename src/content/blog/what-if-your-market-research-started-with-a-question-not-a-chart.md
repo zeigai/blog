@@ -116,7 +116,7 @@ Zeig is where it goes from there.
 
 Trade with your AI team. 
 
-***Sources :*** 
+**Sources:** 
 
 Gallup — What Percentage of Americans Own Stock? (Updated May 2025)[https://news.gallup.com/poll/266807/percentage-americans-own-stock.aspx](https://news.gallup.com/poll/266807/percentage-americans-own-stock.aspx)
 
