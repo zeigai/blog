@@ -30,9 +30,9 @@ This scenario is illustrative. It does not describe an actual customer and does 
 
 ## **The first ten seconds**
 
-Maya asks, " Why is this stock moving before the open, and what should I watch today?" 
+Maya asks, "Why is this stock moving before the open, and what should I watch today?" 
 
-The question appears simple, but a useful answer requires several forms of analysis. The move could reflect a company announcement, an analyst revision, wider strength across the technology sector, changing interest rate expectations, or temporary market positioning. Looking at only one source could produce an incomplete interpretation. 
+The question appears simple, but a useful answer requires several forms of analysis. The move could reflect a company announcement, an analyst revision, wider strength across the technology sector, changing interest-rate expectations, or temporary market positioning. Looking at only one source could produce an incomplete interpretation. 
 
 Zeig begins with the objective behind the question. Rather than presenting unrelated data, it examines the information that may explain the movement and define what matters next. 
 
