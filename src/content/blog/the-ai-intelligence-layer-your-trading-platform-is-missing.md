@@ -126,7 +126,7 @@ Real-time data. Mobile trading. Social investing. Each one felt optional until i
 
 AI research intelligence is the same shift. And the window for being early is open right now. 
 
-The traders on your platform are already asking questions that your tools cannot answer. They are finding answers elsewhere - on social media, in trading forums, from AI tools they discovered independently that have no relationship with your platform and no interest in their long - term success. 
+The traders on your platform are already asking questions that your tools cannot answer. They are finding answers elsewhere—on social media, in trading forums, from AI tools they discovered independently that have no relationship with your platform and no interest in their long - term success. 
 
 Every time that happens, the relationship between your trader and your platform weakens by a degree you cannot measure and cannot recover easily. 
 
