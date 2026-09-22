@@ -38,7 +38,7 @@ That is the gap. And it is costing you more than you think.
 
 ## **The industry built the wrong thing**
 
-The brokerage industry made a bet twenty years ago and it has been doubling down on it ever since. 
+The brokerage industry made a bet twenty years ago, and it has been doubling down on it ever since. 
 
 The bet was this: access is the problem. If retail traders have access to the same data as professionals- the same charts, the same indicators, the same real-time feeds, the gap between how institutions trade and how everyone else does will close. 
 
