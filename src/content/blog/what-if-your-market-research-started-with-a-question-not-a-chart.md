@@ -34,7 +34,7 @@ It is not a knowledge problem. Most traders who have been doing this for any len
 
 The problem is that they are reading answers to questions they have not yet asked. 
 
-And that single inversion, data before direction, is where most retail research quietly falls apart. 
+And that single inversion—data before direction—is where most retail research quietly falls apart. 
 
 ## **The way professionals actually think**
 
