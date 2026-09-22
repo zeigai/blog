@@ -93,9 +93,9 @@ The conclusion that emerges from that synthesis is structurally more reliable th
 
 When you ask Zeig about a market, RSI is one layer of the analysis. Not the answer. 
 
-Zeig's technical analyst reads RSI across multiple timeframes simultaneously. It identifies momentum, spots divergences, assesses where RSI has been finding support and resistance relative to the current trend. It does not just tell you the RSI number. It tells you what that number means in the context of everything else happening in the market at that moment. 
+Zeig's technical analyst reads RSI across multiple timeframes simultaneously. It identifies momentum, spots divergences and assesses where RSI has been finding support and resistance relative to the current trend. It does not just tell you the RSI number. It tells you what that number means in the context of everything else happening in the market at that moment. 
 
-Alongside the technical analysis, Zeig macro analyst assesses the broader market context. The news analyst reviews what is moving the market beyond price action. The market analyst examines sector behaviour and volume. All of this happens simultaneously. The conclusion that comes back is not a dashboard of indicators to interpret. 
+Alongside the technical analysis, Zeig's macro analyst assesses the broader market context. The news analyst reviews what is moving the market beyond price action. The market analyst examines sector behaviour and volume. All of this happens simultaneously. The conclusion that comes back is not a dashboard of indicators to interpret. 
 
 It is a view. A specific, contextualised view on the question you asked, built from multiple disciplines working together. 
 
