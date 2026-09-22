@@ -80,7 +80,7 @@ Zeig is designed to bring multiple analytical perspectives into one conversation
 
 Zeig can support the research process, but the final judgement remains with the person using it. Better research should not eliminate independent thinking. It should improve the quality and structure of the evidence informing it. 
 
-For Maya, the morning began with an unexplained market move. Sixty seconds later, she had a clearer framework for deciding what to do next before committing capital in a fast changing and uncertain environment. 
+For Maya, the morning began with an unexplained market move. Sixty seconds later, she had a clearer framework for deciding what to do next before committing capital in a fast-changing and uncertain environment. 
 
 The next time the market moves before the explanation is clear, begin with the question that matters most. 
 
