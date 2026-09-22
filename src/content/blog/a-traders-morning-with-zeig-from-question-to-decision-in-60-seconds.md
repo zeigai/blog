@@ -84,7 +84,7 @@ For Maya, the morning began with an unexplained market move. Sixty seconds later
 
 The next time the market moves before the explanation is clear, begin with the question that matters most. 
 
-What would you ask the market first ? 
+What would you ask the market first? 
 
 **Source**
 
