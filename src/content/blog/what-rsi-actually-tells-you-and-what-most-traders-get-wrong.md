@@ -77,7 +77,7 @@ A 1-minute RSI tells you about momentum over the last 14 minutes. A daily RSI te
 
 A trader who sees RSI oversold on the 15-minute chart and buys, without checking that the daily RSI is in a strong downtrend with plenty of room to fall further, is making a decision with  one piece of a picture that has four or five layers. 
 
-Professional technical analysts look at RSI across multiple timeframes simultaneously. They use the higher timeframe to establish the trend and the direction they want to trade. They use the lower timeframe to find the entry point within that direction. For example, a 15-minute oversold reading may be less meaningful in the context of a bearish daily trend. This multi-timeframe approach can provide a more complete view of trend and momentum. It is also one of the most time-consuming to execute manually. Checking multiple charts, multiple timeframes, cross-referencing the signals and forming a view before the opportunity disappears. 
+Professional technical analysts look at RSI across multiple timeframes simultaneously. They use the higher timeframe to establish the trend and the direction they want to trade. They use the lower timeframe to find the entry point within that direction. For example, a 15-minute oversold reading may be less meaningful in the context of a bearish daily trend. This multi-timeframe approach can provide a more complete view of trend and momentum. It is also one of the most time-consuming to execute manually. It requires checking multiple charts and  timeframes, cross-referencing the signals and forming a view before the opportunity disappears. 
 
 ## **Why RSI is one signal, not an answer**
 
