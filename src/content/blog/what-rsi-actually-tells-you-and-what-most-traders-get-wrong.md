@@ -63,7 +63,7 @@ This is why RSI works when traders use it correctly and fails when they treat it
 
 Used correctly, RSI provides three genuinely useful pieces of information. 
 
-**Momentum confirmation**. When price makes a new high and RSI also makes a new high, the move momentum behind it. The two are confirming each other. When price makes a new high but RSI makes a lower high, this is called divergence, the move Is losing momentum. Price is going up but the strength behind it is weakening. This is one of the most reliable signals RSI produces, and it is also one of the least used by retail traders. 
+**Momentum confirmation**. When price makes a new high and RSI also makes a new high, the move momentum behind it. The two are confirming each other. When price makes a new high but RSI also  makes a new high, the move has momentum behind it. Price is going up but the strength behind it is weakening. This is one of the most reliable signals RSI produces, and it is also one of the least used by retail traders. 
 
 **Trend identification.** In an uptrend, RSI tends to hold above 40 to 50 and find support in that range before bouncing. In a downtrend, RSI tends to hold below 50 to 60 and find resistance there before falling again. Watching where RSI finds support and resistance, not just whether it is above or below 30 and 70, tells you more about trend strength than the overbought and oversold levels ever will. 
 
