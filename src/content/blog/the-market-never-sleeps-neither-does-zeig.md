@@ -100,7 +100,7 @@ Today, Zeig analyses markets and delivers institutional-grade research through a
 
 Tomorrow, it will monitor positions continuously, alerting users the moment something material changes—before they think to check. 
 
-Then it will execute, routing traders from insight to action in once place, without switching platforms. 
+Then it will execute, routing traders from insight to action in one place, without switching platforms. 
 
 Eventually, Zeig becomes the operating systems through which people interact with financial markets around the clock, researching, monitoring, and acting with the same continuous intelligence that institutions have always had and everyone else has always been denied. 
 
