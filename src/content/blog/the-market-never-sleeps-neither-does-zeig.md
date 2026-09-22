@@ -102,7 +102,7 @@ Tomorrow, it will monitor positions continuously, alerting users the moment some
 
 Then it will execute, routing traders from insight to action in one place, without switching platforms. 
 
-Eventually, Zeig becomes the operating systems through which people interact with financial markets around the clock, researching, monitoring, and acting with the same continuous intelligence that institutions have always had and everyone else has always been denied. 
+Eventually, Zeig becomes the operating system through which people interact with financial markets around the clock, researching, monitoring, and acting with the same continuous intelligence that institutions have always had and everyone else has always been denied. 
 
 The market never sleeps.
 
