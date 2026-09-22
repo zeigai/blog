@@ -74,11 +74,11 @@ A question-first process gives research direction. The trader identifies the unc
 
 Speed is valuable in financial markets, but a fast answer based on incomplete evidence may only accelerate a poor decision. Useful research must also be relevant, structured, and capable of considering alternative explanations. 
 
-Zeig is designed to bring multiple analytical perspective into one conversational research process. Its role is not to remove complexity or replace human judgement. It is to organise that complexity so traders can understand what is happening, why it matters, and what they should monitor next. 
+Zeig is designed to bring multiple analytical perspectives into one conversational research process. Its role is not to remove complexity or replace human judgement. It is to organise that complexity so traders can understand what is happening, why it matters, and what they should monitor next. 
 
 ## **The decision remains with the trader**
 
-Zeig can support the research process, but the final judgment remains with the person using it. Better research should not eliminate independent thinking. It should improve the quality and structure of the information informing it. 
+Zeig can support the research process, but the final judgement remains with the person using it. Better research should not eliminate independent thinking. It should improve the quality and structure of the evidence informing it. 
 
 For Maya, the morning began with an unexplained market move. Sixty seconds later, she had a clearer framework for deciding what to do next before committing capital in a fast changing and uncertain environment. 
 
