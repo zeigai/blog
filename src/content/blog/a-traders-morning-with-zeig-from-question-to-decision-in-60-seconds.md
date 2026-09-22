@@ -62,7 +62,7 @@ Zeig does not need to issue a simple instruction to buy or sell. Instead, it hel
 
 ## **What changed in sixty seconds**
 
-The market did not become predicable, and uncertainty did not disappear. Maya still has to consider her objectives, risk tolerance, timing, position size, and existing exposure. 
+The market did not become predictable, and uncertainty did not disappear. Maya still has to consider her objectives, risk tolerance, timing, position size, and existing exposure. 
 
 What changed was the structure of her understanding. She began with a moving price and several possible explanations. She finished with a relevant catalyst, broader context, a technical framework, identifiable risks, and clear conditions to monitor. 
 
