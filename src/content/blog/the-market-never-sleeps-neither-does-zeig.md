@@ -104,17 +104,15 @@ Then it will execute, routing traders from insight to action in one place, witho
 
 Eventually, Zeig becomes the operating system through which people interact with financial markets around the clock, researching, monitoring, and acting with the same continuous intelligence that institutions have always had and everyone else has always been denied. 
 
-The market never sleeps.
-
-It never has. 
-
-The tools built to understand it are finally catching up. 
+The market never sleeps.  It never has. 
 
 Neither does Zeig. 
 
+The tools built to understand it are finally catching up. 
+
 **Sources**
 
-Gallup — What Percentage of Americans Own Stock? (Updated May 2025)] [https://news.gallup.com/poll/266807/percentage-americans-own-stock.aspx](https://news.gallup.com/poll/266807/percentage-americans-own-stock.aspx)
+Gallup — What Percentage of Americans Own Stock? (Updated May 2025) [https://news.gallup.com/poll/266807/percentage-americans-own-stock.aspx](https://news.gallup.com/poll/266807/percentage-americans-own-stock.aspx)
 
 World Economic Forum — New study finds financial education gaps are primary barrier to retail investing in capital markets (2022) [https://www.weforum.org/press/2022/08/new-study-finds-financial-education-gaps-are-primary-barrier-to-retail-investing-in-capital-markets/](https://www.weforum.org/press/2022/08/new-study-finds-financial-education-gaps-are-primary-barrier-to-retail-investing-in-capital-markets/)
 
