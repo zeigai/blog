@@ -110,7 +110,7 @@ The difference between those two groups is not data quality.
 
 It is whether your platform closes the interpretation gap or leaves it open. 
 
-Zeig's API integrates directly into your trading environment. Your traders keep everything they already know - your charts, your execution, your interface. What changes. is what happens the moment a trader needs to understand a market. They ask a question. An AI research team answers it. The platform that gave them data now gives them understanding. 
+Zeig's API integrates directly into your trading environment. Your traders keep everything they already know - your charts, your execution, your interface. What changes is what happens the moment a trader needs to understand a market. They ask a question. An AI research team answers it. The platform that gave them data now gives them understanding. 
 
 That is not an incremental improvement to your product. 
 
