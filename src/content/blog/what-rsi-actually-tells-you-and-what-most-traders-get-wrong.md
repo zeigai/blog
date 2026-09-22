@@ -105,7 +105,7 @@ Zeig reads all of it.
 
 Trade with your AI team. 
 
- **Sources**
+ **Sources:**
 
 Wilder, J. Welles — New Concepts in Technical Trading Systems (1978) [https://www.amazon.com/New-Concepts-Technical-Trading-Systems/dp/0894590278](https://www.amazon.com/New-Concepts-Technical-Trading-Systems/dp/0894590278)
 
