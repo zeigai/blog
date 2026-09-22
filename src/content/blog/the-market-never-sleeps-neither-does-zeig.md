@@ -78,11 +78,11 @@ Zeig is not a faster chart.
 
 It is not a smart dashboard. It is not a chatbot that answers questions when you remember to ask. 
 
-Zeig is an AI research team, built on the same architectural logic as an institutional research desk, where specialist agents work continuously across macro, technical analysis, news flow and price action, before presenting one unified conclusion. 
+Zeig is an AI research team, built on the same architectural logic as an institutional research desk, where specialist agents work continuously across macro, technical analysis, news flow, and price action, before presenting one unified conclusion. 
 
 The critical word is continuously. 
 
-Most Ai tools in finance are reactive. They respond to what you ask, when you ask it. When you close the app, the analysis stops. The intelligence sleeps when you do. 
+Most AI tools in finance are reactive. They respond to what you ask, when you ask it. When you close the app, the analysis stops. The intelligence sleeps when you do. 
 
 Zeig is built the other way. It monitors markets without being asked. It tracks what matters without prompting. It surfaces what is important before you think to look. Not because you asked. Because that is what a research team does. 
 
@@ -92,7 +92,7 @@ A research team never stops working.
 
 For decades, institutional traders have had this. Analysis working through the night. Briefings prepared before the open. Conclusions waiting when they arrive at their desk in the morning. That capability has always existed. It has simply never been available outside institutions. 
 
-Zeig close that gap. For everyone. 
+Zeig closes that gap. For everyone. 
 
 ## **The future it is building toward**
 
