@@ -85,7 +85,7 @@ Even when RSI is used correctly, with proper understanding of momentum, divergen
 
 RSI says nothing about why price is moving. It says nothing about whether a macro development has changed the thesis. It says nothing about news flow, earnings, sector rotation or positioning. It is a mathematical calculation based purely on price. A complete analysis requires RSI alongside macro context, news flow, volume, market structure and sector behaviour. Not instead of them. 
 
-This is the same reason institutional analysts do not make decisions based on one indicator. They synthesise multiple perspectives, drawing on expertise from different disciplines before forming a view. The technical analyst reads RSI in the context is what is driving markets at the moment. The news analyst assesses whether anything in the news flow confirms or challenges the technical thesis. 
+This is the same reason institutional analysts do not make decisions based on one indicator. They synthesise multiple perspectives, drawing on expertise from different disciplines before forming a view. The technical analyst reads RSI in the context of what is driving markets at the moment. The news analyst assesses whether anything in the news flow confirms or challenges the technical thesis. 
 
 The conclusion that emerges from that synthesis is structurally more reliable than any single signal could ever produce. 
 
