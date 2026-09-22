@@ -64,7 +64,7 @@ Zeig does not need to issue a simple instruction to buy or sell. Instead, it hel
 
 The market did not become predictable, and uncertainty did not disappear. Maya still has to consider her objectives, risk tolerance, timing, position size, and existing exposure. 
 
-What changed was the structure of her understanding. She began with a moving price and several possible explanations. She finished with a relevant catalyst, broader context, a technical framework, identifiable risks, and clear conditions to monitor. 
+What changed was the structure of her understanding. She began with a price movement  and several possible explanations. She finished with a relevant catalyst, broader context, a technical framework, identifiable risks, and clear conditions to monitor. 
 
 She moved from reacting to a price movement to evaluating a market situation. 
 
