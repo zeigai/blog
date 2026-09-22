@@ -84,7 +84,7 @@ Ask whether a move is macro-driven or technical and you immediately know which i
 
 The question is not the start of the research. It is the architecture of it. 
 
-Professional research desks have always known this. A research analyst does not walk into the morning meeting and say here is everything I found. They walk in with a view, built on a question they answered through a structured process involving macro context, technical evidence, sector behaviour and news flow working together. 
+Professional research desks have always known this. A research analyst does not walk into the morning meeting and say, "Here is everything I found." They walk in with a view, built on a question they answered through a structured process involving macro context, technical evidence, sector behaviour, and news flow working together. 
 
 That process produces something a chart alone never can. 
 
