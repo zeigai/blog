@@ -41,7 +41,7 @@ What that number tells you is this: relative to recent price movement, is the cu
 
 That is it. That is what RSI measures. Momentum—not intrinsic value and not a guaranteed prediction of where price will move next. 
 
-This distinction matters enormously. Because when traders treat RSI as a valuation tools, buying because RSI is "oversold" at 28 and expecting price to bounce simply because a number is low, they are asking RSI to answer a question it was never designed to answer. 
+This distinction matters enormously. Because when traders treat RSI as a valuation tool, buying because RSI is "oversold" at 28 and expecting price to bounce simply because a number is low, they are asking RSI to answer a question it was never designed to answer. 
 
 A low RSI does not mean an asset is cheap. It means recent downward moves have been larger than recent upward moves. That is not the same thing. And in a strong downtrend, RSI can stay below 30 for weeks while price continues falling. 
 
