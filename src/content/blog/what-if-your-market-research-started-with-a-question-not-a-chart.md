@@ -80,7 +80,7 @@ A question does something that a chart cannot.
 
 It defines what matters before the analysis begins. 
 
-Ask whether a move is macro-driven or technical and you immediately know which indicators are relevant and which one are noise. Ask whether a position is supported by institutional flow and you know exactly where to look. Ask what the risk looks like relative to the reward and the entire analysis organises itself around a single decision. 
+Ask whether a move is macro-driven or technical and you immediately know which indicators are relevant and which ones are noise. Ask whether a position is supported by institutional flow and you know exactly where to look. Ask what the risk looks like relative to the reward and the entire analysis organises itself around a single decision. 
 
 The question is not the start of the research. It is the architecture of it. 
 
