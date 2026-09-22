@@ -70,7 +70,7 @@ She moved from reacting to a price movement to evaluating a market situation.
 
 ## **Why the question matters**
 
-A question first process gives research direction. The trader identifies the uncertainty that matters. Each source of analysis then serves a purpose within that investigation. Charts, fundamentals, news, macroeconomic conditions, sector performance, and sentiment all contribute to answering the same question. 
+A question-first process gives research direction. The trader identifies the uncertainty that matters. Each source of analysis then serves a purpose within that investigation. Charts, fundamentals, news, macroeconomic conditions, sector performance, and sentiment all contribute to answering the same question. 
 
 Speed is valuable in financial markets, but a fast answer based on incomplete evidence may only accelerate a poor decision. Useful research must also be relevant, structured, and capable of considering alternative explanations. 
 
