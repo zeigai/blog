@@ -90,7 +90,7 @@ It takes a trader's question—any question, in plain English, about any markets
 
 A conclusion. Not a signal to decode. Not data to interpret. A specific, contextualised view on the question the trader asked, built from multiple disciplines working together, delivered in seconds. 
 
-That is what Goldman Sachs research desk produces for institutional clients every morning. 
+That is what Goldman Sachs' research desk produces for institutional clients every morning. 
 
 It is what your traders have never had access to. 
 
