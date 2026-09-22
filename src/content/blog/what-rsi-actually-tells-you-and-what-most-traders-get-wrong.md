@@ -75,7 +75,7 @@ RSI behaves very differently across timeframe and most traders only look at one.
 
 A 1-minute RSI tells you about momentum over the last 14 minutes. A daily RSI tells you about momentum over the last 14 days. A weekly RSI tells you about momentum over the last 14 weeks. These are fundamentally different pictures of the same asset. 
 
-A trader who sees RSI oversold on the 15-minute chart and buys, without checking that the daily RSI is in a strong downtrend with plenty of room to fall further, is making a decision with with one piece of a picture that has four or five layers. 
+A trader who sees RSI oversold on the 15-minute chart and buys, without checking that the daily RSI is in a strong downtrend with plenty of room to fall further, is making a decision with  one piece of a picture that has four or five layers. 
 
 Professional technical analyst look at RSI across multiple timeframes simultaneously. They use the higher timeframe to establish the trend and the direction they want to trade. They use the lower timeframe to find the entry point within that direction. A 15-minute oversold reading in the context of a bearish daily trend. 
 
