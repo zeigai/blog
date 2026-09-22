@@ -26,7 +26,7 @@ You close the app. The analysis stops. The charts freeze. The intelligence that 
 
 Zeig doesn't work that way. 
 
-While you sleep, while you're in a meeting, while you're living your life away from a screen, Zeig keeps working. Monitoring the markets you care about. Tracking the developments that matter. Building the picture that will be waiting for you when you return. 
+While you sleep, while you're in a meeting, while you're living your life away from a screen, Zeig keeps working. Monitoring the markets you care about. Tracking the developments that matter. Building a complete  picture that will be waiting for you when you return. 
 
 That is the difference between a tool and a team. 
 
@@ -34,7 +34,7 @@ Tools wait. Teams work.
 
 And financial markets have never once waited for anyone. 
 
-## **The flaw built into every tool** 
+## **The flaw built into every tool**
 
 Every platform built for traders in the last twenty years shares one fundamental design assumption. 
 
@@ -72,7 +72,7 @@ That shift, from spending the first hour of every morning trying to catch up, to
 
 Until now. 
 
-## **What Zeig is built to do** 
+## **What Zeig is built to do**
 
 Zeig is not a faster chart. 
 
@@ -94,7 +94,7 @@ For decades, institutional traders have had this. Analysis working through the n
 
 Zeig close that gap. For everyone. 
 
-## **The future it is building toward** 
+## **The future it is building toward**
 
 Today, Zeig analyses markets and delivers institutional-grade research through a single conversation, at any hour, for everyone. 
 
