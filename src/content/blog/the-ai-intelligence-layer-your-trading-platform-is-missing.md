@@ -100,7 +100,7 @@ Until now.
 
 Traders who understand markets trade more. 
 
-They stay longer. They fund their accounts at higher levels because confidence follows understanding and risk appetite follows confidence. They refer other traders because having genuine research support is a remarkable enough experience that people talk about it. They stop blaming the platform when traders go wrong because they make the decision with a full picture, not a guess. 
+They stay longer. They fund their accounts at higher levels because confidence follows understanding, and risk appetite follows confidence. They refer other traders because genuine research support creates an experience worth talking about. They stop blaming the platform when traders go wrong because they make the decision with a full picture, not a guess. 
 
 Traders who feel lost do the opposite. 
 
