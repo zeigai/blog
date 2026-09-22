@@ -24,7 +24,7 @@ author: chloe
 ---
 Financial markets rarely wait for traders to feel prepared. By the time the morning begins, prices have moved, headlines have accumulated, and analysts are offering competing explanations. The challenge is not accessing information. It is understanding which information matters before making a decision. 
 
-Consider Maya, an active trader preparing for the United States market open. A technology stock on her watchlist is rising sharply before trading begins. The chart confirms the move, but it does not explain why it is happening. Maya could open several platforms, scan company announcements, compare sector performance, review economic news, and examine technical indicators. Instead, she opens Zeig and begins with one focused question. 
+Consider Maya, an active trader preparing for the U.S. market open. A technology stock on her watchlist is rising sharply before trading begins. The chart confirms the move, but it does not explain why it is happening. Maya could open several platforms, scan company announcements, compare sector performance, review economic news, and examine technical indicators. Instead, she opens Zeig and begins with one focused question. 
 
 This scenario is illustrative. It does not describe an actual customer and does not constitute investment advice. 
 
