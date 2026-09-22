@@ -86,7 +86,7 @@ Those are data features. The industry is full of them. They have not solved the 
 
 An intelligence layer is what sits between the data and the decision. 
 
-It takes a trader's question - any question, in plain English, about any markets they are watching, and runs it through a coordinated research process. A macro analyst, a technical analyst, a market analyst and news analyst work on it simultaneously. Each brings a different lens. Each challenges the conclusion the others are forming. The synthesis of their perspectives produces something that no single model, no single indicator, and no single chart ever could. 
+It takes a trader's question—any question, in plain English, about any markets they are watching—and runs it through a coordinated research process. A macro analyst, a technical analyst, a market analyst and a news analyst work on it simultaneously. Each brings a different lens. Each challenges the conclusion the others are forming. The synthesis of their perspectives produces something that no single model, no single indicator, and no single chart ever could. 
 
 A conclusion. Not a single to decode. Not data to interpret. A specific, contextualised view on the question the trader asked, built from multiple disciplines working together, delivered in seconds. 
 
