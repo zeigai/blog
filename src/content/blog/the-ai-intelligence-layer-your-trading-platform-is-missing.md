@@ -58,7 +58,7 @@ Most traders never make that translation.
 
 They churn instead. 
 
-## **The pattern every brokers already knows**
+## **The pattern every broker already knows**
 
 You have seen this cycle more times than you can count. 
 
