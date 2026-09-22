@@ -120,7 +120,7 @@ That is a different category of product entirely.
 
 Every technology shift in financial markets has produced two groups of brokers. 
 
-The ones who moved early and owned the advantages for years. And the ones who waited, watched their competitors pull ahead, and spent the next decades trying to close a gap they created by standing still. 
+The ones who moved early and owned the advantages for years. And the ones who waited, watched their competitors pull ahead, and spent the following years trying to close a gap they created by standing still. 
 
 Real-time data. Mobile trading. Social investing. Each one felt optional until it suddenly wasn't. Each one defined a generation of winners and left behind a generation of platforms that had perfectly good products that no longer felt like enough. 
 
