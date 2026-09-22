@@ -138,7 +138,7 @@ The intelligence layer your trading platform is missing already exists.
 
 The question is whether you add it before the broker next to you does. 
 
- Sources cited:
+ **Sources** 
 
 World Economic Forum — New study finds financial education gaps are primary barrier to retail investing in capital markets (2022) [https://www.weforum.org/press/2022/08/new-study-finds-financial-education-gaps-are-primary-barrier-to-retail-investing-in-capital-markets/](https://www.weforum.org/press/2022/08/new-study-finds-financial-education-gaps-are-primary-barrier-to-retail-investing-in-capital-markets/)
 
