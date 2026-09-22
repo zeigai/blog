@@ -56,9 +56,9 @@ That is the gap. Not a gap in data. Not a gap in technology. A gap in continuity
 
 ## **What it means to never stop working**
 
-Image a research capability that never clocks out. 
+Imagine  a research capability that never clocks out. 
 
-One that monitors the positions you hold while you are in a meeting. One that tracks the levels that matter while you are asleep. One that read every relevant development the moment it surfaces and forms a view before you have had a chance to open your phone. 
+One that monitors the positions you hold while you are in a meeting. One that tracks the levels that matter while you are asleep. One that reads every relevant development the moment it surfaces and forms a view before you have had a chance to open your phone. 
 
 By the time your alarm goes off, the work is already done. 
 
