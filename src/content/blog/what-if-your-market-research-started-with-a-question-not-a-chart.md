@@ -44,7 +44,7 @@ Professional analysts do not start with a chart.
 
 They start with a question. 
 
-Not a vague intention to see what the market is doing. A specific, structured question that defines the research before it begins. What is driving this price action? Is this move macro-driven or is it company-specific? Is technical structure confirming the story or contradicting it ? What does the positioning data tell us about where institutions are leaning? 
+Not a vague intention to see what the market is doing. A specific, structured question that defines the research before it begins. What is driving this price action? Is this move macro-driven or is it company-specific? Is technical structure confirming the story or contradicting it? What does the positioning data tell us about where institutions are leaning? 
 
 The chart comes later. It is one layer of evidence in a structured process that begins with intellectual clarity and ends with a defensible conclusion. 
 
