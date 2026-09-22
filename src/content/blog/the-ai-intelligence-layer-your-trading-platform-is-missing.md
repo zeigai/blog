@@ -40,11 +40,11 @@ That is the gap. And it is costing you more than you think.
 
 The brokerage industry made a bet twenty years ago, and it has been doubling down on it ever since. 
 
-The bet was this: access is the problem. If retail traders have access to the same data as professionals- the same charts, the same indicators, the same real-time feeds, the gap between how institutions trade and how everyone else does will close. 
+The bet was this: access is the problem. If retail traders have access to the same data as professionals-the same charts, the same indicators, the same real-time feeds, the gap between how institutions trade and how everyone else does will close. 
 
 It was a reasonable bet. It was wrong. 
 
-58% of Americans now own stock. More people are trading more markets across more instruments than at any point in financial history. The tools available to them have never been more powerful. The data has never been faster, cleaner, or more accessible. 
+62% of Americans now own stock. More people are trading more markets across more instruments than at any point in financial history. The tools available to them have never been more powerful. The data has never been faster, cleaner, or more accessible. 
 
 The gap has not closed. 
 
