@@ -88,5 +88,5 @@ What would you ask the market first?
 
 **Source**
 
-Zeig. “AI Financial Analysis Through Conversation.” [https://zeig.ai](https://zeig.ai) 
+Zeig. “AI Financial Analysis Through Conversation.”  [[https://zeig.ai](https://zeig.ai)](https://zeig.ai](https://zeig.ai)) 
 
