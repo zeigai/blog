@@ -57,7 +57,7 @@ In a strong uptrend, RSI spends most of its time above 50 and regularly touches 
 
 The 30 and 70 levels are not signals. They are observations. They tell you that momentum has been strong in one direction. What happens next depends entirely on context: the trend, the timeframe, the broader market structure, the news flow, the volume behind the move. RSI alone cannot tell you any of that. 
 
-This is why RSI works when traders use it correctly and fails when they create it as a standalone signal. 
+This is why RSI works when traders use it correctly and fails when they treat it as a standalone signal. 
 
 ## **What RSI is actually useful for**
 
