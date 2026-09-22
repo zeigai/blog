@@ -68,7 +68,7 @@ The question is no longer what happened.
 
 The question is what you decide to do about it. 
 
-That shift, from spending the first hour of every morning trying to catch up, to spending it making decisions with a full picture already in front of you, is not a marginal improvement. It is a fundamentally different relationship with financial markets. One that institutional traders have always had. One that has never been available to anyone else. 
+That shift—from spending the first hour of every morning trying to catch up to spending it making decisions with a full picture already in front of you—is not a marginal improvement. It is a fundamentally different relationship with financial markets. One that institutional traders have always had. One that has never been available to anyone else. 
 
 Until now. 
 
