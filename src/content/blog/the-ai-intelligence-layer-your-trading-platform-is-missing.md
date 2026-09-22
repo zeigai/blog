@@ -22,11 +22,11 @@ author: chloe
 ---
 Your platform has the data. 
 
-Real-time prices. Professional charts. News feeds updating the moment a market moves. Technical indicators covering every methodology a serious trader could want. The infrastructure is there. The investment is real. The product works exactly as designed.
+Real-time prices. Professional charts. News feeds updating the moment a market moves. Technical indicators covering every methodology a serious trader could want. The infrastructure is there. The investment is real.The product works exactly as designed.
 
 And your traders are still churning. 
 
-Not because your execution is slow. Not because you r spreads are wide. Not because the platform is difficult to use or the onboarding is broken. 
+Not because your execution is slow. Not because your spreads are wide. Not because the platform is difficult to use or the onboarding is broken. 
 
 Because after everything you built, after every dollar invested in data infrastructure and charting technology and mobile experience, your traders still open a position without fully understanding why. They still stare at a screen full of signals and make decisions based on instinct, incomplete analysis, and the hope that this time the market moves the way they think it will. 
 
