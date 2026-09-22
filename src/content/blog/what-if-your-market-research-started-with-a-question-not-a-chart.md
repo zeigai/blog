@@ -108,7 +108,7 @@ But they appear as evidence for an answer, not as a question you are expected to
 
 That is not a better version of the same thing. 
 
-It is a different way of thinking about marketers entirely. 
+It is a different way of thinking about markets entirely. 
 
 The question is where everything starts. 
 
