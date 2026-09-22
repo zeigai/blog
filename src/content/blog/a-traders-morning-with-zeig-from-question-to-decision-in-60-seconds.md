@@ -52,7 +52,7 @@ The technical picture adds another layer. Price may be approaching previous resi
 
 Zeig brings these perspectives together around Maya's original question. The analysis identifies the likely catalyst, explains the broader environment, describes the technical structure, and highlights the factors that could change the outlook. 
 
-This is the difference between receiving more information and receiving organised research. The values does not come from displaying every available fact. It comes from connecting the facts that matter to the decision being considered. 
+This is the difference between receiving more information and receiving organised research. The value does not come from displaying every available fact. It comes from connecting the facts that matter to the decision being considered. 
 
 ## **The final ten seconds**
 
