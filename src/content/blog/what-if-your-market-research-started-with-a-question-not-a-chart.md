@@ -30,7 +30,7 @@ None of it telling you where to start.
 
 This is the moment every trader knows and nobody talks about. The chart is loaded. The data is there. And you are staring at it, waiting for it to say something useful, hoping that something will click. 
 
-It is not knowledge problem. Most traders who have been doing this for any length of time understand what the indicators mean. They know what RSI measures. They know what a MACD crossover signals. 
+It is not a knowledge problem. Most traders who have been doing this for any length of time understand what the indicators mean. They know what RSI measures. They know what a MACD crossover signals. 
 
 The problem is that they are reading answers to questions they have not yet asked. 
 
