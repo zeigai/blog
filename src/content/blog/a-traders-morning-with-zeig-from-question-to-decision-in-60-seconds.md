@@ -46,7 +46,7 @@ The useful question is not simply what happened. It is why the market is respond
 
 Zeig then considers the surrounding market environment. If similar companies are rising, the movement may reflect broader sector strength. If the company is moving while its peers remain weak, the explanation may be more specific. 
 
-The technical picture adds another layer. Price may be approaching previous resistance, breaking through a longer term trend, or moving with unusual volume. These details cannot predict the outcome, but they help define the conditions that deserve attention. 
+The technical picture adds another layer. Price may be approaching previous resistance, breaking through a longer-term trend, or moving with unusual volume. These details cannot predict the outcome, but they help define the conditions that deserve attention. 
 
 ## **From information to understanding**
 
