@@ -48,7 +48,7 @@ Not a vague intention to see what the market is doing. A specific, structured qu
 
 The chart comes later. It is one layer of evidence in a structured process that begins with intellectual clarity and ends with a defensible conclusion. 
 
-When you invert that process, when you load the chart before you have formed the question, you are not doing research. You are doing pattern recognition on a canvas so complex that almost any conclusion becomes justifiable. You can find a bullish signal if you want one. You can find a bearish signal if you look the right place. The data does not resist interpretation. It accommodates whatever you bring to it. 
+When you invert that process, when you load the chart before you have formed the question, you are not doing research. You are doing pattern recognition on a canvas so complex that almost any conclusion becomes justifiable. You can find a bullish signal if you want one. You can find a bearish signal if you look in the right place. The data does not resist interpretation. It accommodates whatever you bring to it. 
 
 That is not analysis. That is confirmation bias with better graphics. 
 
