@@ -98,7 +98,7 @@ Zeig closes that gap. For everyone.
 
 Today, Zeig analyses markets and delivers institutional-grade research through a single conversation, at any hour, for everyone. 
 
-Tomorrow, it will monitor positions continuously, alerting users the moment something material changes before they think to check. 
+Tomorrow, it will monitor positions continuously, alerting users the moment something material changes—before they think to check. 
 
 Then it will execute, routing traders from insight to action in once place, without switching platforms. 
 
