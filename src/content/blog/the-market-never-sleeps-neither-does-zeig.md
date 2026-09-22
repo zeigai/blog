@@ -40,7 +40,7 @@ Every platform built for traders in the last twenty years shares one fundamental
 
 The trader initiates. 
 
-You open the platform. You pull up the chart. You ask the question. You run the analysis. The tools responds, helps, and makes the process faster or cleaner or more intuitive. 
+You open the platform. You pull up the chart. You ask the question. You run the analysis. The tools responds, helps, and makes the process faster, cleaner, or more intuitive. 
 
 But the tool waits. 
 
