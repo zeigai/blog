@@ -76,7 +76,7 @@ At this stage, verify specific figures against the original source. If AI cites 
 
 **Step 3 — Explore the technical picture** 
 
-**Once you understand the business context, ask bout the price structure. Technical analysis is most useful when it is placed in context —** a bullish technical setup means something different in a deteriorating macro environment than in a supportive one. 
+Once you understand the business context, ask bout the price structure. Technical analysis is most useful when it is placed in context — a bullish technical setup means something different in a deteriorating macro environment than in a supportive one. 
 
 Example questions: 
 
@@ -87,7 +87,22 @@ Example questions:
 
 One important note: AI answers about technical levels are only as good as the data the tool has access to. Always verify current price levels and indicator reading on a live charting platform. Do not trade on technical levels provided by AI without confirming them against real-time data. 
 
+**Step 4 — Challenge the initial view** 
 
+This step helps you avoid looking only for evidence that supports your initial view. After AI has helped you build a case for or against a position, actively ask it to argue the other side. 
+
+Confirmation bias — the tendency to seek information that supports a view you have already formed — is one of the most consistent sources of poor investment decisions. AI can help you stress-test your thesis is you ask it to. 
+
+Example questions: 
+
+- "What is the strongest argument against buying this stock right now?"
+- "What evidence would suggest this bullish technical setup is a false signal?"
+- "What macro or sector developments could undermine this investment thesis over the next three months?"
+- "What have bearish analysts said about this company recently?" 
+
+
+
+&nbsp;
 
 &nbsp;
 
