@@ -49,4 +49,33 @@ How to use AI for stock analysis: a practical process
 
 The following process gives structure to AI-assisted stock research. It is designed to help you reach a defensible conclusion rather than simply collecting more information. 
 
-Step 1 
+**Step 1 — Define what you are researching and why**
+
+Before asking AI anything, be specific about what you want to understand. Vague questions produce vague answers. 
+
+Decide: which stock, which timeframe and what kind of decision you are trying to make. A position you are holding for six months needs different analysis from a short-term trade based on a technical setup. Knowing this before you start means the questions you ask will be relevant to the decision you actually face.
+
+Example questions to start with: 
+
+- "What does this company actually do, and how does it make money?"
+- "What are the main risks the company has disclosed in recent filings?"
+- "What has the company said about the next twelve months in its most recent earnings call?"
+
+**Step 2 — Understand the business and its recent developments** 
+
+**Ask AI to help you build a clear picture of the company before looking at price. Many investors do the opposite —** they see price move and then try to understand why. Starting with the business means you arrive at the chart with context, not just a number. 
+
+Example questions: 
+
+- "What were the key points from the most recent earnings report, and how did results compare to analyst expectations?"
+- "What are the three biggest risks to this company's  revenue over the next year?"
+- "Has the company made any significant announcements in the past month that could affect its stock price?"
+- "How is this company positioned relative to the main competitors in its sector?"
+
+At this stage, verify specific figures against the original source. If AI cites an earnings number or a revenue figure, check it against the actual filing or a financial data provider before relying on it. 
+
+
+
+&nbsp;
+
+&nbsp;
