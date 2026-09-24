@@ -110,7 +110,7 @@ Check the following:
 
 - Do the earnings figures and financial data match the company's actual filings or a reliable financial data provider?
 - Are the news references current, and do the original sources say what AI says they say?
-- Are the technical levels consistent with what you see on live chart? 
+- Are the technical levels consistent with what you see on a live chart? 
 - How recent are the sources and market data used in this answer, and has anything material happened since? 
 
 The FCA's guidance is clear on this point : always double-check AI answers with trusted sources, especially for investment research. AI can be valuable starting point. It should not be the final word. 
