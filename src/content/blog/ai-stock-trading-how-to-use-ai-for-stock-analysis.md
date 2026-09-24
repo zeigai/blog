@@ -12,8 +12,10 @@ tags:
   - Fundamental Analysis
   - Zeig AI
 pubDate: 2026-09-24
-status: draft
+status: published
 coverImage: /blog/Untitled (1200 x 630 px)-6.png
+coverImageAlt: AI stock analysis illustration with a candlestick chart connected
+  to fundamentals, technical analysis and news panels on a dark blue background.
 imageSource: original
 imageApproved: true
 author: chloe
