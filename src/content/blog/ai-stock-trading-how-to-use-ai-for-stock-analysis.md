@@ -91,7 +91,7 @@ One important note: AI answers about technical levels are only as good as the da
 
 This step helps you avoid looking only for evidence that supports your initial view. After AI has helped you build a case for or against a position, actively ask it to argue the other side. 
 
-Confirmation bias — the tendency to seek information that supports a view you have already formed — is one of the most consistent sources of poor investment decisions. AI can help you stress-test your thesis is you ask it to. 
+Confirmation bias — the tendency to seek information that supports a view you have already formed — is one of the most consistent sources of poor investment decisions. AI can help you stress-test your thesis if you ask it to. 
 
 Example questions: 
 
