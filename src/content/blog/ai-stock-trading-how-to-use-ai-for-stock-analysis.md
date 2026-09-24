@@ -76,7 +76,7 @@ At this stage, verify specific figures against the original source. If AI cites 
 
 **Step 3 — Explore the technical picture** 
 
-Once you understand the business context, ask bout the price structure. Technical analysis is most useful when it is placed in context — a bullish technical setup means something different in a deteriorating macro environment than in a supportive one. 
+Once you understand the business context, ask about the price structure. Technical analysis is most useful when it is placed in context — a bullish technical setup means something different in a deteriorating macro environment than in a supportive one. 
 
 Example questions: 
 
