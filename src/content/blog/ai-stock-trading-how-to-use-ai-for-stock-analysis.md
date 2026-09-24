@@ -121,9 +121,15 @@ The quality of AI-assisted stock research depends significantly on how it is str
 
 Specificity produces better answers. "Tell me about Apple" produces a general overviewing. "What are the three main risks Apple has disclosed in its most recent 10-K filing?" produces something more useful. The more specific the question, the more targeted and actionable the answer. 
 
-Context makes answers more relevant. Telling
+Context makes answers more relevant. Telling AI the stock, your timeframe and what kind of decision you are trying to make helps it provide more focused analysis. AI tools respond to context **—** the more specific you are about your research objective, the more targeted the output. 
+
+Multiple perspectives reduce blind spots. No single question captures the full picture of a stock. Approaching a research session with questions across business fundamentals, technical structure, news flow and competing views produces a more complete picture than any one line of inquiry. 
+
+Synthesis is the hardest part. AI can you gather information across multiple dimensions. Turning that information into clear, defensible conclusion **—** one that accounts for the macro backdrop, the technical structure and the news flow simultaneously **—** requires judgement that the investor still needs to apply. AI research tools that produce a synthesised conclusion across multiple specialist inputs, rather than leaving the synthesis to the investor, address this specific gap. 
 
 
+
+&nbsp;
 
 &nbsp;
 
