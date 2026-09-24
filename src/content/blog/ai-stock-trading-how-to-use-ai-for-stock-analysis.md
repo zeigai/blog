@@ -45,3 +45,8 @@ The FCA's practical recommendation is direct: use AI to guide you to where to di
 
 Multiple AI agents working together can reduce some of the limitations of a single model, but they do not eliminate them. Outdated training data, incorrect figures and missing context are risks regardless of how many specialist agents are involved. Human judgement and verification remain essential at every stage of the process. 
 
+How to use AI for stock analysis: a practical process
+
+The following process gives structure to AI-assisted stock research. It is designed to help you reach a defensible conclusion rather than simply collecting more information. 
+
+Step 1 
