@@ -74,6 +74,19 @@ Example questions:
 
 At this stage, verify specific figures against the original source. If AI cites an earnings number or a revenue figure, check it against the actual filing or a financial data provider before relying on it. 
 
+**Step 3 — Explore the technical picture** 
+
+**Once you understand the business context, ask bout the price structure. Technical analysis is most useful when it is placed in context —** a bullish technical setup means something different in a deteriorating macro environment than in a supportive one. 
+
+Example questions: 
+
+- "What are the key support and resistance levels for this stock based on recent price action?"
+- "What is this RSI showing on the daily chart, and what does that suggest about current momentum?" 
+- "Is the stock trading above or below its main averages, and what does that typically indicate?" 
+- "Are there any chart patterns visible that traders commonly watch in this type of setup?" 
+
+One important note: AI answers about technical levels are only as good as the data the tool has access to. Always verify current price levels and indicator reading on a live charting platform. Do not trade on technical levels provided by AI without confirming them against real-time data. 
+
 
 
 &nbsp;
