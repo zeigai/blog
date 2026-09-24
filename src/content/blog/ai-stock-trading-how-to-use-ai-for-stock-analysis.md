@@ -23,5 +23,13 @@ That is genuinely useful. But using AI well for stock analysis requires understa
 
 This article covers all three. 
 
-What AI can do for stock analysis
+## What AI can do for stock analysis
+
+AI tools bring three specific capabilities to stock research that are difficult to replicate manually. 
+
+Processing speed across large volumes of information. AI can read and summarise earnings reports, analyst notes, SEC filings and news articles far faster than any individual investor. Where a thorough manual review of a company might take several hours, AI can produce a structured summary in minutes. This is particularly useful for scanning a shortlist of stocks before deciding which ones warrant deeper research. 
+
+Breaking down complex language. Financial documents are written for professionals. Earning call transcripts, risk disclosures and regulatory filings are dense, technical and full of language designed to be interpreted carefully rather than read quickly. AI can translate this material into plain English, making it more accessible for investors who are still building their knowledge of how to read financial information. 
+
+Pattern recognition across price data. AI tools identify 
 
