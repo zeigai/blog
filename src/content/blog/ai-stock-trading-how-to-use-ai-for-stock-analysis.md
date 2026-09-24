@@ -31,5 +31,10 @@ Processing speed across large volumes of information. AI can read and summarise 
 
 Breaking down complex language. Financial documents are written for professionals. Earning call transcripts, risk disclosures and regulatory filings are dense, technical and full of language designed to be interpreted carefully rather than read quickly. AI can translate this material into plain English, making it more accessible for investors who are still building their knowledge of how to read financial information. 
 
-Pattern recognition across price data. AI tools identify 
+Pattern recognition across price data. AI tools can identify chart patterns, flag technical signals and highlight when a stock's price behaviour is delivering from typical historical patterns. Some tools scan hundreds of stock simultaneously to surface setups that match specific criteria. For active traders who would otherwise need to check charts manually, this can meaningfully reduce the time spent on initial screening. 
 
+These are real advantages. They make AI a useful research starting point for investors at every level of experience. 
+
+
+
+&nbsp;
