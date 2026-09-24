@@ -8,6 +8,7 @@ tags:
   - AI trading
   - AI Stock Analysis
   - Stock Market Research
+  - Technical Analysis
 pubDate: 2026-09-24
 status: draft
 imageSource: original
