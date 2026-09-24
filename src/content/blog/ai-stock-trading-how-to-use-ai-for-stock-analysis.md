@@ -143,11 +143,11 @@ Explore the conclusion, examine its reasoning and what could change it. That is 
 
 **Sources:** 
 
-UK Financial Conduct Authority — Using AI for Investment Research (Published December 2025, last updated July 2026). The regulatory guidance cited in this article reflects the FCA's position as the UK financial regulator and applies specifically to UK investors.++[https://www.fca.org.uk/investsmart/using-ai-investment-research](https://www.fca.org.uk/investsmart/using-ai-investment-research)++ 
+*UK Financial Conduct Authority — Using AI for Investment Research (Published December 2025, last updated July 2026). The regulatory guidance cited in this article reflects the FCA's position as the UK financial regulator and applies specifically to UK investors.++[https://www.fca.org.uk/investsmart/using-ai-investment-research](https://www.fca.org.uk/investsmart/using-ai-investment-research)++* 
 
-Built In — AI Trading: How AI Is Used in Stock Trading (June 2026) ++[https://builtin.com/artificial-intelligence/ai-trading-stock-market-tech](https://builtin.com/artificial-intelligence/ai-trading-stock-market-tech)++ 
+*Built In — AI Trading: How AI Is Used in Stock Trading (June 2026) ++[https://builtin.com/artificial-intelligence/ai-trading-stock-market-tech](https://builtin.com/artificial-intelligence/ai-trading-stock-market-tech)++* 
 
-[assistents.ai](http://assistents.ai) — 16 Best AI for Stock Market Analysis and Trading (2026) ++[https://assistents.ai/blogs/best-ai-for-stock-market-analysis-and-trading](https://assistents.ai/blogs/best-ai-for-stock-market-analysis-and-trading)++ 
+*[assistents.ai](http://assistents.ai) — 16 Best AI for Stock Market Analysis and Trading (2026) ++[https://assistents.ai/blogs/best-ai-for-stock-market-analysis-and-trading](https://assistents.ai/blogs/best-ai-for-stock-market-analysis-and-trading)++* 
 
 
 
