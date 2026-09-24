@@ -113,6 +113,16 @@ Check the following:
 - Are the technical levels consistent with what you see on live chart? 
 - How recent are the sources and market data used in this answer, and has anything material happened since? 
 
+The FCA's guidance is clear on this point : always double-check AI answers with trusted sources, especially for investment research. AI can be valuable starting point. It should not be the final word. 
+
+## **What makes AI stock analysis more useful** 
+
+The quality of AI-assisted stock research depends significantly on how it is structured. A few principles that consistently improve the output: 
+
+Specificity produces better answers. "Tell me about Apple" produces a general overviewing. "What are the three main risks Apple has disclosed in its most recent 10-K filing?" produces something more useful. The more specific the question, the more targeted and actionable the answer. 
+
+Context makes answers more relevant. Telling
+
 
 
 &nbsp;
