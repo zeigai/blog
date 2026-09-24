@@ -23,18 +23,25 @@ That is genuinely useful. But using AI well for stock analysis requires understa
 
 This article covers all three. 
 
-## What AI can do for stock analysis
+## **What AI can do for stock analysis**
 
 AI tools bring three specific capabilities to stock research that are difficult to replicate manually. 
 
-Processing speed across large volumes of information. AI can read and summarise earnings reports, analyst notes, SEC filings and news articles far faster than any individual investor. Where a thorough manual review of a company might take several hours, AI can produce a structured summary in minutes. This is particularly useful for scanning a shortlist of stocks before deciding which ones warrant deeper research. 
+**Processing speed across large volumes of information.** AI can read and summarise earnings reports, analyst notes, SEC filings and news articles far faster than any individual investor. Where a thorough manual review of a company might take several hours, AI can produce a structured summary in minutes. This is particularly useful for scanning a shortlist of stocks before deciding which ones warrant deeper research. 
 
-Breaking down complex language. Financial documents are written for professionals. Earning call transcripts, risk disclosures and regulatory filings are dense, technical and full of language designed to be interpreted carefully rather than read quickly. AI can translate this material into plain English, making it more accessible for investors who are still building their knowledge of how to read financial information. 
+**Breaking down complex language.** Financial documents are written for professionals. Earning call transcripts, risk disclosures and regulatory filings are dense, technical and full of language designed to be interpreted carefully rather than read quickly. AI can translate this material into plain English, making it more accessible for investors who are still building their knowledge of how to read financial information. 
 
-Pattern recognition across price data. AI tools can identify chart patterns, flag technical signals and highlight when a stock's price behaviour is delivering from typical historical patterns. Some tools scan hundreds of stock simultaneously to surface setups that match specific criteria. For active traders who would otherwise need to check charts manually, this can meaningfully reduce the time spent on initial screening. 
+**Pattern recognition across price data.** AI tools can identify chart patterns, flag technical signals and highlight when a stock's price behaviour is delivering from typical historical patterns. Some tools scan hundreds of stock simultaneously to surface setups that match specific criteria. For active traders who would otherwise need to check charts manually, this can meaningfully reduce the time spent on initial screening. 
 
 These are real advantages. They make AI a useful research starting point for investors at every level of experience. 
 
+## **What AI cannot do — and where it goes wrong** 
 
+Before using any AI tool for stock research, it is important to understand its limitations. The UK's Financial Conduct Authority has published specific guidance on this, and it is worth reading before acting on AI-generated research. 
 
-&nbsp;
+The FCA identifies several specific risks. First, AI can provide information that is simply incorrect. These errors are described as hallucinations **—** instances where AI misinterprets information or fills in details that sound plausible but are not accurate. The problem is that AI delivers incorrect information with the same confident tone as correct information, which makes errors difficult to spot without checking the underlying source. Second, AI does not always have access to current information. Training data has cut-off dates, and real-time market conditions may not be reflected in the answers AI produces. Third, general-purpose AI tools like ChatGPT or Gemini is not regulated, which means investors using these tools do not benefit from the protections that apply to regulated financial advice. 
+
+The FCA's practical recommendation is direct: use AI to guide you to where to dig deeper, not as your final answer. Ask it to highlight the what so you can focus your research on the why and the how. 
+
+Multiple AI agents working together can reduce some of the limitations of a single model, but they do not eliminate them. Outdated training data, incorrect figures and missing context are risks regardless of how many specialist agents are involved. Human judgement and verification remain essential at every stage of the process. 
+
