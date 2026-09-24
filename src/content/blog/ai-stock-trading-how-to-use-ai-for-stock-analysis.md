@@ -82,7 +82,7 @@ Example questions:
 
 - "What are the key support and resistance levels for this stock based on recent price action?"
 - "What is the RSI showing on the daily chart, and what does that suggest about current momentum?" 
-- "Is the stock trading above or below its main averages, and what does that typically indicate?" 
+- "Is the stock trading above or below its main moving averages, and what does that typically indicate?" 
 - "Are there any chart patterns visible that traders commonly watch in this type of setup?" 
 
 One important note: AI answers about technical levels are only as good as the data the tool has access to. Always verify current price levels and indicator reading on a live charting platform. Do not trade on technical levels provided by AI without confirming them against real-time data. 
