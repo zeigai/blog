@@ -127,7 +127,23 @@ Multiple perspectives reduce blind spots. No single question captures the full p
 
 Synthesis is the hardest part. AI can you gather information across multiple dimensions. Turning that information into clear, defensible conclusion **—** one that accounts for the macro backdrop, the technical structure and the news flow simultaneously **—** requires judgement that the investor still needs to apply. AI research tools that produce a synthesised conclusion across multiple specialist inputs, rather than leaving the synthesis to the investor, address this specific gap. 
 
+How Zeig approaches AI stock analysis 
 
+Zeig is built on the premise that the right output of AI stock research is a conclusion, not a summary. 
+
+When you ask Zeig about a stock, specialist AI agents work on the question across macro context, technical analysis, news flow and market structure simultaneously. The output is not a list of data points for you to interpret. It is a synthesised view **—** what the stock is doing, why it matters and what traders are watching next. 
+
+This brings the different stands of research into one view for the user to assess, rather then leaving the synthesis step entirely to the investor. 
+
+The practical process described in this article **—** defining your question, understanding the business, exploring the technicals, challenging the initial view and verifying before you act **—** works with Zeig or any other AI research tool. The example questions in each step are designed as general AI research prompts and can be used with any tool that supports natural language queries about markets. What changes with Zeig is that the synthesis step, which is typically left to the investor, is built into the output. 
+
+Pick a stock you are currently watching. Work through the five steps above. Try asking Zeig one of the example questions from this article and see what the research team produces. 
+
+Explore the conclusion, examine its reasoning and what could change it. That is what AI-assisted stock analysis look like when verification stays at the centre of the process. 
+
+
+
+&nbsp;
 
 &nbsp;
 
