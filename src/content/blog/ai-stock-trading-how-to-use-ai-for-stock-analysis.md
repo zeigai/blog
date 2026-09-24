@@ -119,7 +119,7 @@ The FCA's guidance is clear on this point: always double-check AI answers with t
 
 The quality of AI-assisted stock research depends significantly on how it is structured. A few principles that consistently improve the output: 
 
-**Specificity produces better answers.** "Tell me about Apple" produces a general overviewing. "What are the three main risks Apple has disclosed in its most recent 10-K filing?" produces something more useful. The more specific the question, the more targeted and actionable the answer. 
+**Specificity produces better answers.** "Tell me about Apple" produces a general overview. "What are the three main risks Apple has disclosed in its most recent 10-K filing?" produces something more useful. The more specific the question, the more targeted and actionable the answer. 
 
 **Context makes answers more relevant.** Telling AI the stock, your timeframe and what kind of decision you are trying to make helps it provide more focused analysis. AI tools respond to context **—** the more specific you are about your research objective, the more targeted the output. 
 
