@@ -35,7 +35,7 @@ AI tools bring three specific capabilities to stock research that are difficult 
 
 These are real advantages. They make AI a useful research starting point for investors at every level of experience. 
 
-## **What AI cannot do — and where it goes wrong** 
+## **What AI cannot do — and where it goes wrong**
 
 Before using any AI tool for stock research, it is important to understand its limitations. The UK's Financial Conduct Authority has published specific guidance on this, and it is worth reading before acting on AI-generated research. 
 
@@ -83,7 +83,7 @@ Example questions:
 - "What are the key support and resistance levels for this stock based on recent price action?"
 - "What is the RSI showing on the daily chart, and what does that suggest about current momentum?" 
 - "Is the stock trading above or below its main moving averages, and what does that typically indicate?" 
-- "Are there any chart patterns visible that traders commonly watch in this type of setup?" 
+- "Are there any chart patterns visible that traders commonly watch in this type of setup?"
 
 One important note: AI answers about technical levels are only as good as the data the tool has access to. Always verify current price levels and indicator readings on a live charting platform. Do not trade on technical levels provided by AI without confirming them against real-time data. 
 
@@ -98,7 +98,7 @@ Example questions:
 - "What is the strongest argument against buying this stock right now?"
 - "What evidence would suggest this bullish technical setup is a false signal?"
 - "What macro or sector developments could undermine this investment thesis over the next three months?"
-- "What have bearish analysts said about this company recently?"  
+- "What have bearish analysts said about this company recently?"
 
 The goal is not to talk yourself out of every trade. It is to make sure the conclusion you reach has been tested against the most credible alternative view before you act on it. 
 
@@ -111,11 +111,11 @@ Check the following:
 - Do the earnings figures and financial data match the company's actual filings or a reliable financial data provider?
 - Are the news references current, and do the original sources say what AI says they say?
 - Are the technical levels consistent with what you see on a live chart? 
-- How recent are the sources and market data used in this answer, and has anything material happened since? 
+- How recent are the sources and market data used in this answer, and has anything material happened since?
 
 The FCA's guidance is clear on this point: always double-check AI answers with trusted sources, especially for investment research. AI can be a valuable starting point. It should not be the final word. 
 
-## **What makes AI stock analysis more useful** 
+## **What makes AI stock analysis more useful**
 
 The quality of AI-assisted stock research depends significantly on how it is structured. A few principles that consistently improve the output: 
 
@@ -127,7 +127,7 @@ The quality of AI-assisted stock research depends significantly on how it is str
 
 **Synthesis is the hardest part.** AI can help you gather information across multiple dimensions. Turning that information into a clear, defensible conclusion **—** one that accounts for the macro backdrop, the technical structure and the news flow simultaneously **—** requires judgement that the investor still needs to apply. AI research tools that produce a synthesised conclusion across multiple specialist inputs, rather than leaving the synthesis to the investor, address this specific gap. 
 
-## **How Zeig approaches AI stock analysis** 
+## **How Zeig approaches AI stock analysis**
 
 Zeig is built on the premise that the right output of AI stock research is a conclusion, not a summary. 
 
@@ -141,12 +141,11 @@ Pick a stock you are currently watching. Work through the five steps above. Try 
 
 Explore the conclusion, examine its reasoning and ask what could change it. That is what AI-assisted stock analysis looks like when verification stays at the centre of the process. 
 
-Sources: 
+**Sources:** 
 
 UK Financial Conduct Authority — Using AI for Investment Research (Published December 2025, last updated July 2026). The regulatory guidance cited in this article reflects the FCA's position as the UK financial regulator and applies specifically to UK investors.[https://www.fca.org.uk/investsmart/using-ai-investment-research](https://www.fca.org.uk/investsmart/using-ai-investment-research)
 
 Built In — AI Trading: How AI Is Used in Stock Trading (June 2026) [https://builtin.com/artificial-intelligence/ai-trading-stock-market-tech](https://builtin.com/artificial-intelligence/ai-trading-stock-market-tech)
 
 [assistents.ai](http://assistents.ai) — 16 Best AI for Stock Market Analysis and Trading (2026) [https://assistents.ai/blogs/best-ai-for-stock-market-analysis-and-trading](https://assistents.ai/blogs/best-ai-for-stock-market-analysis-and-trading)
-
 
