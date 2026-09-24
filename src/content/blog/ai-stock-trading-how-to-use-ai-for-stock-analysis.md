@@ -13,6 +13,7 @@ tags:
   - Zeig AI
 pubDate: 2026-09-24
 status: draft
+coverImage: /blog/Untitled (1200 x 630 px)-6.png
 imageSource: original
 imageApproved: true
 author: chloe
