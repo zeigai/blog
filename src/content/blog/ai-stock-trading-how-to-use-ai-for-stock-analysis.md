@@ -6,6 +6,7 @@ description: >
 category: market-analysis
 tags:
   - AI trading
+  - AI Stock Analysis
 pubDate: 2026-09-24
 status: draft
 imageSource: original
