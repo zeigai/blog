@@ -81,7 +81,7 @@ Once you understand the business context, ask about the price structure. Technic
 Example questions: 
 
 - "What are the key support and resistance levels for this stock based on recent price action?"
-- "What is this RSI showing on the daily chart, and what does that suggest about current momentum?" 
+- "What is the RSI showing on the daily chart, and what does that suggest about current momentum?" 
 - "Is the stock trading above or below its main averages, and what does that typically indicate?" 
 - "Are there any chart patterns visible that traders commonly watch in this type of setup?" 
 
