@@ -113,7 +113,7 @@ Check the following:
 - Are the technical levels consistent with what you see on a live chart? 
 - How recent are the sources and market data used in this answer, and has anything material happened since? 
 
-The FCA's guidance is clear on this point : always double-check AI answers with trusted sources, especially for investment research. AI can be valuable starting point. It should not be the final word. 
+The FCA's guidance is clear on this point: always double-check AI answers with trusted sources, especially for investment research. AI can be valuable starting point. It should not be the final word. 
 
 ## **What makes AI stock analysis more useful** 
 
