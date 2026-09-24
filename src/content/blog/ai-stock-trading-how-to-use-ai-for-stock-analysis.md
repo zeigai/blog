@@ -98,7 +98,20 @@ Example questions:
 - "What is the strongest argument against buying this stock right now?"
 - "What evidence would suggest this bullish technical setup is a false signal?"
 - "What macro or sector developments could undermine this investment thesis over the next three months?"
-- "What have bearish analysts said about this company recently?" 
+- "What have bearish analysts said about this company recently?"  
+
+The goal is not to talk yourself out of every trade. It is to make sure the conclusion you reach has been tested against the most credible alternative view before you act on it. 
+
+**Step 5 — Verify before you act** 
+
+Before drawing a final conclusion from any AI-assisted research session, verify the specific facts and figures that matter most to your decision. 
+
+Check the following: 
+
+- Are the earning figures and financial data accurate, suing the company's actual filings or a financial data provider?
+- Are the news references current, and do the original sources say what AI says they say?
+- Are the technical levels consistent with what you see on live chart? 
+- How recent are the sources and market data used in this answer, and has anything material happened since? 
 
 
 
