@@ -139,7 +139,7 @@ The practical process described in this article **—** defining your question, 
 
 Pick a stock you are currently watching. Work through the five steps above. Try asking Zeig one of the example questions from this article and see what the research team produces. 
 
-Explore the conclusion, examine its reasoning and what could change it. That is what AI-assisted stock analysis look like when verification stays at the centre of the process. 
+Explore the conclusion, examine its reasoning and ask what could change it. That is what AI-assisted stock analysis look like when verification stays at the centre of the process. 
 
 **Sources:** 
 
