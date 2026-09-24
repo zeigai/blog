@@ -108,7 +108,7 @@ Before drawing a final conclusion from any AI-assisted research session, verify 
 
 Check the following: 
 
-- Are the earning figures and financial data accurate, suing the company's actual filings or a financial data provider?
+- Do the earnings figures and financial data match the company's actual filings or a reliable financial data provider?
 - Are the news references current, and do the original sources say what AI says they say?
 - Are the technical levels consistent with what you see on live chart? 
 - How recent are the sources and market data used in this answer, and has anything material happened since? 
