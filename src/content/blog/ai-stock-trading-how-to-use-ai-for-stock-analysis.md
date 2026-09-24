@@ -63,12 +63,12 @@ Example questions to start with:
 
 **Step 2 — Understand the business and its recent developments** 
 
-**Ask AI to help you build a clear picture of the company before looking at price. Many investors do the opposite —** they see price move and then try to understand why. Starting with the business means you arrive at the chart with context, not just a number. 
+Ask AI to help you build a clear picture of the company before looking at price. Many investors do the opposite **—** they see a price move and then try to understand why. Starting with the business means you arrive at the chart with context, not just a number. 
 
 Example questions: 
 
 - "What were the key points from the most recent earnings report, and how did results compare to analyst expectations?"
-- "What are the three biggest risks to this company's  revenue over the next year?"
+- "What are the three biggest risks to this company's revenue over the next year?"
 - "Has the company made any significant announcements in the past month that could affect its stock price?"
 - "How is this company positioned relative to the main competitors in its sector?"
 
