@@ -8,6 +8,7 @@ tags:
   - Trading Psychology
   - Trading Mistakes
   - Market Research
+  - Pre-Trade Analysis
 pubDate: 2026-09-30
 status: draft
 imageSource: original
