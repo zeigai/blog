@@ -76,7 +76,13 @@ What changes when the process changes
 
 When a trader starts a clear question and gathers evidence across macro context, technical structure, news flow and market behaviour before reaching a conclusion, several things change at once. 
 
-The analysis has direction before it has an answer. The signals that matter are separated from the ones that do not. The conclusion that emerges has been tested against the most credible alternative view. Ad the moment the trade goes wrong, the trader has a clearer basis for reviewing what changed and whether the original reasoning still holds
+The analysis has direction before it has an answer. The signals that matter are separated from the ones that do not. The conclusion that emerges has been tested against the most credible alternative view. Ad the moment the trade goes wrong, the trader has a clearer basis for reviewing what changed and whether the original reasoning still holds — because the process produced a view with reasoning attached, not just a feeling backed by selected data. 
+
+Research is only part of preparation. Before entering a trade, the trader also needs a defined timeframe, position size, exit plan and limit on how much they are willing to lose. A well-research trade can still lose money. A clear process helps manage uncertainty, it does not remove it. FINRA's day-trading risk disclosure makes this point directly: even experienced traders with in-depth knowledge of the markets may suffer severe and unexpected losses. 
+
+Zeig was built to support the research side of that preparation. 
+
+When you ask Zeig about a market, specialist AI agents work across macro, technical, news, and market analysis simultaneously. Each contributes a different perspective. The conclusion that comes back is not a list of indicators to interpret. It is a view 
 
 
 
