@@ -7,6 +7,7 @@ category: market-analysis
 tags:
   - Trading Psychology
   - Trading Mistakes
+  - Market Research
 pubDate: 2026-09-30
 status: draft
 imageSource: original
