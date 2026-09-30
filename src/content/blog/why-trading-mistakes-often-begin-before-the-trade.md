@@ -26,3 +26,5 @@ But go back further.
 
 Go back to the moment before the trade. The research that preceded it. The process used to form the view. The question that was asked — or move often, the question that was never asked at all. 
 
+Some avoidable trading mistakes begin here: in the preparation that shapes the decision. 
+
