@@ -9,6 +9,7 @@ tags:
   - Trading Mistakes
   - Market Research
   - Pre-Trade Analysis
+  - Confirmation Bias
 pubDate: 2026-09-30
 status: draft
 imageSource: original
