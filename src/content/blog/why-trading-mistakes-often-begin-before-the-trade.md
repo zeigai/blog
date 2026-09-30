@@ -48,5 +48,12 @@ Starting with the answer.
 
 A trader sees a stock or a currency pair moving. Something catches their attention. They open the chart already leaning in a direction. The research that follows is not an honest inquiry. It is a search for confirmation. 
 
-This can reflect  
+This can reflect confirmation bias: the tendency to favour information that supports an existing belief and overlook evidence that challenges it. In trading, that can turn research into a justification for a decision already made. CNMV's guide to behavioural economics for investors describes how confirmation bias can lead investors to selectively seek information that supports their existing views. 
 
+Using one lens when the situation requires several. 
+
+A technical trader looks at price structure and finds a compelling setup. But that setup is forming against a macro backdrop that makes the move unlikely. A momentum trader chases a move without checking whether the volume supports the conviction behind it. A fundamental investor builds a thesis on earning quality but ignores the technical level the whole sector is pressing against. 
+
+
+
+&nbsp;
