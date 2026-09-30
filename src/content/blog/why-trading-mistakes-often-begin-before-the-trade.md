@@ -56,13 +56,13 @@ A technical trader looks at price structure and finds a compelling setup. But th
 
 Markets are driven by macro, technical, fundamental and sentiment forces interacting simultaneously. Relying on a single lens can leave important context unexplored.
 
-The absence of a clear question. 
+**The absence of a clear question.** 
 
 This is an easy weakness to overlook. The trader opens the chart without a specific question. They look at what is in front of them and try to form a view from raw data. There is no structure to the inquiry. No defined objective. No clear signal for when the analysis is finished. 
 
 Without a clear question, it becomes harder to distinguish relevant evidence from noise. The research continues until the trader feels confident enough to act. Confidence can reflect the strength of a pre-existing belief  rather than the strength of the evidence. 
 
-What a structured process actually produces 
+## **What a structured process actually produces** 
 
 Intelligence alone does not make a trading process reliable. A structured approach can help traders recognise their biases and apply decision rules. 
 
