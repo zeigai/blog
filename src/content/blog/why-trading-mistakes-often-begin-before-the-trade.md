@@ -40,3 +40,13 @@ And the quality of that judgment call depends partly on the process used to form
 
 Individual traders may have access to plenty of information but lack a consistent process for turning it into a well-tested view. 
 
+Three ways the process breaks down
+
+The failure is rarely dramatic. It does not announce itself. It looks like normal research. It feels like due diligence. But underneath it, one of three things is happening that makes the conclusion weaker than it needs to be. 
+
+Starting with the answer. 
+
+A trader sees a stock or a currency pair moving. Something catches their attention. They open the chart already leaning in a direction. The research that follows is not an honest inquiry. It is a search for confirmation. 
+
+This can reflect  
+
