@@ -11,6 +11,7 @@ tags:
   - Pre-Trade Analysis
   - Confirmation Bias
   - Risk Management
+  - AI Trading Analysis
 pubDate: 2026-09-30
 status: draft
 imageSource: original
