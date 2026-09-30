@@ -24,4 +24,5 @@ When a position moves against you or your stop gets hit, it is natural to review
 
 But go back further. 
 
-Go back to the moment before the trade. The research that preceded it. The process used to form the view. The question that was asked
+Go back to the moment before the trade. The research that preceded it. The process used to form the view. The question that was asked — or move often, the question that was never asked at all. 
+
