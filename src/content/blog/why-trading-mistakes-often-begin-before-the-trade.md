@@ -6,6 +6,7 @@ description: Trading mistakes can begin before execution. Learn how confirmation
 category: market-analysis
 tags:
   - Trading Psychology
+  - Trading Mistakes
 pubDate: 2026-09-30
 status: draft
 imageSource: original
