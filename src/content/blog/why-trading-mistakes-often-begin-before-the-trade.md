@@ -82,8 +82,22 @@ Research is only part of preparation. Before entering a trade, the trader also n
 
 Zeig was built to support the research side of that preparation. 
 
-When you ask Zeig about a market, specialist AI agents work across macro, technical, news, and market analysis simultaneously. Each contributes a different perspective. The conclusion that comes back is not a list of indicators to interpret. It is a view 
+When you ask Zeig about a market, specialist AI agents work across macro, technical, news, and market analysis simultaneously. Each contributes a different perspective. The conclusion that comes back is not a list of indicators to interpret. It is a view — specific, contextualised, built from multiple disciplines working together. 
+
+The trade still belongs to you. The decision is still yours. 
+
+But the process that leads to it is no longer yours to build alone. 
+
+Trade with your AI team. 
+
+**Sources cited:** 
+
+*CNMV — Behavioural Economics for Investors* ++*[https://www.cnmv.es/DocPortal/Publicaciones/Guias/EN-Guia_Psicologiaenen.pdf](https://www.cnmv.es/DocPortal/Publicaciones/Guias/EN-Guia_Psicologiaenen.pdf)*++ 
+
+*FINRA — Day-Trading Risk Disclosure (Regulatory Notice 24-13)* ++*[https://www.finra.org/rules-guidance/notices/24-13](https://www.finra.org/rules-guidance/notices/24-13)*++ 
 
 
+
+&nbsp;
 
 &nbsp;
