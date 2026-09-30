@@ -76,7 +76,7 @@ What changes when the process changes
 
 When a trader starts a clear question and gathers evidence across macro context, technical structure, news flow and market behaviour before reaching a conclusion, several things change at once. 
 
-The analysis has direction before it has an answer. The signals that matter are separated from the ones that do not. The confusion 
+The analysis has direction before it has an answer. The signals that matter are separated from the ones that do not. The conclusion that emerges has been tested against the most credible alternative view. Ad the moment the trade goes wrong, the trader has a clearer basis for reviewing what changed and whether the original reasoning still holds
 
 
 
