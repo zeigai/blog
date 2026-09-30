@@ -72,7 +72,7 @@ That process helps distinguish an evidence-based thesis from an untested assumpt
 
 Professional research desks can bring together specialists across several disciplines. Individual traders often have to assemble those perspectives themselves, moving between charts, news sources and research tools. 
 
-What changes when the process changes
+## **What changes when the process changes**
 
 When a trader starts a clear question and gathers evidence across macro context, technical structure, news flow and market behaviour before reaching a conclusion, several things change at once. 
 
