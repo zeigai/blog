@@ -70,6 +70,8 @@ As structured research process starts with a question. A specific, honest questi
 
 That process helps distinguish an evidence-based thesis from an untested assumption. It does not, by itself, establish a profitable trading edge. 
 
+Professional research desks can bring together specialists across several disciplines. Individual traders often have to assemble those perspectives themselves, moving between charts, news sources and research tools. 
+
 
 
 &nbsp;
