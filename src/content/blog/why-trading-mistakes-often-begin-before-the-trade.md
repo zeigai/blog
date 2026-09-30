@@ -28,3 +28,15 @@ Go back to the moment before the trade. The research that preceded it. The proce
 
 Some avoidable trading mistakes begin here: in the preparation that shapes the decision. 
 
+The decision that happened before the decision 
+
+Every trade begins with a conclusion. 
+
+The asset is going up. Or it is going down. Or it is setting up for a move worth taking. Before a single order is placed, a trader has already made a judgement call about the market. The judgement call is the real decision. The trade is just what follows from it. 
+
+The quality of that judgment call shapes the trade that follows. 
+
+And the quality of that judgment call depends partly on the process used to form it, the information available and how uncertainty is handled. 
+
+Individual traders may have access to plenty of information but lack a consistent process for turning it into a well-tested view. 
+
