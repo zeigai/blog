@@ -20,3 +20,8 @@ author: chloe
 ---
 A trading mistake can begin long before the order is placed.
 
+When a position moves against you or your stop gets hit, it is natural to review the trade itself. But a losing trade does not necessarily mean a mistake was made. The natural instinct is to look at the trade itself. The entry timing. The asset chosen. The size of the position. 
+
+But go back further. 
+
+Go back to the moment before the trade. The research that preceded it. The process used to form the view. The question that was asked
