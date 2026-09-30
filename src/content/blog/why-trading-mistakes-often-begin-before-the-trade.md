@@ -18,3 +18,5 @@ imageSource: original
 imageApproved: true
 author: chloe
 ---
+A trading mistake can begin long before the order is placed.
+
