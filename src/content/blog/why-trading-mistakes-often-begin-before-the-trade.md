@@ -64,6 +64,14 @@ Without a clear question, it becomes harder to distinguish relevant evidence fro
 
 What a structured process actually produces 
 
+Intelligence alone does not make a trading process reliable. A structured approach can help traders recognise their biases and apply decision rules. 
 
+As structured research process starts with a question. A specific, honest question about what the market is doing and why. It gathers evidence across multiple dimensions simultaneously. It stress-tests the conclusion against the evidence that challenges it, not just the evidence that supports it. And it arrives at a view that is defensible — not because it will always be right, but because it was formed through a process rigorous enough to identify when it is wrong. 
+
+That process helps distinguish an evidence-based thesis from an untested assumption. It does not, by itself, establish a profitable trading edge. 
+
+
+
+&nbsp;
 
 &nbsp;
