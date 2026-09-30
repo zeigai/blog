@@ -10,6 +10,7 @@ tags:
   - Market Research
   - Pre-Trade Analysis
   - Confirmation Bias
+  - Risk Management
 pubDate: 2026-09-30
 status: draft
 imageSource: original
