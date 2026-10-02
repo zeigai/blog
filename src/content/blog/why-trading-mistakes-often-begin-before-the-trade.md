@@ -34,7 +34,7 @@ Every trade begins with a conclusion.
 
 The asset is going up. Or it is going down. Or it is setting up for a move worth taking. Before a single order is placed, a trader has already made a judgement call about the market. The judgement call is the real decision. The trade is just what follows from it. 
 
-The quality of that judgment call shapes the trade that follows. 
+The quality of that judgement call shapes the trade that follows. 
 
 And the quality of that judgement call depends partly on the process used to form it, the information available and how uncertainty is handled. 
 
