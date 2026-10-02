@@ -36,7 +36,7 @@ The asset is going up. Or it is going down. Or it is setting up for a move worth
 
 The quality of that judgment call shapes the trade that follows. 
 
-And the quality of that judgment call depends partly on the process used to form it, the information available and how uncertainty is handled. 
+And the quality of that judgement call depends partly on the process used to form it, the information available and how uncertainty is handled. 
 
 Individual traders may have access to plenty of information but lack a consistent process for turning it into a well-tested view. 
 
