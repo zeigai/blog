@@ -24,11 +24,11 @@ When a position moves against you or your stop gets hit, it is natural to review
 
 But go back further. 
 
-Go back to the moment before the trade. The research that preceded it. The process used to form the view. The question that was asked — or move often, the question that was never asked at all. 
+Go back to the moment before the trade. The research that preceded it. The process used to form the view. The question that was asked — or more often, the question that was never asked at all. 
 
 Some avoidable trading mistakes begin here: in the preparation that shapes the decision. 
 
-## **The decision that happened before the decision** 
+## **The decision that happened before the decision**
 
 Every trade begins with a conclusion. 
 
@@ -62,7 +62,7 @@ This is an easy weakness to overlook. The trader opens the chart without a speci
 
 Without a clear question, it becomes harder to distinguish relevant evidence from noise. The research continues until the trader feels confident enough to act. Confidence can reflect the strength of a pre-existing belief  rather than the strength of the evidence. 
 
-## **What a structured process actually produces** 
+## **What a structured process actually produces**
 
 Intelligence alone does not make a trading process reliable. A structured approach can help traders recognise their biases and apply decision rules. 
 
