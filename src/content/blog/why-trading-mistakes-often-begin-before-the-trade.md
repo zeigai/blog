@@ -50,7 +50,7 @@ This can reflect confirmation bias: the tendency to favour information that supp
 
 **Using one lens when the situation requires several.** 
 
-A technical trader looks at price structure and finds a compelling setup. But that setup is forming against a macro backdrop that makes the move unlikely. A momentum trader chases a move without checking whether the volume supports the conviction behind it. A fundamental investor builds a thesis on earning quality but ignores the technical level the whole sector is pressing against. 
+A technical trader looks at price structure and finds a compelling setup. But that setup is forming against a macro backdrop that makes the move unlikely. A momentum trader chases a move without checking whether the volume supports the conviction behind it. A fundamental investor builds a thesis on earnings quality but ignores the technical level the whole sector is pressing against. 
 
 Markets are driven by macro, technical, fundamental and sentiment forces interacting simultaneously. Relying on a single lens can leave important context unexplored.
 
