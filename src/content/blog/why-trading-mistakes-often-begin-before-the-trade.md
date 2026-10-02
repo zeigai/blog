@@ -14,7 +14,7 @@ tags:
   - AI Trading Analysis
 pubDate: 2026-09-30
 status: published
-coverImage: /blog/Untitled (1200 x 630 px)-2-6.png
+coverImage: /blog/Untitled (1200 x 630 px)-3-1.png
 coverImageAlt: Article cover showing research panels and a market question above
   a trade button, illustrating how trading mistakes can begin before placing an
   order.
