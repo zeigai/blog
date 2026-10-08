@@ -51,4 +51,4 @@ Sentiment and positioning: options activity shows elevated call buying before ea
 
 Conclusion: The evidence is mixed. The conditions to monitor are volume behaviour at the resistance level and any shift in sector sentiment. Acting before those conditions clarify means accepting more uncertainty than the setup currently justifies. 
 
-That conclusion is not a buy or a sell. It is an assessment with reasoning attached
+That conclusion is not a buy or a sell. It is an assessment with reasoning attached — and a clear statement of what would change it. A structured analysis produces a view — directional or inconclusive — with supporting evidence, conditions to monitor and an alternative explanation. 
