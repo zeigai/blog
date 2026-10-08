@@ -8,6 +8,7 @@ tags:
   - market-research
   - technical-analysis,
   - financial-analysis
+  - " zeig"
 pubDate: 2026-10-08
 status: draft
 imageSource: original
