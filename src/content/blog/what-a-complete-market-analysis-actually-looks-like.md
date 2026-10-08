@@ -6,6 +6,7 @@ category: market-analysis
 tags:
   - market-analysis
   - market-research
+  - technical-analysis,
 pubDate: 2026-10-08
 status: draft
 imageSource: original
