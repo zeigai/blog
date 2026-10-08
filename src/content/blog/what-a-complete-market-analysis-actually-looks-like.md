@@ -10,6 +10,7 @@ tags:
   - " ai-financial-analysis"
   - " zeig"
   - fundamental-analysis
+  - " trading-education"
 pubDate: 2026-10-08
 status: draft
 imageSource: original
