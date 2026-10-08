@@ -65,7 +65,7 @@ The 1-minute tape shows a sharp post-peak sell-off into 720 with momentum only j
 
 **Summary of the technical read:** 
 
-Price peaked near 728.00, sold off to a session low of 720.93, and was consolidating at 721.15 — below the middle Bollinger Band and just above the lower band (720.49, a dynamic level distinct from the session low). RSI at 42.83, and a MACD crossover forming but unconfirmed. Higher timeframes were not supplied, Zeig was directed that anything said about them would be invention. 
+Price peaked near 728.00, sold off to a session low of 720.93, and was consolidating at 721.15 — below the middle Bollinger Band and just above the lower band (720.49, a dynamic level distinct from the session low). RSI at 42.83, and a MACD crossover was forming but remained unconfirmed. Higher timeframes were not supplied, Zeig was directed that anything said about them would be invention. 
 
 **Invalidation levels (summary):** 
 
