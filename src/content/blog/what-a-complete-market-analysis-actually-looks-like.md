@@ -55,7 +55,7 @@ That conclusion is not a buy or a sell. It is an assessment with reasoning attac
 
 ## **What Zeig actually returned**
 
-We then asked Zeig a related question about Meta. This was a separate test from the hypothetical example above. The question put to Zeig: "Is the post-earnings momentum in Meta strong enough to break resistance, or is this fading move?"
+We then asked Zeig a related question about Meta. This was a separate test from the hypothetical example above. The question put to Zeig: "Is the post-earnings momentum in Meta strong enough to break resistance, or is this a fading move?"
 
 Response captured on 8 October 2026 at 11:40 EET (UTC+3), using a 1-minute Meta chart. The quoted prices are historical and are not current trading levels. 
 
