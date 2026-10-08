@@ -61,7 +61,7 @@ Response captured on 8 October 2026 at 11:40 EET (UTC+3), using a 1-minute Meta 
 
 **TLDR (verbatim):** 
 
-The 1-minute tape shows a sharp post-peak sell-off into 720 with momentum only just stabilizing — but with no higher-timeframe data in hand, I can't confirm whether this is a pullback inside a larger uptrend or the start of something worse, so "strong enough to break resistance" is unanswered from this window alone. 
+The 1-minute tape shows a sharp post-peak sell-off into 720 with momentum only just stabilizing — but with no higher-timeframe data in hand, I can't confirm whether this is a pullback inside a larger uptrend or the start of something worse, so "strong enough to break resistance" is unanswerable from this window alone. 
 
 **Summary of the technical read:** 
 
