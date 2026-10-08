@@ -9,6 +9,7 @@ tags:
   - technical-analysis,
   - " ai-financial-analysis"
   - " zeig"
+  - fundamental-analysis
 pubDate: 2026-10-08
 status: draft
 imageSource: original
