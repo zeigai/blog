@@ -39,16 +39,17 @@ The following example is hypothetical and illustrates a research process. It doe
 
 Consider a stock that has just reported earnings above expectations. The price has risen sharply and is approaching a resistance level it has failed to break on three previous occasions. 
 
-The question: Is the post-earnings momentum strong enough to break resistance, or is this a fading move?
+**The question**: Is the post-earnings momentum strong enough to break resistance, or is this a fading move?
 
-Macro context: The broader market is under pressure from rising yields. Sector rotation has been away from high-growth names. The stock needs to work against a headwind. 
+**Macro context:** The broader market is under pressure from rising yields. Sector rotation has been away from high-growth names. The stock needs to work against a headwind. 
 
-Earnings and fundamentals: The beat was real, but guidance was in line rather than raised. The price reaction suggests optimism, although positioning remains uncertain. The initial reaction may already reflect much of the good news. 
+**Earnings and fundamentals:** The beat was real, but guidance was in line rather than raised. The price reaction suggests optimism, although positioning remains uncertain. The initial reaction may already reflect much of the good news. 
 
-Technical structure: Each previous rejection at resistance came with high volume — suggesting strong trading activity around that level, with price failing to hold above it. A break with sustained volume would be meaningful. A move on fading volume would be a warning. 
+**Technical structure:** Each previous rejection at resistance came with high volume — suggesting strong trading activity around that level, with price failing to hold above it. A break with sustained volume would be meaningful. A move on fading volume would be a warning. 
 
-Sentiment and positioning: options activity shows elevated call buying before earnings. This may suggest anticipation of upside, but call volume alone does not establish how investors are positioned. It can also reflect hedging or spreads. 
+**Sentiment and positioning:** options activity shows elevated call buying before earnings. This may suggest anticipation of upside, but call volume alone does not establish how investors are positioned. It can also reflect hedging or spreads. 
 
-Conclusion: The evidence is mixed. The conditions to monitor are volume behaviour at the resistance level and any shift in sector sentiment. Acting before those conditions clarify means accepting more uncertainty than the setup currently justifies. 
+**Conclusion:** The evidence is mixed. The conditions to monitor are volume behaviour at the resistance level and any shift in sector sentiment. Acting before those conditions clarify means accepting more uncertainty than the setup currently justifies. 
 
 That conclusion is not a buy or a sell. It is an assessment with reasoning attached — and a clear statement of what would change it. A structured analysis produces a view — directional or inconclusive — with supporting evidence, conditions to monitor and an alternative explanation. 
+
