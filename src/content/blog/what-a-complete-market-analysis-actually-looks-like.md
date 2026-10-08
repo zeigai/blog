@@ -7,6 +7,7 @@ tags:
   - market-analysis
   - market-research
   - technical-analysis,
+  - financial-analysis
 pubDate: 2026-10-08
 status: draft
 imageSource: original
