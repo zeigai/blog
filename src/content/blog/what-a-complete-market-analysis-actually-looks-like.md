@@ -73,4 +73,11 @@ Bearish continuation invalidated above 722.25, then 724-725.
 
 Bullish stabilisation invalidated if 720.49 gives away — opens 720.00.
 
-Conclusion (verbatim)
+Conclusion (verbatim): 
+
+The honest answer to your question is: the 1-minute can't answer it. A move that peaked at 728 and is now defending 720 is a pullback if the daily/4-hour trend is up, and a breakdown if it isn't — same 1-minute chart, opposite conclusions. Confirm it against the higher timeframes before treating either as a setup. Whether you act on that is your call. 
+
+This response does not provide the full macro, fundamental and sentiment context. It illustrates why identifying missing evidence is part of a structured analysis — and why the question you ask shapes the answer you can get. 
+
+Research is only part of preparation 
+
