@@ -103,7 +103,7 @@ But the process that leads to it no longer has to be yours to build alone.
 
 Trade with your AI team. 
 
-Sources:
+**Sources:**
 
 CNMV — Behavioural Economics for Investors [https://www.cnmv.es/DocPortal/Publicaciones/Guias/EN-Guia_Psicologiaenen.pdf](https://www.cnmv.es/DocPortal/Publicaciones/Guias/EN-Guia_Psicologiaenen.pdf)
 
