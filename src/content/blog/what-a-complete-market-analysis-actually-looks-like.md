@@ -25,7 +25,7 @@ Those steps can contribute to analysis. But without a clear question and a way t
 
 Here is how that process can work in practice. 
 
-## **Start with a question, not a direction** 
+## **Start with a question, not a direction**
 
 Gathering data is part of research. A clear question helps turn that information into a structured analysis. 
 
@@ -33,7 +33,7 @@ Not "is this worth buying?" but something more precise: "Does the current setup 
 
 That framing matters. It sets a standard for what counts as a sufficient answer and keeps the process honest when the evidence turns out to be mixed. 
 
-## **A worked example** 
+## **A worked example**
 
 The following example is hypothetical and illustrates a research process. It does not describe a current stock or an actual Zeig response. 
 
@@ -47,13 +47,13 @@ Consider a stock that has just reported earnings above expectations. The price h
 
 **Technical structure:** Each previous rejection at resistance came with high volume — suggesting strong trading activity around that level, with price failing to hold above it. A break with sustained volume would be meaningful. A move on fading volume would be a warning. 
 
-**Sentiment and positioning:** options activity shows elevated call buying before earnings. This may suggest anticipation of upside, but call volume alone does not establish how investors are positioned. It can also reflect hedging or spreads. 
+**Sentiment and positioning:** Options activity shows elevated call buying before earnings. This may suggest anticipation of upside, but call volume alone does not establish how investors are positioned. It can also reflect hedging or spreads. 
 
 **Conclusion:** The evidence is mixed. The conditions to monitor are volume behaviour at the resistance level and any shift in sector sentiment. Acting before those conditions clarify means accepting more uncertainty than the setup currently justifies. 
 
 That conclusion is not a buy or a sell. It is an assessment with reasoning attached — and a clear statement of what would change it. A structured analysis produces a view — directional or inconclusive — with supporting evidence, conditions to monitor and an alternative explanation. 
 
-## **What Zeig actually returned** 
+## **What Zeig actually returned**
 
 We then asked Zeig a related question about Meta. This was a separate test from the hypothetical example above. The question put to Zeig: "Is the post-earnings momentum in Meta strong enough to break resistance, or is this fading move?"
 
@@ -79,7 +79,7 @@ The honest answer to your question is: the 1-minute can't answer it. A move that
 
 This response does not provide the full macro, fundamental and sentiment context. It illustrates why identifying missing evidence is part of a structured analysis — and why the question you ask shapes the answer you can get. 
 
-## **Research is only part of preparation** 
+## **Research is only part of preparation**
 
 Confirmation bias can turn research into a justification for a decision already made, rather than a genuine test of whether the view holds. CNMV's guide to behavioural economics for investors describes how this tendency leads investors to selectively seek information that supports existing views. 
 
