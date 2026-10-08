@@ -45,4 +45,10 @@ Macro context: The broader market is under pressure from rising yields. Sector r
 
 Earnings and fundamentals: The beat was real, but guidance was in line rather than raised. The price reaction suggests optimism, although positioning remains uncertain. The initial reaction may already reflect much of the good news. 
 
-Technical structure: Each previous rejection at resistance came with high volume
+Technical structure: Each previous rejection at resistance came with high volume — suggesting strong trading activity around that level, with price failing to hold above it. A break with sustained volume would be meaningful. A move on fading volume would be a warning. 
+
+Sentiment and positioning: options activity shows elevated call buying before earnings. This may suggest anticipation of upside, but call volume alone does not establish how investors are positioned. It can also reflect hedging or spreads. 
+
+Conclusion: The evidence is mixed. The conditions to monitor are volume behaviour at the resistance level and any shift in sector sentiment. Acting before those conditions clarify means accepting more uncertainty than the setup currently justifies. 
+
+That conclusion is not a buy or a sell. It is an assessment with reasoning attached
