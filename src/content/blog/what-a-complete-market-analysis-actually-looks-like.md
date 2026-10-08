@@ -99,11 +99,9 @@ But the process that leads to it no longer has to be yours to build alone.
 
 Trade with your AI team. 
 
+Sources cited:
 
+CNMV — Behavioural Economics for Investors [https://www.cnmv.es/DocPortal/Publicaciones/Guias/EN-Guia_Psicologiaenen.pdf](https://www.cnmv.es/DocPortal/Publicaciones/Guias/EN-Guia_Psicologiaenen.pdf)
 
-**Sources cited:**
-
-*CNMV — Behavioural Economics for Investors* *[https://www.cnmv.es/DocPortal/Publicaciones/Guias/EN-Guia_Psicologiaenen.pdf](https://www.cnmv.es/DocPortal/Publicaciones/Guias/EN-Guia_Psicologiaenen.pdf)*
-
-*FINRA — Day-Trading Risk Disclosure (Regulatory Notice 24-13)* *[https://www.finra.org/rules-guidance/notices/24-13](https://www.finra.org/rules-guidance/notices/24-13)*
+FINRA — Day-Trading Risk Disclosure (Regulatory Notice 24-13)[https://www.finra.org/rules-guidance/notices/24-13](https://www.finra.org/rules-guidance/notices/24-13)
 
