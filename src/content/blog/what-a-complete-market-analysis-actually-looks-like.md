@@ -67,3 +67,10 @@ Summary of the technical read:
 
 Price peaked near 728.00, sold off to a session low of 720.93, and was consolidating at 721.15 — below the middle Bollinger Band and just above the lower band (720.49, a dynamic level distinct from the session low). RSI at 42.83, a MACD crossover forming but unconfirmed. Higher timeframes were not supplied, Zeig was directed that anything said about them would be invention. 
 
+Invalidation levels (summary): 
+
+Bearish continuation invalidated above 722.25, then 724-725. 
+
+Bullish stabilisation invalidated if 720.49 gives away — opens 720.00.
+
+Conclusion (verbatim)
