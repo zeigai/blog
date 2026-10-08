@@ -81,3 +81,4 @@ This response does not provide the full macro, fundamental and sentiment context
 
 Research is only part of preparation 
 
+Confirmation bias can turn research into a justification for a decision already made, rather than a genuine test of whether the view holds. CNMV's guide to behavioural economics for investors describes how this tendency 
