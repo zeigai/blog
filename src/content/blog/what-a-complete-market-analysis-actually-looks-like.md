@@ -43,4 +43,6 @@ The question: Is the post-earnings momentum strong enough to break resistance, o
 
 Macro context: The broader market is under pressure from rising yields. Sector rotation has been away from high-growth names. The stock needs to work against a headwind. 
 
-Earnings and fundamentals: The beat was real, but guidance was in line rather than raised. The price reaction suggest optimism, although positioning remains uncertain. The initial reaction may already reflect much of the good news. 
+Earnings and fundamentals: The beat was real, but guidance was in line rather than raised. The price reaction suggests optimism, although positioning remains uncertain. The initial reaction may already reflect much of the good news. 
+
+Technical structure: Each previous rejection at resistance came with high volume
