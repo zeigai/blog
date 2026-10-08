@@ -81,4 +81,21 @@ This response does not provide the full macro, fundamental and sentiment context
 
 Research is only part of preparation 
 
-Confirmation bias can turn research into a justification for a decision already made, rather than a genuine test of whether the view holds. CNMV's guide to behavioural economics for investors describes how this tendency 
+Confirmation bias can turn research into a justification for a decision already made, rather than a genuine test of whether the view holds. CNMV's guide to behavioural economics for investors describes how this tendency leads investors to selectively seek information that supports existing views. 
+
+Before entering a trade, the trader also needs a defined timeframe, position size, exit plan and a limit on how much they are willing to lose. A well-researched trade can still lose money. FINRA's day-trading risk disclosure makes this point directly: even experienced traders with in-depth knowledge of the markets many suffer severe and unexpected losses. 
+
+Analysis manages the quality of the decision. Risk management manages the consequences of being wrong. 
+
+This is what Zeig was built to support
+
+Running this kind of analysis — across macro, technical, news and market context, on a clearly defined question — takes time and structure. Individual traders often have to move between separate tools and sources that were not designed to work together. 
+
+When you ask Zeig about a market, specialist AI agents work across macro, technical, news and market analysis simultaneously. The result is not a list of data points. It is a view — specific, contextualised, with the reasoning visible and the conditions to watch made explicit. 
+
+The trade still belongs to you. The decision is still yours. 
+
+But the process that leads to it no longer has to be yours to build alone. 
+
+Trade with your AI team. 
+
