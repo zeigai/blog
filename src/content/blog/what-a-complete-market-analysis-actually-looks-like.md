@@ -53,3 +53,15 @@ Consider a stock that has just reported earnings above expectations. The price h
 
 That conclusion is not a buy or a sell. It is an assessment with reasoning attached — and a clear statement of what would change it. A structured analysis produces a view — directional or inconclusive — with supporting evidence, conditions to monitor and an alternative explanation. 
 
+What Zeig actually returned 
+
+We then asked Zeig a related question about Meta. This was a separate test from the hypothetical example above. The question put to Zeig: "Is the post-earnings momentum in Meta strong enough to break resistance, or is this fading move?"
+
+Response captured on 8 October 2026 at 11:40 EET (UTC+3), using a 1-minute Meta chart. The quoted prices are historical and are not current trading levels. 
+
+TLDR (verbatim): 
+
+The 1-minute tape shows a sharp post-peak sell-off into 720 with momentum only just stabilizing — but with no higher-timeframe data in hand, I can't confirm whether this is a pullback inside a larger uptrend or the start of something worse, so "strong enough to break resistance" is unanswered from this window alone. 
+
+Summary of the technical read: 
+
