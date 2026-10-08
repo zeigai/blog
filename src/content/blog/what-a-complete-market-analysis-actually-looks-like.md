@@ -12,8 +12,8 @@ tags:
   - fundamental-analysis
   - " trading-education"
 pubDate: 2026-10-08
-status: draft
-coverImage: /blog/Untitled (1200 x 630 px)-5-1.png
+status: published
+coverImage: /blog/Untitled (1200 x 630 px)-5-2.png
 coverImageAlt: Cover of “What a Complete Market Analysis Actually Looks Like,”
   showing macro, fundamentals, technicals and sentiment connected to one
   question.
