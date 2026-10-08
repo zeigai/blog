@@ -7,7 +7,7 @@ tags:
   - market-analysis
   - market-research
   - technical-analysis,
-  - financial-analysis
+  - " ai-financial-analysis"
   - " zeig"
 pubDate: 2026-10-08
 status: draft
