@@ -45,3 +45,7 @@ What Is the Market Doing Right Now?
 
 No trade exists in isolation. Every position lives inside a market with a current mood — risk-on or risk-off, trending or ranging, driven by macro data or by pure technicals. That mood shapes whether your setup succeeds or fails, regardless of how clean it looks on the chart. 
 
+Even a technically sound setup can fail when broader market conditions work against it. A long position into a Fed-driven selloff. A breakout attempt in a low-volume, directionless session. Right setup, wrong timing, bad outcome. Before you enter, ask yourself: is the broader environment working with my thesis of against it? Is there an earnings report, a central bank decision, or a major data release that could move the market against my position before it has time to play out? Understanding the environment your trade lives in is not optional. It is how you avoid being right about the setup and still losing money. 
+
+Am I in the Right Headspace to Trade? 
+
