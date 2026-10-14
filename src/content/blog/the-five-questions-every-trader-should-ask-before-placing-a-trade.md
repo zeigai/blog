@@ -7,6 +7,7 @@ category: market-analysis
 tags:
   - pre-trade checklist
   - trading psychology
+  - risk to reward ratio
 pubDate: 2026-10-14
 status: draft
 imageSource: original
