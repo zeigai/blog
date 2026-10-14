@@ -8,6 +8,7 @@ tags:
   - pre-trade checklist
   - trading psychology
   - risk to reward ratio
+  - how to trade better
 pubDate: 2026-10-14
 status: draft
 imageSource: original
