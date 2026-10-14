@@ -51,7 +51,7 @@ Even a technically sound setup can fail when broader market conditions work agai
 
 This is the question traders are most reluctant to ask. It is also one that could help prevent costly decisions. Trading after a significant loss, when you are tired, distracted, or trying to recover yesterday's drawdown — that is when discipline disappears. That is when you size up positions you should be reducing. That is when you hold losing trades longer than you should and exit winning ones far too early. That is when a difficult day becomes a damaging week. 
 
-Your mental state is part of your edge. It influences every decision you make at the desk. A trader who recognises they are not in a position to thick clearly — and chooses to step back — is not showing weakness. They are demonstrating the kind of self-awareness that protects their account over the long term. Not every session needs to be traded. Sometimes the most disciplined decision you can make is to close the platform and return tomorrow with a clear head. 
+Your mental state is part of your edge. It influences every decision you make at the desk. A trader who recognises they are not in a position to think clearly — and chooses to step back — is not showing weakness. They are demonstrating the kind of self-awareness that protects their account over the long term. Not every session needs to be traded. Sometimes the most disciplined decision you can make is to close the platform and return tomorrow with a clear head. 
 
 ## **The Bottom Line**
 
