@@ -33,7 +33,7 @@ Clarity before entry is the foundation of everything else.
 
 This is the question most traders skip entirely. It is also the most important one on this list. Every trade has an invalidation point — the price level or market condition that proves your thesis is wrong. Defining that point before you enter is not pessimism. It is precision. 
 
-If you do not know where you are wrong, you do not know where your stop is. If you do not have a stop, you do not have risk managements — you have hope. And hope is not a strategy. The traders who blow accounts rarely do it on one catastrophic trade. They do it by holding losing positions far longer than they should because they never decided in advance when enough was enough. Define your exit before the market forces one on you. 
+If you do not know where you are wrong, you do not know where your stop is. If you do not have a stop, you do not have risk management — you have hope. And hope is not a strategy. The traders who blow accounts rarely do it on one catastrophic trade. They do it by holding losing positions far longer than they should because they never decided in advance when enough was enough. Define your exit before the market forces one on you. 
 
 ## **What Is My Risk-to-Reward?** 
 
