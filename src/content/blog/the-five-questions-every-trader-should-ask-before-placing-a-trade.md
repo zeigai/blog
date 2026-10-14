@@ -39,7 +39,7 @@ If you do not know where you are wrong, you do not know where your stop is. If y
 
 Here is something many traders take too long to understand: you do not need to win most of your trades to be consistently profitable. A 1:2 risk-to-reward ratio means you can be wrong half the time and still make money, before trading costs, assuming average wins and losses match the planned ratio. A 1:3 ratio means you can lose on sixty percent of your trades and still achieve positive expectancy over a sufficiently large sample of trades. The mathematics can work in your favour when your realised results support the planned ratio. Calculating that ratio before entering a position is an essential part of evaluating the setup. 
 
-If the potential reward does not justify the risk you are taking one, the trade does not justify your capital. There will always be another setup. The traders who last are the ones who protect their capital long enough to find it. 
+If the potential reward does not justify the risk you are taking on, the trade does not justify your capital. There will always be another setup. The traders who last are the ones who protect their capital long enough to find it. 
 
 ## **What Is the Market Doing Right Now?** 
 
