@@ -12,7 +12,7 @@ tags:
   - zeig.ai
   - trading discipline
 pubDate: 2026-10-14
-status: draft
+status: published
 coverImage: /blog/Untitled (1200 x 630 px)-7.png
 coverImageAlt: " Digital pre-trade checklist with market analysis, risk
   management and trading psychology visuals in Zeig’s blue and purple branding."
