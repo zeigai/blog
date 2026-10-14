@@ -57,4 +57,4 @@ Your mental state is part of your edge. It influences every decision you make at
 
 These five questions take less than two minutes to answer. But they can help traders avoid preventable mistakes and approach each position with greater discipline. Discipline traders understand what they are doing, why they are doing it, and when their thesis is no longer valid — before they ever click the button. 
 
-Ask the questions. Every time. Without exception. 
+**Ask the questions. Every time. Without exception.** 
