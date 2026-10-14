@@ -49,3 +49,5 @@ Even a technically sound setup can fail when broader market conditions work agai
 
 Am I in the Right Headspace to Trade? 
 
+This is the question traders are most reluctant to ask. It is also one that could help prevent costly decisions. Trading after a significant loss, when you are tired, distracted, or trying to recover yesterday's drawdown — that is when discipline disappears. That is when you size up positions you should be reducing. That is when you hold losing trades longer than you should and exit winning ones far too early. That is when difficult day becomes a damaging week. 
+
