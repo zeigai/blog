@@ -6,6 +6,7 @@ description: Before you place your next trade, ask these five questions. A
 category: market-analysis
 tags:
   - pre-trade checklist
+  - trading psychology
 pubDate: 2026-10-14
 status: draft
 imageSource: original
