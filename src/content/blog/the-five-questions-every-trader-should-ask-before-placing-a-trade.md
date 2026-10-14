@@ -25,7 +25,7 @@ Many professional traders rely on a structured pre-trade checklist. Not because 
 
 This sounds obvious. It is not. "Because it looks good" is not a reason. "Because everyone is talking about it" is not a reason. A real reason is specific — a defined setup, a clear level, a catalyst you can articulate in one sentence without hesitation. 
 
-If you cannot explain your thesis plainly, you do not have a trade. You have a feeling. And feelings are expensive in financial markets. Before you enter, write it down. For example, hypothetically: "I am buying BTC because it is holding the $82,000 support level, RSI divergence is forming on the four-hour chart, and CPI data came in below expectations. "That is a thesis. That is traceable. A vague impulse gives you nothing to revisit, nothing to learn from, and nothing to defend when the position moves against you — which, at some point, it will. 
+If you cannot explain your thesis plainly, you do not have a trade. You have a feeling. And feelings are expensive in financial markets. Before you enter, write it down. For example, hypothetically: "I am buying BTC because it is holding the $82,000 support level, RSI divergence is forming on the four-hour chart, and CPI data came in below expectations."That is a thesis. That is traceable. A vague impulse gives you nothing to revisit, nothing to learn from, and nothing to defend when the position moves against you — which, at some point, it will. 
 
 Clarity before entry is the foundation of everything else. 
 
