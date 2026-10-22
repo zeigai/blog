@@ -43,3 +43,7 @@ Markets often react more strongly to how CPI compares with expectations that to 
 
 If CPI prints at 3.6% when 3.2% was expected, that upside surprise typically triggers sharp repricing. Growth stocks and technology companies are particularly sensitive because their valuations are built on future earnings discounted at current rates. When rates are expected to rise, those future earnings are worth less today. Financials and energy stocks respond differently and less predictably — sector reactions are conditional, not automatic. 
 
+Hypothetical example: Imagine traders expect core CPI of 3.0%, but the actual reading comes in at 3.4%. Treasury yields may rise as markets price in a more restrictive Fed. Growth-stock valuations may come under pressure. The U.S. dollar may strengthen. Gold may sell off if real yields rise, while Bitcoin's reaction tends to be unpredictable. 
+
+Actual reactions depend on positioning, inflation components, economic conditions, and Fed communications at the time. 
+
