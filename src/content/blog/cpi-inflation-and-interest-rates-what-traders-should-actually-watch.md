@@ -9,6 +9,7 @@ tags:
   - trading around CPI release
   - CPI and stock market
   - how inflation affects trading
+  - macro trading for beginners
 pubDate: 2026-10-22
 status: draft
 imageSource: original
