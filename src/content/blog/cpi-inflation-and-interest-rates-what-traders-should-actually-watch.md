@@ -8,6 +8,7 @@ tags:
   - zeig.ai
   - trading around CPI release
   - CPI and stock market
+  - how inflation affects trading
 pubDate: 2026-10-22
 status: draft
 imageSource: original
