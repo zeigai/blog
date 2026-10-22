@@ -37,4 +37,9 @@ A higher-than-expected reading can increase expectations of tighter Federal Rese
 
 The chain is not always clean or linear. Multiple data points, Fed communications, and global factors all play a role. But it is the framework that explains why a single inflation print can move markets sharply in one session. 
 
- 
+How Equities React 
+
+Markets often react more strongly to how CPI compares with expectations that to the number itself. If consensus was expecting 3.2% and CPI prints at 3.2%, the initial reaction may be limited — though unexpected shifts in core inflation or monthly figures can still trigger movement even when the headline matches. 
+
+If CPI prints at 3.6% when 3.2% was expected, that upside surprise typically triggers sharp repricing. Growth stocks and technology companies are particularly sensitive because their valuations are built on future earnings discounted at current rates. When rates are expected to rise, those future earnings are worth less today. Financials and energy stocks respond differently and less predictably — sector reactions are conditional, not automatic. 
+
