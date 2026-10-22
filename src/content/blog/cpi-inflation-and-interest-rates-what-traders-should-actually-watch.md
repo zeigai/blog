@@ -53,3 +53,27 @@ When a CPI report is released, experienced traders monitor Treasury yields along
 
 The 2-year Treasury yield is particularly sensitive to near-term Fed policy expectations. The year 10-year yield reflects a broader combination of future rate expectations, inflation, and the premium investors demand for longer-term debt. Both matter. The gap between them — the yield curve — signals how markets view the growth and inflation outlook. When the 2-year rises faster than the 10-year, it often signals expectations of aggressive near-term tightening. 
 
+What to Monitor Around a CPI Release 
+
+A practical pre-release checklist: 
+
+Compare headline and core CPI expectations, not just the headline. 
+
+Review month-over-month figures alongside the annual number — the monthly trend often signals shifts earlier. 
+
+Check both the 2-year and 10-year Treasury yields before the release. 
+
+Identify key support and resistance levels in the assets you are watching. 
+
+Decide how you will manage position size and volatility before the number drops — not after. 
+
+CPI drops at 8:30am ET. The initial move can overreact, continue, or reverse. There is no guarantee pattern. Monitor Fed communications after the release — hawkish follow-up compounds pressure, dovish language can extend a rally beyond the initial reaction day. 
+
+The Bottom Line
+
+Technical indicators help traders identify price trends and entry points. Macroeconomic analysis adds context by explaining the forces behind those movements. Bringing both together allows traders to evaluate a setup more comprehensively — an approach that sits at the centre of Zeig's AI powered market research. 
+
+Inflation data shapes interest rate expectations, which influence Treasury yields and valuations across financial markets. Growth stocks and other rate-sensitive assets can be particularly exposed to these shifts. 
+
+Macro awareness isn't about predicting every market move. It's about understanding the forces behind price action, recognising when conditions are changing, and making more informed trading decisions. 
+
