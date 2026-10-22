@@ -47,3 +47,9 @@ Hypothetical example: Imagine traders expect core CPI of 3.0%, but the actual re
 
 Actual reactions depend on positioning, inflation components, economic conditions, and Fed communications at the time. 
 
+The 2-Year and 10-Year Treasury Yields 
+
+When a CPI report is released, experienced traders monitor Treasury yields alongside equity indices to understand how the data is shifting rate expectations. 
+
+The 2-year Treasury yield is particularly sensitive to near-term Fed policy expectations. The year 10-year yield reflects a broader combination of future rate expectations, inflation, and the premium investors demand for longer-term debt. Both matter. The gap between them — the yield curve — signals how markets view the growth and inflation outlook. When the 2-year rises faster than the 10-year, it often signals expectations of aggressive near-term tightening. 
+
