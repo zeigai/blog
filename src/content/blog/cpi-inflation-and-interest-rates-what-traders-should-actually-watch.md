@@ -79,22 +79,22 @@ Inflation data shapes interest rate expectations, which influence Treasury yield
 **Sources** 
 
 U.S. Bureau of Labor Statistics — Consumer Price Index overview and data   
-++[https://www.bls.gov/cpi/](https://www.bls.gov/cpi/)++ 
+[https://www.bls.gov/cpi/](https://www.bls.gov/cpi/) 
 
 U.S. Bureau of Labor Statistics — CPI release schedule   
-++[https://www.bls.gov/schedule/news_release/cpi.htm](https://www.bls.gov/schedule/news_release/cpi.htm)++ 
+[https://www.bls.gov/schedule/news_release/cpi.htm](https://www.bls.gov/schedule/news_release/cpi.htm)
 
 Federal Reserve — PCE inflation and the 2% target explained   
-++[https://www.federalreserve.gov/faqs/economy_14400.htm](https://www.federalreserve.gov/faqs/economy_14400.htm)++ 
+[https://www.federalreserve.gov/faqs/economy_14400.htm](https://www.federalreserve.gov/faqs/economy_14400.htm) 
 
 Federal Reserve — monetary policy goals and how they work   
-++[https://www.federalreserve.gov/monetarypolicy/monetary-policy-what-are-its-goals-how-does-it-work.htm](https://www.federalreserve.gov/monetarypolicy/monetary-policy-what-are-its-goals-how-does-it-work.htm)++ 
+[https://www.federalreserve.gov/monetarypolicy/monetary-policy-what-are-its-goals-how-does-it-work.htm](https://www.federalreserve.gov/monetarypolicy/monetary-policy-what-are-its-goals-how-does-it-work.htm) 
 
 U.S. Department of the Treasury — yield curve data and interest rate statistics   
-++[https://home.treasury.gov/policy-issues/financing-the-government/interest-rate-statistics](https://home.treasury.gov/policy-issues/financing-the-government/interest-rate-statistics)++ 
+[https://home.treasury.gov/policy-issues/financing-the-government/interest-rate-statistics](https://home.treasury.gov/policy-issues/financing-the-government/interest-rate-statistics)
 
 Investopedia — how interest rates affect stock markets   
-++[https://www.investopedia.com/articles/stocks/09/how-interest-rates-affect-markets.asp](https://www.investopedia.com/articles/stocks/09/how-interest-rates-affect-markets.asp)++ 
+[https://www.investopedia.com/articles/stocks/09/how-interest-rates-affect-markets.asp](https://www.investopedia.com/articles/stocks/09/how-interest-rates-affect-markets.asp) 
 
 World Gold Council — gold and interest rates   
-++[https://www.gold.org/goldhub/research/relevance-of-gold-as-a-strategic-asset](https://www.gold.org/goldhub/research/relevance-of-gold-as-a-strategic-asset)++ 
+[https://www.gold.org/goldhub/research/relevance-of-gold-as-a-strategic-asset](https://www.gold.org/goldhub/research/relevance-of-gold-as-a-strategic-asset) 
