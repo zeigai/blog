@@ -12,7 +12,7 @@ tags:
   - macro trading for beginners
   - Treasury yields explained
 pubDate: 2026-10-22
-status: draft
+status: published
 coverImage: /blog/Untitled (1200 x 630 px)-8.png
 coverImageAlt: CPI inflation data linked to interest rates, Treasury yields, and
   stock market movements.
