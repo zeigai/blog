@@ -35,3 +35,7 @@ The best-known MACD signal is the crossover. When the MACD line crosses above th
 
 What gives a crossover weight is context. A bullish crossover after pullback in an established uptrend, near a support level the market has respected before, tells a very different story from one in the middle of a choppy range. Many traders also use zero line as a filter, taking bullish crossovers only when MACD is above zero and bearish ones only when it is below. A move across the zero line itself is a slower signal, suggesting the broader trend may be changing. 
 
+The histogram and divergence 
+
+The histogram is often overlooked, yet it can be the most useful part of the indicator. Growing bars show momentum accelerating, shrinking bars show it fading, often well before a crossover appears. When price is still rising but the histogram keeps getting smaller, the move is running out of energy. That is not a reason to reverse a position, but it is a reason to pay attention. 
+
