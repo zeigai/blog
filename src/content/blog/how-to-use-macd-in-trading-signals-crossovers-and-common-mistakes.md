@@ -39,3 +39,6 @@ The histogram and divergence
 
 The histogram is often overlooked, yet it can be the most useful part of the indicator. Growing bars show momentum accelerating, shrinking bars show it fading, often well before a crossover appears. When price is still rising but the histogram keeps getting smaller, the move is running out of energy. That is not a reason to reverse a position, but it is a reason to pay attention. 
 
+ Divergence takes this further. If price makes a higher high while MACD makes a lower high, the rally is running on weaker momentum: a bearish divergence. A lower low in price with a higher low in MACD is the bullish version. Both can be powerful warnings, especially at major levels, but they are warnings, not triggers. As FxPro's MACD guide notes, divergence can persist for a long time before price actually reverses, so traders usually wait for confirmation first. 
+
+The mistake that cost traders most
