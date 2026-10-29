@@ -25,4 +25,7 @@ Used well, MACD offers a clear view of market momentum. Used badly, it becomes a
 
 What MACD actually measures
 
-MACD stands for Moving Average Convergence Divergence. Gerald Appel developed it in the late 1970s and published his original method in 1979. It tracks the relationship between two exponential moving averages or price, by default the 12-period and the 26-period. Subtrack
+MACD stands for Moving Average Convergence Divergence. Gerald Appel developed it in the late 1970s and published his original method in 1979. It tracks the relationship between two exponential moving averages or price, by default the 12-period and the 26-period. Subtract the slower average from the faster one and get the MACD line. A 9-period average of that line forms the signal line. The histogram, which Thomas Aspray added in 1986, plots the gap between the as bars. 
+
+When the MACD line sits above zero, short-term momentum is stronger than the longer-term trend. Below zero, it is weaker. Because everything is built from moving averages of past prices, MACD is a lagging indicator: it describes what price has already started to do, not what it will do next. Keeping that in mind prevents most of the mistakes traders make with it. 
+
