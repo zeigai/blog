@@ -19,3 +19,7 @@ imageSource: original
 imageApproved: true
 author: chloe
 ---
+Few indicators are as widely used, or as widely misunderstood, as MACD. Open almost any trading platform and you will find it beneath the price chart, whether you trade forex, gold, indices or crypto. Many traders add it on say one and start treating every crossover as signal to buy or sell. Most soon discover it isn't that simple. 
+
+Used well, MACD offers a clear view of market momentum. Used badly, it becomes a source of late entries and false signals. Here is how it works, how to read it, and the mistakes worth avoiding. 
+
