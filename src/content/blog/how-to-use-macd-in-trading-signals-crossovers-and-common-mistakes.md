@@ -8,6 +8,7 @@ tags:
   - MACD
   - Technical Analysis
   - Trading Indicators
+  - MACD Crossover
 pubDate: 2026-10-29
 status: draft
 imageSource: original
