@@ -10,6 +10,7 @@ tags:
   - Trading Indicators
   - MACD Crossover
   - Momentum Trading
+  - Trading Education
 pubDate: 2026-10-29
 status: draft
 imageSource: original
