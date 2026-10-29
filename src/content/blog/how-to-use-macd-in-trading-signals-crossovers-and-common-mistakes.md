@@ -14,7 +14,7 @@ tags:
   - Trading Strategies
   - Risk Management
 pubDate: 2026-10-29
-status: draft
+status: published
 coverImage: /blog/Untitled (1200 x 630 px)-9.png
 coverImageAlt: " MACD trading chart showing signal crossovers, momentum and
   histogram analysis."
