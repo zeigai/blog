@@ -23,25 +23,25 @@ Few indicators are as widely used, or as widely misunderstood, as MACD. Open alm
 
 Used well, MACD offers a clear view of market momentum. Used badly, it becomes a source of late entries and false signals. Here is how it works, how to read it, and the mistakes worth avoiding. 
 
-What MACD actually measures
+## **What MACD actually measures**
 
 MACD stands for Moving Average Convergence Divergence. Gerald Appel developed it in the late 1970s and published his original method in 1979. It tracks the relationship between two exponential moving averages or price, by default the 12-period and the 26-period. Subtract the slower average from the faster one and get the MACD line. A 9-period average of that line forms the signal line. The histogram, which Thomas Aspray added in 1986, plots the gap between the as bars. 
 
 When the MACD line sits above zero, short-term momentum is stronger than the longer-term trend. Below zero, it is weaker. Because everything is built from moving averages of past prices, MACD is a lagging indicator: it describes what price has already started to do, not what it will do next. Keeping that in mind prevents most of the mistakes traders make with it. 
 
-Reading crossovers
+## **Reading crossovers**
 
 The best-known MACD signal is the crossover. When the MACD line crosses above the signal line, momentum is turning upward, when it crosses below, momentum is turning down. Simple enough, but on lower timeframes crossovers happen constantly, and many of them mean very little. 
 
 What gives a crossover weight is context. A bullish crossover after pullback in an established uptrend, near a support level the market has respected before, tells a very different story from one in the middle of a choppy range. Many traders also use zero line as a filter, taking bullish crossovers only when MACD is above zero and bearish ones only when it is below. A move across the zero line itself is a slower signal, suggesting the broader trend may be changing. 
 
-The histogram and divergence 
+## **The histogram and divergence** 
 
 The histogram is often overlooked, yet it can be the most useful part of the indicator. Growing bars show momentum accelerating, shrinking bars show it fading, often well before a crossover appears. When price is still rising but the histogram keeps getting smaller, the move is running out of energy. That is not a reason to reverse a position, but it is a reason to pay attention. 
 
  Divergence takes this further. If price makes a higher high while MACD makes a lower high, the rally is running on weaker momentum: a bearish divergence. A lower low in price with a higher low in MACD is the bullish version. Both can be powerful warnings, especially at major levels, but they are warnings, not triggers. As FxPro's MACD guide notes, divergence can persist for a long time before price actually reverses, so traders usually wait for confirmation first. 
 
-The mistake that cost traders most
+## **The mistake that cost traders most**
 
 The most common mistake is treating every crossover as a trade. On a 15-minute chart, that can mean several signals an hour and a steady drip of small losses. Closely related is using MACD in a sideways market, where, as TrendSpider points out, the indicators is especially prone to false signals. MACD measures momentum, when there is none, it has nothing useful to say. 
 
@@ -51,7 +51,16 @@ Then there are the settings. The default 12, 26, 9 dates back to when stock mark
 
 Finally, no indicator replaces risk management. MACD can tell you whether momentum supports a trade idea. It cannot tell you how much to risk, where your idea is wrong, or when to step aside. 
 
-Seeing the full picture 
+## **Seeing the full picture** 
 
 MACD works best as one part of a wider read of the market, alongside price structure, key levels, other indicators and the news driving price. That is the thinking behind Zeig. Ask a question such as "What is MACD saying on gold's 4-hour chart, and does it agree with the trend?" and Zeig's AI specialists bring the chart, the indicators and the market context together in one clear answer, so you can make your own decisions with more confidence. 
 
+**Sources** 
+
+- FxPro, ++[How to Trade Using the MACD Indicator: Top Strategies](https://fxpro.com/help-section/education/beginners/articles/how-to-trade-using-the-macd-indicator-top-strategies)++ (August 2026) 
+
+- TrendSpider Learning Center, ++[MACD Indicator: An Overview](https://trendspider.com/learning-center/macd-indicator-an-overview/)++ 
+
+- Barbara Star, ++[The MACD Momentum Oscillator](https://store.traders.com/-v12-c02-macdmom-pdf.html)++, Technical Analysis of Stocks & Commodities, Vol. 12 
+
+*Disclaimer: This article is for educational purposes only and does not constitute financial advice or a recommendation to buy or sell any financial instrument. Trading forex, CFDs, cryptocurrencies and other leveraged products carries a high level of risk and may not be suitable for all investors.* 
