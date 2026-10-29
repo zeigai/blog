@@ -6,7 +6,7 @@ description: Learn how to use MACD in trading, read crossovers, spot divergence
 category: market-analysis
 tags:
   - MACD
-  - Technical Analysis\
+  - Technical Analysis
 pubDate: 2026-10-29
 status: draft
 imageSource: original
