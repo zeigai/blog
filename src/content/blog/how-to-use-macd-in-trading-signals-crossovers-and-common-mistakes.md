@@ -50,3 +50,8 @@ Traders also act on divergence too early, selling into a strong uptrend at the f
 Then there are the settings. The default 12, 26, 9 dates back to when stock markets traded sic days a week, so 12 period covered roughly two weeks and 26 roughly a month. It remains a sensible starting point, partly because it is what most of the market watches. Faster settings react sooner but generate more noise, slower ones are steadier but later. Whatever you choose, test it on the market and timeframe you actually trade. 
 
 Finally, no indicator replaces risk management. MACD can tell you whether momentum supports a trade idea. It cannot tell you how much to risk, where your idea is wrong, or when to step aside. 
+
+Seeing the full picture 
+
+MACD works best as one part of a wider read of the market, alongside price structure, key levels, other indicators and the news driving price. That is the thinking behind Zeig. Ask a question such as "What is MACD saying on gold's 4-hour chart, and does it agree with the trend?" and Zeig's AI specialists bring the chart, the indicators and the market context together in one clear answer, so you can make your own decisions with more confidence. 
+
