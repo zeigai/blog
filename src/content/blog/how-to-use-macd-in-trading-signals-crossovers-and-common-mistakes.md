@@ -7,6 +7,7 @@ category: market-analysis
 tags:
   - MACD
   - Technical Analysis
+  - Trading Indicators
 pubDate: 2026-10-29
 status: draft
 imageSource: original
