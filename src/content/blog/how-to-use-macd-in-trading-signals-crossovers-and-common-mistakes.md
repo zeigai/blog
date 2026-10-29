@@ -57,10 +57,10 @@ MACD works best as one part of a wider read of the market, alongside price struc
 
 **Sources** 
 
-- FxPro, ++[How to Trade Using the MACD Indicator: Top Strategies](https://fxpro.com/help-section/education/beginners/articles/how-to-trade-using-the-macd-indicator-top-strategies)++ (August 2026) 
+- FxPro, [How to Trade Using the MACD Indicator: Top Strategies](https://fxpro.com/help-section/education/beginners/articles/how-to-trade-using-the-macd-indicator-top-strategies)(August 2026) 
 
-- TrendSpider Learning Center, ++[MACD Indicator: An Overview](https://trendspider.com/learning-center/macd-indicator-an-overview/)++ 
+- TrendSpider Learning Center, [MACD Indicator: An Overview](https://trendspider.com/learning-center/macd-indicator-an-overview/)
 
-- Barbara Star, ++[The MACD Momentum Oscillator](https://store.traders.com/-v12-c02-macdmom-pdf.html)++, Technical Analysis of Stocks & Commodities, Vol. 12 
+- Barbara Star, [The MACD Momentum Oscillator](https://store.traders.com/-v12-c02-macdmom-pdf.html), Technical Analysis of Stocks & Commodities, Vol. 12 
 
 *Disclaimer: This article is for educational purposes only and does not constitute financial advice or a recommendation to buy or sell any financial instrument. Trading forex, CFDs, cryptocurrencies and other leveraged products carries a high level of risk and may not be suitable for all investors.* 
