@@ -45,3 +45,5 @@ The mistake that cost traders most
 
 The most common mistake is treating every crossover as a trade. On a 15-minute chart, that can mean several signals an hour and a steady drip of small losses. Closely related is using MACD in a sideways market, where, as TrendSpider points out, the indicators is especially prone to false signals. MACD measures momentum, when there is none, it has nothing useful to say. 
 
+Traders also act on divergence too early, selling into a strong uptrend at the first sign of weakness instead of waiting for price to confirm. Others ignore the higher timeframe, taking a bullish crossover on the hourly chart while the daily MACD is falling deep below zero. And because MACD is measured in price units, comparing readings across markets is meaningless: a value of 15 on gold and 0.0015 on EUR/USD can describe the same momentum. For cross-market comparisons, traders use the Percentage Price Oscillator, a percentage-based version of MACD. 
+
