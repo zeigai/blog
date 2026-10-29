@@ -47,3 +47,6 @@ The most common mistake is treating every crossover as a trade. On a 15-minute c
 
 Traders also act on divergence too early, selling into a strong uptrend at the first sign of weakness instead of waiting for price to confirm. Others ignore the higher timeframe, taking a bullish crossover on the hourly chart while the daily MACD is falling deep below zero. And because MACD is measured in price units, comparing readings across markets is meaningless: a value of 15 on gold and 0.0015 on EUR/USD can describe the same momentum. For cross-market comparisons, traders use the Percentage Price Oscillator, a percentage-based version of MACD. 
 
+Then there are the settings. The default 12, 26, 9 dates back to when stock markets traded sic days a week, so 12 period covered roughly two weeks and 26 roughly a month. It remains a sensible starting point, partly because it is what most of the market watches. Faster settings react sooner but generate more noise, slower ones are steadier but later. Whatever you choose, test it on the market and timeframe you actually trade. 
+
+Finally, no indicator replaces risk management. MACD can tell you whether momentum supports a trade idea. It cannot tell you how much to risk, where your idea is wrong, or when to step aside. 
