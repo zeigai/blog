@@ -42,3 +42,6 @@ The histogram is often overlooked, yet it can be the most useful part of the ind
  Divergence takes this further. If price makes a higher high while MACD makes a lower high, the rally is running on weaker momentum: a bearish divergence. A lower low in price with a higher low in MACD is the bullish version. Both can be powerful warnings, especially at major levels, but they are warnings, not triggers. As FxPro's MACD guide notes, divergence can persist for a long time before price actually reverses, so traders usually wait for confirmation first. 
 
 The mistake that cost traders most
+
+The most common mistake is treating every crossover as a trade. On a 15-minute chart, that can mean several signals an hour and a steady drip of small losses. Closely related is using MACD in a sideways market, where, as TrendSpider points out, the indicators is especially prone to false signals. MACD measures momentum, when there is none, it has nothing useful to say. 
+
