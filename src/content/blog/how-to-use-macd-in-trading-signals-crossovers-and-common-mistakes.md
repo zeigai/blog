@@ -29,3 +29,9 @@ MACD stands for Moving Average Convergence Divergence. Gerald Appel developed it
 
 When the MACD line sits above zero, short-term momentum is stronger than the longer-term trend. Below zero, it is weaker. Because everything is built from moving averages of past prices, MACD is a lagging indicator: it describes what price has already started to do, not what it will do next. Keeping that in mind prevents most of the mistakes traders make with it. 
 
+Reading crossovers
+
+The best-known MACD signal is the crossover. When the MACD line crosses above the signal line, momentum is turning upward, when it crosses below, momentum is turning down. Simple enough, but on lower timeframes crossovers happen constantly, and many of them mean very little. 
+
+What gives a crossover weight is context. A bullish crossover after pullback in an established uptrend, near a support level the market has respected before, tells a very different story from one in the middle of a choppy range. Many traders also use zero line as a filter, taking bullish crossovers only when MACD is above zero and bearish ones only when it is below. A move across the zero line itself is a slower signal, suggesting the broader trend may be changing. 
+
