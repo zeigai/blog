@@ -10,6 +10,7 @@ tags:
   - trading-decisions
   - market-analysis
   - risk-management
+  - rading-strategies
 pubDate: 2026-11-05
 status: draft
 imageSource: original
