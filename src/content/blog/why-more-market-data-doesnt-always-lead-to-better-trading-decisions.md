@@ -9,6 +9,7 @@ tags:
   - information-overload
   - trading-decisions
   - market-analysis
+  - risk-management
 pubDate: 2026-11-05
 status: draft
 imageSource: original
