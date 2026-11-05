@@ -70,4 +70,9 @@ The Analyst combines technicals, news and sentiment into one answer.
 
 The Psych and Risk Manager tackle the habits and overconfidence that too much data feeds. 
 
- 
+The aim isn't to make decisions for you. It's to give you less noise and more context, so the decision you make is your own and better informed. 
+
+The bottom line 
+
+Past a handful of relevant inputs, more data mostly buys confidence, not accuracy, and confidence without accuracy is what leads to oversized positions and overtrading. Fewer, better inputs, a written plan and risk set before the trade will do more for your results than another screen. 
+
