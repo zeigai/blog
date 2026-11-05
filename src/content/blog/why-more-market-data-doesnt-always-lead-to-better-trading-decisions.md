@@ -6,6 +6,7 @@ description: More market data doesn't always mean better trading decisions.
 category: market-analysis
 tags:
   - trading-psychology
+  - information-overload
 pubDate: 2026-11-05
 status: draft
 imageSource: original
