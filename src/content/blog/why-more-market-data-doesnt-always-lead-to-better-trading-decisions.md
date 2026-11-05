@@ -44,3 +44,19 @@ Decisions slow down. With more to weigh, it takes longer to act. Waiting for one
 
 Confidence outruns accuracy. Feeling well-informed leads traders to size up, widen stops or trade more often. More risk on the same accuracy is a poor trade-off. 
 
+What actually helps 
+
+The answer isn't less information. It's the right information, in context, with a plan. 
+
+Pick a few inputs. In Slovic's study, five did as well as 40. Choose the handful that fit your strategy and ignore the rest. 
+
+Write the plan first. Decide entry, stop, size and reason in advance. New data then confirms or cancels the plan instead of inventing a new one. 
+
+Ask what a headline changes. If it doesn't shift the levels, trend or risk on what you trade, it's noise. 
+
+Put risk first. Size from your stop and your account, not from how confident you feel. 
+
+Treat sudden certainty as a warning. Feeling very sure after an hour of scrolling is a red flag, not a green light. 
+
+Review your own traders. Your results show which inputs actually helped you. Drop the ones that didn't. 
+
