@@ -13,6 +13,7 @@ tags:
   - rading-strategies
   - ai-trading
   - behavioral-finance
+  - zeig
 pubDate: 2026-11-05
 status: draft
 imageSource: original
