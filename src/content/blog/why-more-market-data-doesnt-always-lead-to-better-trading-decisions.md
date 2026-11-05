@@ -12,6 +12,7 @@ tags:
   - risk-management
   - rading-strategies
   - ai-trading
+  - behavioral-finance
 pubDate: 2026-11-05
 status: draft
 imageSource: original
