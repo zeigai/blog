@@ -8,6 +8,7 @@ tags:
   - trading-psychology
   - information-overload
   - trading-decisions
+  - market-analysis
 pubDate: 2026-11-05
 status: draft
 imageSource: original
