@@ -16,6 +16,8 @@ tags:
   - zeig
 pubDate: 2026-11-05
 status: draft
+coverImage: /blog/Untitled (1200 x 630 px)-10.png
+coverImageAlt: Financial market data panels converging into a clearer trading decision.
 imageSource: original
 imageApproved: true
 author: chloe
