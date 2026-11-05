@@ -34,3 +34,13 @@ Football forecasters. In 2008, Claire Tsai, Joshua Klayman and Reid Hastie found
 
 Real trading accounts. Brad Barber and Terrance Odean studied 66,465 households at a discount broker from 1991 to 1996. Those who traded most earned 11.4% a year, against 17,9% for the market. Their picks weren't the main problem, the trading was, which the authors put down to overconfidence. 
 
+Four ways too much data hurts 
+
+Noise drowns out signal. Most daily moves and headlines mean little. The more feeds you watch, the more noise you react to, and the easier it is to miss the one move that matters. 
+
+Signal contradict each other. Add enough indicators and some will always disagree. You end up picking the one that agrees with what you already wanted: confirmation bias with extra steps. 
+
+Decisions slow down. With more to weigh, it takes longer to act. Waiting for one more confirmation means missing the planned entry, then chasing a worse one. This is often called analysis paralysis. 
+
+Confidence outruns accuracy. Feeling well-informed leads traders to size up, widen stops or trade more often. More risk on the same accuracy is a poor trade-off. 
+
