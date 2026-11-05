@@ -60,3 +60,14 @@ Treat sudden certainty as a warning. Feeling very sure after an hour of scrollin
 
 Review your own traders. Your results show which inputs actually helped you. Drop the ones that didn't. 
 
+Where Zeig fits 
+
+Zeig was built around this problem. Instead of adding another screen, it gathers and sorts the data, then gives you one clear read. 
+
+The insider tracks 55,000 data points globally in real time, rates each headline's impact and lets you debate whether it's tradeable.
+
+The Analyst combines technicals, news and sentiment into one answer. 
+
+The Psych and Risk Manager tackle the habits and overconfidence that too much data feeds. 
+
+ 
