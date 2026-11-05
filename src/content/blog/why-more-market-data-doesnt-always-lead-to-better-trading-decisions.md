@@ -20,3 +20,17 @@ imageSource: original
 imageApproved: true
 author: chloe
 ---
+More data makes traders more confident, but not reliably more accurate. Past a few inputs that matter, extra charts, indicators and headlines mostly add noise, and the gap between how sure you feel and how right you are widens. 
+
+Picture three monitors, a dozens indicators, two news feeds and a group chat. It feels like an edge. In practice it often means conflicting signals, slower decisions and bigger positions taken with false certainty. Here is what the research says, why it happens, and what to do instead. 
+
+What the research says 
+
+Across decades of studies, more information raises confidence faster than accuracy. 
+
+Horse-racing handicappers. Psychologist Paul Slovic gave eight expert handicappers 5, 10, 20 and then 40 pieces of information per horse. On average they were as accurate with 5 as with 40, yet every one grew more confident. The extra data didn't make them better forecasters, it made them surer of themselves. 
+
+Football forecasters. In 2008, Claire Tsai, Joshua Klayman and Reid Hastie found the same with people predicting American football results: confidence rose more than accuracy as information grew. 
+
+Real trading accounts. Brad Barber and Terrance Odean studied 66,465 households at a discount broker from 1991 to 1996. Those who traded most earned 11.4% a year, against 17,9% for the market. Their picks weren't the main problem, the trading was, which the authors put down to overconfidence. 
+
