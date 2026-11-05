@@ -11,6 +11,7 @@ tags:
   - market-analysis
   - risk-management
   - rading-strategies
+  - ai-trading
 pubDate: 2026-11-05
 status: draft
 imageSource: original
