@@ -7,6 +7,7 @@ category: market-analysis
 tags:
   - Zeig AI
   - trading strategies
+  - risk-to-reward ratio
 pubDate: 2026-11-12
 status: draft
 imageSource: original
