@@ -9,6 +9,7 @@ tags:
   - trading strategies
   - risk-to-reward ratio
   - risk management
+  - trading risk
 pubDate: 2026-11-12
 status: draft
 imageSource: original
