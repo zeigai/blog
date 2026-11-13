@@ -28,3 +28,11 @@ The search for the perfect entry assumes that enough analysis can make an outcom
 
 These figures highlight the risks associated with leveraged trading. Leverage can amplify losses, while excessive position sizes and poor risk controls can make it difficult to recover from adverse market movements. A promising idea is not enough without a clear view of how much capital is at risk. 
 
+The maths of losing 
+
+Losses and gains are not symmetrical. A 10% loss needs an 11% gain to recover. A 25% loss needs 33%. A 50% loss needs 100%. 
+
+Consider a hypothetical strategy where each winning trade earns two units and each losing trade costs one. Across ten traders, four wins would generate eight units, while six losses would cost six. The result would be a net gain of two units before trading costs. 
+
+This illustrates why win rate alone does not determine profitability. The relationship between average gains and average losses matters too. In practice, actual outcomes may differ from planned targets and stop-loss levels. 
+
