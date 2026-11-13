@@ -56,4 +56,10 @@ Although these studies focused on stock investors, they illustrate behavioural t
 
 Where Zeig fits
 
-Traders also need to understand the risks within their own behaviour. Zeig's Risk Manager helps traders
+Traders also need to understand the risks within their own behaviour. Zeig's Risk Manager helps traders examine their performance through structured analysis. By reviewing profit and loss, win rate, profit factor, equity and drawdowns, and consistency by day, symbol and trade, traders gain a clearer picture of how their decisions affect their results. Monte Carlo simulations based on their trading history help them explore a range of possible outcomes. 
+
+It does not predict the market. It helps traders understand how they respond to it. 
+
+The bottom line. 
+
+The perfect 
