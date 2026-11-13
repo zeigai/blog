@@ -62,4 +62,9 @@ It does not predict the market. It helps traders understand how they respond to 
 
 The bottom line. 
 
-The perfect 
+The perfect trade does not exist, and a high win rate means little if a handful of losses erase the gains. 
+
+Effective risk managements starts before a position is opened: understanding potential losses, choosing an appropriate size and following a consistent process. The goal is not simply to be right more often. It is to manage the consequences of being wrong. 
+
+Better analysis helps traders understand opportunities. Better risk management helps them understand what is at stake. 
+
