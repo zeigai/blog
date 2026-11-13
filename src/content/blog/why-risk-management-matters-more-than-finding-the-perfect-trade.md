@@ -48,4 +48,12 @@ Major economic announcements, including inflation reports and central bank decis
 
 Why it is so hard in practice 
 
-Behavioural finance helps explain why these principles are so often ignored. In their work on prospect theory, Daniel Kahneman and Amos Tversky showed that losses are felt more strongly than gains of the same size, and that people tend to take more risk once they already losing 
+Behavioural finance helps explain why these principles are so often ignored. In their work on prospect theory, Daniel Kahneman and Amos Tversky showed that losses are felt more strongly than gains of the same size, and that people tend to take more risk once they are already losing. 
+
+Research into investor behavioural reveals similar patterns. In a study of 10,000 brokerages accounts, Terrance Odean found that investors were more inclined to sell winning investments than losing ones, a behaviour known as the disposition effect. In separate research on 66,465 households between 1991 and 1996, Brad Barber and Terrance Odean found that those who traded most earned 11,4% a year, against 17,9% for the market, with frequent trading and its costs driving the gap. 
+
+Although these studies focused on stock investors, they illustrate behavioural tendencies relevant to trading decisions more broadly. 
+
+Where Zeig fits
+
+Traders also need to understand the risks within their own behaviour. Zeig's Risk Manager helps traders
