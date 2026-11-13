@@ -12,6 +12,8 @@ tags:
   - trading risk
 pubDate: 2026-11-12
 status: draft
+coverImage: /blog/Untitled (1200 x 630 px)-12.png
+coverImageAlt: "cover image illustration "
 imageSource: original
 imageApproved: true
 author: chloe
