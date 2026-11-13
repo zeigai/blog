@@ -40,3 +40,10 @@ Where risk is really decided
 
 Imagine two traders taking the same position on the same signal. One risks 1% of their account, with a stop-loss set before entry. The other feels confident and risks 10%. If the trade fails, the first has an ordinary losing day. The second has a drawdown that could take months to repair. 
 
+One commonly discussed approach is to limit the planned risk on a single trade to a small percentage of account equity, such as 1-2%. The appropriate amount depends on the trader's strategy, financial circumstances, use of leverage and tolerance for risk. 
+
+Importantly, a stop-loss does not guarantee that a positions will close at the intended price. During periods of high volatility or low liquidity, slippage can result in losses greater than planned. 
+
+Major economic announcements, including inflation reports and central bank decisions, can trigger rapid price movements. Reducing position sizes, reassessing exposure or choosing not to trade around these events are among the ways traders may manage event-related risk. 
+
+Why it is so hard in practice 
