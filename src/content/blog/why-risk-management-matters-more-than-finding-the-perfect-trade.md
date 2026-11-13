@@ -36,3 +36,7 @@ Consider a hypothetical strategy where each winning trade earns two units and ea
 
 This illustrates why win rate alone does not determine profitability. The relationship between average gains and average losses matters too. In practice, actual outcomes may differ from planned targets and stop-loss levels. 
 
+Where risk is really decided 
+
+Imagine two traders taking the same position on the same signal. One risks 1% of their account, with a stop-loss set before entry. The other feels confident and risks 10%. If the trade fails, the first has an ordinary losing day. The second has a drawdown that could take months to repair. 
+
