@@ -70,13 +70,13 @@ Better analysis helps traders understand opportunities. Better risk management h
 
 **Sources** 
 
-- European Securities and Markets Authority, ++[ESMA agrees to prohibit binary options and restrict CFDs to protect retail investors](https://www.esma.europa.eu/node/84933)++, 27 March 2018 
+- European Securities and Markets Authority, [ESMA agrees to prohibit binary options and restrict CFDs to protect retail investors](https://www.esma.europa.eu/node/84933), 27 March 2018 
 
-- Daniel Kahneman and Amos Tversky, ++[Prospect Theory: An Analysis of Decision under Risk](https://stafforini.com/works/kahneman-1979-prospect-theory-analysis/)++, Econometrica, 1979 
+- Daniel Kahneman and Amos Tversky, [Prospect Theory: An Analysis of Decision under Risk](https://stafforini.com/works/kahneman-1979-prospect-theory-analysis/), Econometrica, 1979 
 
-- Terrance Odean, ++[Are Investors Reluctant to Realize Their Losses?](https://faculty.haas.berkeley.edu/odean/papers/disposition/disposition.html)++, Journal of Finance, 1998 
+- Terrance Odean, [Are Investors Reluctant to Realize Their Losses?](https://faculty.haas.berkeley.edu/odean/papers/disposition/disposition.html), Journal of Finance, 1998 
 
-- Brad M. Barber and Terrance Odean, ++[Trading Is Hazardous to Your Wealth](https://faculty.haas.berkeley.edu/odean/Papers%20current%20versions/Individual_Investor_Performance_Final.pdf)++, Journal of Finance, 2000 
+- Brad M. Barber and Terrance Odean, [Trading Is Hazardous to Your Wealth](https://faculty.haas.berkeley.edu/odean/Papers%20current%20versions/Individual_Investor_Performance_Final.pdf), Journal of Finance, 2000 
 
 
 
