@@ -20,4 +20,8 @@ Ask more traders what separates winners from losers, and they will talk about en
 
 Economic announcements, geopolitical developments and sudden shifts in sentiment can move prices sharply, even when a setup looks promising. 
 
-A trader cannon eliminate 
+A trader cannot eliminate uncertainty or guarantee the outcome of a position. What they can do is define their risk before entering a trade, manage their exposure and prepare for possibility of being wrong. The aim is to ensure that no single trade puts the entire account at risk. 
+
+Why the perfect trade is the wrong goal 
+
+The search for the perfect entry assumes that enough analysis can make an outcome certain. It cannot. Even a strong setup is a probability, not a promise. When the European Securities and Markets Authority (ESMA) reviewed retail CDF trading across the EU, it found that 74-89% of retail accounts typically lost money, with average losses per ranging from 
