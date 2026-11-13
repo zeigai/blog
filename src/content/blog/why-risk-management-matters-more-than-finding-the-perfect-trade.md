@@ -24,4 +24,7 @@ A trader cannot eliminate uncertainty or guarantee the outcome of a position. Wh
 
 Why the perfect trade is the wrong goal 
 
-The search for the perfect entry assumes that enough analysis can make an outcome certain. It cannot. Even a strong setup is a probability, not a promise. When the European Securities and Markets Authority (ESMA) reviewed retail CDF trading across the EU, it found that 74-89% of retail accounts typically lost money, with average losses per ranging from 
+The search for the perfect entry assumes that enough analysis can make an outcome certain. It cannot. Even a strong setup is a probability, not a promise. When the European Securities and Markets Authority (ESMA) reviewed retail CDF trading across the EU, it found that 74-89% of retail accounts typically lost money, with average losses per ranging from €1,600 to €29,000. 
+
+These figures highlight the risks associated with leveraged trading. Leverage can amplify losses, while excessive position sizes and poor risk controls can make it difficult to recover from adverse market movements. A promising idea is not enough without a clear view of how much capital is at risk. 
+
