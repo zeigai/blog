@@ -47,3 +47,5 @@ Importantly, a stop-loss does not guarantee that a positions will close at the i
 Major economic announcements, including inflation reports and central bank decisions, can trigger rapid price movements. Reducing position sizes, reassessing exposure or choosing not to trade around these events are among the ways traders may manage event-related risk. 
 
 Why it is so hard in practice 
+
+Behavioural finance helps explain why these principles are so often ignored. In their work on prospect theory, Daniel Kahneman and Amos Tversky showed that losses are felt more strongly than gains of the same size, and that people tend to take more risk once they already losing 
