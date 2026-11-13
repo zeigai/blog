@@ -12,7 +12,7 @@ tags:
   - trading risk
 pubDate: 2026-11-12
 status: published
-coverImage: /blog/Untitled (1200 x 630 px)-12.png
+coverImage: /blog/Untitled (1200 x 630 px)-13.png
 coverImageAlt: "cover image illustration "
 imageSource: original
 imageApproved: true
