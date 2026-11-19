@@ -15,6 +15,7 @@ tags:
   - Trader Engagement
   - Broker Retention
   - Trading Intelligence
+  - Fintech
 pubDate: 2026-11-19
 status: draft
 imageSource: original
