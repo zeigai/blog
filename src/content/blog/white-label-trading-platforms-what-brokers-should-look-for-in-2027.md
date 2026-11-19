@@ -9,6 +9,7 @@ tags:
   - White-Label Brokerage Solutions
   - AI Trading Platforms
   - AI for Brokers
+  - Broker Technology
 pubDate: 2026-11-19
 status: draft
 imageSource: original
