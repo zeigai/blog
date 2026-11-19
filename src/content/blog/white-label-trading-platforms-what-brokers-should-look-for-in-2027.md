@@ -6,6 +6,7 @@ description: Discover what brokers should look for in white-label trading
 category: market-analysis
 tags:
   - White-Label Trading Platforms
+  - White-Label Brokerage Solutions
 pubDate: 2026-11-19
 status: draft
 imageSource: original
