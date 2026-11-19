@@ -69,6 +69,11 @@ Inside your platform, traders work with a team of specialised AI agents and ask 
 
 You set the branding, the markets covered, the tone of answers, whether trade setups are shown and the disclaimer on every response. Zeig provides analysis, not investment advice. A dedicated admin area shows active traders and which agents they use, giving your team a clear view of engagement. 
 
+The bottom line 
 
+The right white-label partner should strengthen your brand, fit your infrastructure, respect your compliance obligations and give your team visibility. Evaluate providers on those terms, not on features alone. 
 
-&nbsp;
+*Zeig provides market analysis tools and does not provide investment advice. Trading leveraged products carries a high risk of loss.* 
+
+*MetaTrader and cTrader are trademarks of their respective owners.* 
+
