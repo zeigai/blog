@@ -14,6 +14,7 @@ tags:
   - MetaTrader and cTrader
   - Trader Engagement
   - Broker Retention
+  - Trading Intelligence
 pubDate: 2026-11-19
 status: draft
 imageSource: original
