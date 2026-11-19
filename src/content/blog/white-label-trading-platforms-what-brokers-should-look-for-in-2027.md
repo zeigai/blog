@@ -12,6 +12,7 @@ tags:
   - Broker Technology
   - Trading Platform Integration
   - MetaTrader and cTrader
+  - Trader Engagement
 pubDate: 2026-11-19
 status: draft
 imageSource: original
