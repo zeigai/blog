@@ -19,6 +19,7 @@ tags:
   - ZeigAI
 pubDate: 2026-11-19
 status: draft
+coverImage: /blog/Untitled (1200 x 630 px)-14.png
 imageSource: original
 imageApproved: true
 author: chloe
