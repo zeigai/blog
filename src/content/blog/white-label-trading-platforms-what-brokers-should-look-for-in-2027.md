@@ -61,6 +61,14 @@ What support and service levels apply after launch?
 
 Can you see a demo in your own branding before committing? 
 
+Where Zeig fits 
+
+Zeig is an AI-native intelligence layer that brokers offer under their own brand. It is designed to work alongside MetaTrader and cTrader, so you can add research and context for your traders without migrating platforms. 
+
+Inside your platform, traders work with a team of specialised AI agents and ask questions in plain language. The Analyst combines technical analysis, news and sentiment into one view. The insider monitors around 55,000 news and data points in real time, so traders can follow market-moving headlines without leaving for outside sites. The Psych and the Risk Manager help traders review their behaviour, drawdowns and consistency. 
+
+You set the branding, the markets covered, the tone of answers, whether trade setups are shown and the disclaimer on every response. Zeig provides analysis, not investment advice. A dedicated admin area shows active traders and which agents they use, giving your team a clear view of engagement. 
+
 
 
 &nbsp;
