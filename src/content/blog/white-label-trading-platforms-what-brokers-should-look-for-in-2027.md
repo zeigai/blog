@@ -16,6 +16,7 @@ tags:
   - Broker Retention
   - Trading Intelligence
   - Fintech
+  - Zeig AI
 pubDate: 2026-11-19
 status: draft
 imageSource: original
