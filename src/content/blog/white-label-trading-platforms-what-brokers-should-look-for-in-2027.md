@@ -47,5 +47,8 @@ A solution your team cannot measure is hard to justify. Look for reporting on ac
 
 Build or partner 
 
-Building in-house offers full control, but it requires specialist talent, data licences, ongoing maintenance, compliance oversight and time. MIT's 2025 report The GenAI Divide: State of AI in Business found that AI tools bought from specialised vendors or developed through partnerships succeeded about 67% of the time, while internal builds succeeded roughly a third as often. 
+Building in-house offers full control, but it requires specialist talent, data licences, ongoing maintenance, compliance oversight and time. MIT's 2025 report The GenAI Divide: State of AI in Business found that AI tools bought from specialised vendors or developed through partnerships succeeded about 67% of the time, while internal builds succeeded roughly a third as often. The study covered business across sectors rather than brokers specifically, but it is a useful reference point. 
 
+
+
+&nbsp;
