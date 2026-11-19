@@ -73,7 +73,7 @@ The right white-label partner should strengthen your brand, fit your infrastruct
 
 *MetaTrader and cTrader are trademarks of their respective owners.* 
 
-## Sources
+## **Sources**
 
 - European Securities and Markets Authority, [Public Statement on the use of Artificial Intelligence in the provision of retail investment services](https://www.esma.europa.eu/node/209062), 30 May 2024
 - MIT NANDA, *The GenAI Divide: State of AI in Business 2025*, as reported by [Fortune](https://fortune.com/2025/08/18/mit-report-95-percent-generative-ai-pilots-at-companies-failing-cfo/), 18 August 2025
