@@ -18,7 +18,7 @@ tags:
   - Fintech
   - ZeigAI
 pubDate: 2026-11-19
-status: draft
+status: published
 coverImage: /blog/Untitled (1200 x 630 px)-14.png
 coverImageAlt: White-label trading platform with AI analysis, broker
   integration, compliance and trader engagement features.
