@@ -20,6 +20,8 @@ tags:
 pubDate: 2026-11-19
 status: draft
 coverImage: /blog/Untitled (1200 x 630 px)-14.png
+coverImageAlt: White-label trading platform with AI analysis, broker
+  integration, compliance and trader engagement features.
 imageSource: original
 imageApproved: true
 author: chloe
