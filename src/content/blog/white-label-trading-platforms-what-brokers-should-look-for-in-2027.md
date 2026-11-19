@@ -11,6 +11,7 @@ tags:
   - AI for Brokers
   - Broker Technology
   - Trading Platform Integration
+  - MetaTrader and cTrader
 pubDate: 2026-11-19
 status: draft
 imageSource: original
