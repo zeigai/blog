@@ -49,6 +49,18 @@ Build or partner
 
 Building in-house offers full control, but it requires specialist talent, data licences, ongoing maintenance, compliance oversight and time. MIT's 2025 report The GenAI Divide: State of AI in Business found that AI tools bought from specialised vendors or developed through partnerships succeeded about 67% of the time, while internal builds succeeded roughly a third as often. The study covered business across sectors rather than brokers specifically, but it is a useful reference point. 
 
+Questions to ask any provider 
+
+How is trader data stored and protected, and how does the provider meet GDPR requirements? 
+
+Who is responsible If the AI produces an inaccurate answer, and how are issues handled? 
+
+How does pricing change as your trader base grows? 
+
+What support and service levels apply after launch? 
+
+Can you see a demo in your own branding before committing? 
+
 
 
 &nbsp;
