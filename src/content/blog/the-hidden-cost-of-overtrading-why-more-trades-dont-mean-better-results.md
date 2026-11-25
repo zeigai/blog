@@ -76,6 +76,8 @@ The objective is not simply to trade less, but to trade with greater discipline,
 
 In trading, activity should never be mistaken for progress. 
 
+Zeig provides market analysis tools and does not provide investment advice. Trading leveraged products carries a high risk of loss. 
+
 
 
 &nbsp;
