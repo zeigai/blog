@@ -11,6 +11,7 @@ tags:
   - Trading-Discipline
   - AI-Trading
   - Trading-Strategy
+  - Trader-Behaviour
 pubDate: 2026-11-25
 status: draft
 imageSource: original
