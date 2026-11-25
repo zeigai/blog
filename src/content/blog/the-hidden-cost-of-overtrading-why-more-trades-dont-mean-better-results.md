@@ -31,7 +31,7 @@ Every trade carries a cost, even when it is not obvious. Depending on the market
 
 On a single trade, these costs can look small. Across many traders, however, they accumulate and can significantly reduce net returns. Consider a hypothetical trader who pays a total of $50 daily, or around $1,000 over twenty trading days, before a single price movement is taken into account. The strategy must earn back those costs before it makes anything at all. 
 
-What the research says
+## **What the research says**
 
 In a study of 66,465 households at a US discount broker between 1991 and 1996, Brad Barber and Terrance Odean found that the households that traded most earned 11.4% a year, against 17.9% for the market. Frequent trading and its costs were the main reason for the gap. 
 
@@ -41,12 +41,39 @@ Fernando Chague, Rodrigo De-Losso and Bruno Giovanneti studied individuals who b
 
 These studies looked at specific markets and periods, not every trader. But together they show a consistent pattern: more trading does not reliably lead to better results, and often leads to worse ones. 
 
-Why traders overtrade 
+## **Why traders overtrade** 
 
 Overtrading rarely starts as a plan. It usually grows from a few familiar pressures. 
 
 Overconfidence Is one. After a few successful trades, it is easy to believe every setup is worth taking. Boredom is another: quiet markets can make traders force positions that do not meet their own criteria. Losses can also trigger more trading, as traders try to win money back quickly. And a constant stream of headlines and price alerts can make every small move feel like a signal that demands action. 
 
+## **How to spot it** 
 
+A few questions can help: 
+
+- Are you trading more often after a loss or a winning streak? 
+- Do many of your trades fall outside your usual strategy or plan? 
+- Are trading costs a large share of your results? 
+- Do your results get worse as the number of trades in a day or week increases? 
+
+Trading less, but better
+
+Define the setups you trade before the session starts, and skip anything that does not meet them. Set a maximum number of trades or a maximum loss for the day. Include costs when you judge a strategy, not just wins and losses. And review your history regularly to see which trades actually added value. 
+
+Where Zeig fits 
+
+Zeig's Risk Manager helps traders examine their trading history, including performance, drawdowns and consistency across different days, instruments and individual trades. This can help traders identify recurring patterns, such as increased trading activity following losses. 
+
+The Psych complements this analysis by helping traders reflect on the behavioural habits behind their decisions. 
+
+Together, these perspectives support a more structured review of trading behaviour, while keeping every trading decision in the trader's hands. 
+
+The bottom line 
+
+A busy trading day is not the same as a productive one. Each trade carries costs and risks, and research shows that trading more frequently does not reliably improve results. 
+
+
+
+&nbsp;
 
 &nbsp;
