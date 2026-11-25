@@ -43,3 +43,10 @@ These studies looked at specific markets and periods, not every trader. But toge
 
 Why traders overtrade 
 
+Overtrading rarely starts as a plan. It usually grows from a few familiar pressures. 
+
+Overconfidence Is one. After a few successful trades, it is easy to believe every setup is worth taking. Boredom is another: quiet markets can make traders force positions that do not meet their own criteria. Losses can also trigger more trading, as traders try to win money back quickly. And a constant stream of headlines and price alerts can make every small move feel like a signal that demands action. 
+
+
+
+&nbsp;
