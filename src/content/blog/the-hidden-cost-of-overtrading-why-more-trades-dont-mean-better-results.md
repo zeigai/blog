@@ -6,6 +6,7 @@ description: Discover the hidden costs of overtrading, why excessive trading can
 category: market-analysis
 tags:
   - Overtrading
+  - TradingPsychology
 pubDate: 2026-11-25
 status: draft
 imageSource: original
