@@ -31,3 +31,16 @@ Every trade carries a cost, even when it is not obvious. Depending on the market
 
 On a single trade, these costs can look small. Across many traders, however, they accumulate and can significantly reduce net returns. Consider a hypothetical trader who pays a total of $50 daily, or around $1,000 over twenty trading days, before a single price movement is taken into account. The strategy must earn back those costs before it makes anything at all. 
 
+What the research says
+
+In a study of 66,465 households at a US discount broker between 1991 and 1996, Brad Barber and Terrance Odean found that the households that traded most earned 11.4% a year, against 17.9% for the market. Frequent trading and its costs were the main reason for the gap. 
+
+In a follow-up study of more than 35,000 households, Barber and Odean examined the relationship between overconfidence and trading behaviour. Men traded 45% more than women, with trading reducing their annual net returns by 2.65 percentage points, compared with 1.72 percentage points for women. The findings were consistent with the researchers' hypothesis that overconfidence can contribute to excessive trading. 
+
+Fernando Chague, Rodrigo De-Losso and Bruno Giovanneti studied individuals who began day trading in Brazil's equity futures market between 2013 and 2015 and kept going for at least 300 days. Of these traders, 97% lost money, and the researches found no evidence that traders improved with experience. 
+
+These studies looked at specific markets and periods, not every trader. But together they show a consistent pattern: more trading does not reliably lead to better results, and often leads to worse ones. 
+
+
+
+&nbsp;
