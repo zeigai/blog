@@ -41,6 +41,5 @@ Fernando Chague, Rodrigo De-Losso and Bruno Giovanneti studied individuals who b
 
 These studies looked at specific markets and periods, not every trader. But together they show a consistent pattern: more trading does not reliably lead to better results, and often leads to worse ones. 
 
+Why traders overtrade 
 
-
-&nbsp;
