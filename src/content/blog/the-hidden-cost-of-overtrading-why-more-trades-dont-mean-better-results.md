@@ -56,11 +56,11 @@ A few questions can help:
 - Are trading costs a large share of your results? 
 - Do your results get worse as the number of trades in a day or week increases? 
 
-Trading less, but better
+## **Trading less, but better**
 
 Define the setups you trade before the session starts, and skip anything that does not meet them. Set a maximum number of trades or a maximum loss for the day. Include costs when you judge a strategy, not just wins and losses. And review your history regularly to see which trades actually added value. 
 
-Where Zeig fits 
+## **Where Zeig fits** 
 
 Zeig's Risk Manager helps traders examine their trading history, including performance, drawdowns and consistency across different days, instruments and individual trades. This can help traders identify recurring patterns, such as increased trading activity following losses. 
 
@@ -68,7 +68,7 @@ The Psych complements this analysis by helping traders reflect on the behavioura
 
 Together, these perspectives support a more structured review of trading behaviour, while keeping every trading decision in the trader's hands. 
 
-The bottom line 
+## **The bottom line** 
 
 A busy trading day is not the same as a productive one. Each trade carries costs and risks, and research shows that trading more frequently does not reliably improve results. 
 
@@ -76,10 +76,14 @@ The objective is not simply to trade less, but to trade with greater discipline,
 
 In trading, activity should never be mistaken for progress. 
 
-Zeig provides market analysis tools and does not provide investment advice. Trading leveraged products carries a high risk of loss. 
+*Zeig provides market analysis tools and does not provide investment advice. Trading leveraged products carries a high risk of loss.* 
+
+**Sources**
+
+- Brad M. Barber and Terrance Odean, [Trading Is Hazardous to Your Wealth](https://faculty.haas.berkeley.edu/odean/Papers%20current%20versions/Individual_Investor_Performance_Final.pdf), Journal of Finance, 2000
+- Brad M. Barber and Terrance Odean, [Boys Will Be Boys: Gender, Overconfidence, and Common Stock Investment](https://econpapers.repec.org/RePEc:oup:qjecon:v:116:y:2001:i:1:p:261-292.), Quarterly Journal of Economics, 2001
+- Fernando Chague, Rodrigo De-Losso and Bruno Giovannetti, [Day Trading for a Living?](https://repositorio.fgv.br/items/e87d04fc-4b4c-4a56-ab5a-1c84c1afde1b), FGV EESP, 2020
 
 
-
-&nbsp;
 
 &nbsp;
