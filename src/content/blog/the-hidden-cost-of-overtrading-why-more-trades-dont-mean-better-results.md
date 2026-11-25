@@ -12,6 +12,7 @@ tags:
   - AI-Trading
   - Trading-Strategy
   - Trader-Behaviour
+  - ZeigAI
 pubDate: 2026-11-25
 status: draft
 imageSource: original
