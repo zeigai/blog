@@ -8,6 +8,7 @@ tags:
   - Overtrading
   - Trading-Psychology
   - Risk-Management
+  - Trading-Discipline
 pubDate: 2026-11-25
 status: draft
 imageSource: original
