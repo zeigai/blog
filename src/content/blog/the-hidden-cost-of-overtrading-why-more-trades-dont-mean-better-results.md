@@ -72,6 +72,10 @@ The bottom line
 
 A busy trading day is not the same as a productive one. Each trade carries costs and risks, and research shows that trading more frequently does not reliably improve results. 
 
+The objective is not simply to trade less, but to trade with greater discipline, a clear rationale and a better understanding of costs and risk. 
+
+In trading, activity should never be mistaken for progress. 
+
 
 
 &nbsp;
