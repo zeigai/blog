@@ -15,6 +15,10 @@ tags:
   - ZeigAI
 pubDate: 2026-11-25
 status: draft
+coverImage: /blog/Untitled (1200 x 630 px)-16.png
+coverImageAlt: Zeig.ai article cover illustrating the hidden costs of
+  overtrading, excessive trading activity and the importance of trading
+  discipline and risk management
 imageSource: original
 imageApproved: true
 author: chloe
